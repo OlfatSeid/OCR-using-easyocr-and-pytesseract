@@ -1,0 +1,277 @@
+[
+    {
+        "word": "محمًد وعلى آل",
+        "confidence": 0.3263193506007513,
+        "bounding_box": {
+            "left": 478,
+            "top": 897,
+            "right": 1260,
+            "bottom": 1082
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_1.png"
+    },
+    {
+        "word": "صل",
+        "confidence": 0.6231502369172194,
+        "bounding_box": {
+            "left": 1505,
+            "top": 908,
+            "right": 1759,
+            "bottom": 1071
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_2.png"
+    },
+    {
+        "word": "محمد",
+        "confidence": 0.4529022733617122,
+        "bounding_box": {
+            "left": 1095,
+            "top": 1101,
+            "right": 1393,
+            "bottom": 1245
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_3.png"
+    },
+    {
+        "word": "آل",
+        "confidence": 0.9418729356461198,
+        "bounding_box": {
+            "left": 419,
+            "top": 1274,
+            "right": 556,
+            "bottom": 1444
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_4.png"
+    },
+    {
+        "word": "إبراهيم و",
+        "confidence": 0.30725640472258975,
+        "bounding_box": {
+            "left": 777,
+            "top": 1281,
+            "right": 1270,
+            "bottom": 1465
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_5.png"
+    },
+    {
+        "word": "كمًا صلًيت",
+        "confidence": 0.21773992933617192,
+        "bounding_box": {
+            "left": 1508,
+            "top": 1241,
+            "right": 2083,
+            "bottom": 1447
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_6.png"
+    },
+    {
+        "word": "إبر ا هيم",
+        "confidence": 0.3729266914598718,
+        "bounding_box": {
+            "left": 1037,
+            "top": 1470,
+            "right": 1435,
+            "bottom": 1651
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_7.png"
+    },
+    {
+        "word": "إنًك حميد مجيد",
+        "confidence": 0.24542769691914168,
+        "bounding_box": {
+            "left": 827,
+            "top": 1610,
+            "right": 1610,
+            "bottom": 1828
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_8.png"
+    },
+    {
+        "word": "آل",
+        "confidence": 0.9729272608615125,
+        "bounding_box": {
+            "left": 438,
+            "top": 1825,
+            "right": 578,
+            "bottom": 1987
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_9.png"
+    },
+    {
+        "word": "محمًد و",
+        "confidence": 0.2598007629658763,
+        "bounding_box": {
+            "left": 804,
+            "top": 1838,
+            "right": 1256,
+            "bottom": 1985
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_10.png"
+    },
+    {
+        "word": "محمًد",
+        "confidence": 0.3179004746168283,
+        "bounding_box": {
+            "left": 1096,
+            "top": 2017,
+            "right": 1389,
+            "bottom": 2157
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_11.png"
+    },
+    {
+        "word": "كمًا بارت على إبراهيم وعلى آل",
+        "confidence": 0.419168105575662,
+        "bounding_box": {
+            "left": 402,
+            "top": 2173,
+            "right": 2088,
+            "bottom": 2380
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_12.png"
+    },
+    {
+        "word": "إبر ا هيم",
+        "confidence": 0.46303732613096166,
+        "bounding_box": {
+            "left": 1032,
+            "top": 2382,
+            "right": 1431,
+            "bottom": 2565
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_13.png"
+    },
+    {
+        "word": "إنك حميد مجيد",
+        "confidence": 0.34516103494343287,
+        "bounding_box": {
+            "left": 828,
+            "top": 2546,
+            "right": 1599,
+            "bottom": 2735
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_14.png"
+    },
+    {
+        "word": "٤",
+        "confidence": 0.14241675425843425,
+        "bounding_box": {
+            "left": 1546,
+            "top": 2690,
+            "right": 1575,
+            "bottom": 2732
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_15.png"
+    },
+    {
+        "word": "قق ص:",
+        "confidence": 0.02458205432803027,
+        "bounding_box": {
+            "left": 1482,
+            "top": 3185,
+            "right": 1741,
+            "bottom": 3269
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_16.png"
+    },
+    {
+        "word": "6ش ",
+        "confidence": 0.024718978845089497,
+        "bounding_box": {
+            "left": 1763,
+            "top": 3185,
+            "right": 1986,
+            "bottom": 3263
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_17.png"
+    },
+    {
+        "word": "اللهم",
+        "confidence": 0.3970306553453617,
+        "bounding_box": {
+            "left": 1733,
+            "top": 855,
+            "right": 2019,
+            "bottom": 1111
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_18.png"
+    },
+    {
+        "word": "على",
+        "confidence": 0.7449339507968128,
+        "bounding_box": {
+            "left": 1244,
+            "top": 886,
+            "right": 1488,
+            "bottom": 1091
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_19.png"
+    },
+    {
+        "word": "عًلى",
+        "confidence": 0.6057186722755432,
+        "bounding_box": {
+            "left": 560,
+            "top": 1253,
+            "right": 804,
+            "bottom": 1459
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_20.png"
+    },
+    {
+        "word": "عًلى",
+        "confidence": 0.5873249377932119,
+        "bounding_box": {
+            "left": 1257,
+            "top": 1255,
+            "right": 1510,
+            "bottom": 1462
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_21.png"
+    },
+    {
+        "word": "اللًهمً",
+        "confidence": 0.37348522399322504,
+        "bounding_box": {
+            "left": 1767,
+            "top": 1764,
+            "right": 2060,
+            "bottom": 2031
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_22.png"
+    },
+    {
+        "word": "عًلى",
+        "confidence": 0.3009276431043059,
+        "bounding_box": {
+            "left": 1246,
+            "top": 1796,
+            "right": 1496,
+            "bottom": 2009
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_23.png"
+    },
+    {
+        "word": "عًلى",
+        "confidence": 0.4088258799767932,
+        "bounding_box": {
+            "left": 582,
+            "top": 1805,
+            "right": 825,
+            "bottom": 2007
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_24.png"
+    },
+    {
+        "word": "بارك",
+        "confidence": 0.9954138994216919,
+        "bounding_box": {
+            "left": 1486,
+            "top": 1805,
+            "right": 1820,
+            "bottom": 2030
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_25.png"
+    }
+]

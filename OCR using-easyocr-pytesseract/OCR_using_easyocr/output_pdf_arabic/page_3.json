@@ -1,0 +1,200 @@
+[
+    {
+        "word": "إنًا الحيقاةً قصي دةً أبيت اتهًا",
+        "confidence": 0.13280685892563004,
+        "bounding_box": {
+            "left": 356,
+            "top": 139,
+            "right": 2227,
+            "bottom": 417
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_1.png"
+    },
+    {
+        "word": "أعممارتا والموت فيها القافية",
+        "confidence": 0.24218987737040978,
+        "bounding_box": {
+            "left": 405,
+            "top": 392,
+            "right": 2151,
+            "bottom": 673
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_2.png"
+    },
+    {
+        "word": "أين القصعور الشتًامخات وأهلهًا",
+        "confidence": 0.15168247185970002,
+        "bounding_box": {
+            "left": 409,
+            "top": 903,
+            "right": 2180,
+            "bottom": 1181
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_3.png"
+    },
+    {
+        "word": "من باقية",
+        "confidence": 0.5997184754981171,
+        "bounding_box": {
+            "left": 434,
+            "top": 1198,
+            "right": 975,
+            "bottom": 1433
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_4.png"
+    },
+    {
+        "word": "الجميع فهًل",
+        "confidence": 0.24846835996460476,
+        "bounding_box": {
+            "left": 1205,
+            "top": 1171,
+            "right": 1929,
+            "bottom": 1448
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_5.png"
+    },
+    {
+        "word": "لوأنً خينًاً خًالد بيسن الورى",
+        "confidence": 0.2000710597703221,
+        "bounding_box": {
+            "left": 394,
+            "top": 1672,
+            "right": 2206,
+            "bottom": 1944
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_6.png"
+    },
+    {
+        "word": "مًا ماتً هارون وًمماتً معاوية",
+        "confidence": 0.17375043803876283,
+        "bounding_box": {
+            "left": 369,
+            "top": 1937,
+            "right": 2177,
+            "bottom": 2218
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_7.png"
+    },
+    {
+        "word": "اجتماحت الأيثام",
+        "confidence": 0.34316902901816754,
+        "bounding_box": {
+            "left": 1045,
+            "top": 2427,
+            "right": 2207,
+            "bottom": 2719
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_8.png"
+    },
+    {
+        "word": "خاوية",
+        "confidence": 0.7744869350948974,
+        "bounding_box": {
+            "left": 378,
+            "top": 2738,
+            "right": 750,
+            "bottom": 2971
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_9.png"
+    },
+    {
+        "word": "أعجتاز",
+        "confidence": 0.5040143142350232,
+        "bounding_box": {
+            "left": 1143,
+            "top": 2682,
+            "right": 1645,
+            "bottom": 2965
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_10.png"
+    },
+    {
+        "word": "إيلبا أبو",
+        "confidence": 0.5667242247493826,
+        "bounding_box": {
+            "left": 354,
+            "top": 3153,
+            "right": 683,
+            "bottom": 3313
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_11.png"
+    },
+    {
+        "word": "لهم",
+        "confidence": 0.75579498358648,
+        "bounding_box": {
+            "left": 960,
+            "top": 1181,
+            "right": 1219,
+            "bottom": 1450
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_12.png"
+    },
+    {
+        "word": "بًاد",
+        "confidence": 0.5810299849888888,
+        "bounding_box": {
+            "left": 1885,
+            "top": 1178,
+            "right": 2142,
+            "bottom": 1418
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_13.png"
+    },
+    {
+        "word": "أكرم",
+        "confidence": 0.8212519325651212,
+        "bounding_box": {
+            "left": 739,
+            "top": 2437,
+            "right": 1069,
+            "bottom": 2707
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_14.png"
+    },
+    {
+        "word": "أهلهًا",
+        "confidence": 0.7704909159209631,
+        "bounding_box": {
+            "left": 410,
+            "top": 2441,
+            "right": 747,
+            "bottom": 2705
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_15.png"
+    },
+    {
+        "word": "فكتأنهم",
+        "confidence": 0.5623210367967798,
+        "bounding_box": {
+            "left": 1613,
+            "top": 2656,
+            "right": 2176,
+            "bottom": 2961
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_16.png"
+    },
+    {
+        "word": "نخشل",
+        "confidence": 0.7012317180633545,
+        "bounding_box": {
+            "left": 753,
+            "top": 2705,
+            "right": 1175,
+            "bottom": 2966
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_17.png"
+    },
+    {
+        "word": "ماذي",
+        "confidence": 0.9696868062019348,
+        "bounding_box": {
+            "left": 109,
+            "top": 3144,
+            "right": 367,
+            "bottom": 3344
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_18.png"
+    }
+]

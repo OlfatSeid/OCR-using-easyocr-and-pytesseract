@@ -1,0 +1,904 @@
+[
+    {
+        "word": "Hobby",
+        "confidence": 0.999940077083224,
+        "bounding_box": {
+            "left": 1039,
+            "top": 122,
+            "right": 1514,
+            "bottom": 334
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_1.png"
+    },
+    {
+        "word": "Hobbies",
+        "confidence": 0.9966822369444537,
+        "bounding_box": {
+            "left": 149,
+            "top": 401,
+            "right": 604,
+            "bottom": 525
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_2.png"
+    },
+    {
+        "word": "are",
+        "confidence": 0.9999909838629265,
+        "bounding_box": {
+            "left": 707,
+            "top": 434,
+            "right": 899,
+            "bottom": 523
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_3.png"
+    },
+    {
+        "word": "like",
+        "confidence": 0.9942517876625061,
+        "bounding_box": {
+            "left": 998,
+            "top": 401,
+            "right": 1202,
+            "bottom": 525
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_4.png"
+    },
+    {
+        "word": "little",
+        "confidence": 0.9945799123210374,
+        "bounding_box": {
+            "left": 1297,
+            "top": 403,
+            "right": 1558,
+            "bottom": 525
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_5.png"
+    },
+    {
+        "word": "pockets",
+        "confidence": 0.9999758494201425,
+        "bounding_box": {
+            "left": 1649,
+            "top": 383,
+            "right": 2109,
+            "bottom": 560
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_6.png"
+    },
+    {
+        "word": "of",
+        "confidence": 0.9937554327131111,
+        "bounding_box": {
+            "left": 2197,
+            "top": 404,
+            "right": 2336,
+            "bottom": 521
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_7.png"
+    },
+    {
+        "word": "happiness",
+        "confidence": 0.992433522601471,
+        "bounding_box": {
+            "left": 138,
+            "top": 568,
+            "right": 717,
+            "bottom": 743
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_8.png"
+    },
+    {
+        "word": "in",
+        "confidence": 0.9000393788764459,
+        "bounding_box": {
+            "left": 836,
+            "top": 592,
+            "right": 948,
+            "bottom": 690
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_9.png"
+    },
+    {
+        "word": "our",
+        "confidence": 0.9944804492684688,
+        "bounding_box": {
+            "left": 1086,
+            "top": 604,
+            "right": 1279,
+            "bottom": 692
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_10.png"
+    },
+    {
+        "word": "lives.",
+        "confidence": 0.603302565535442,
+        "bounding_box": {
+            "left": 1395,
+            "top": 573,
+            "right": 1671,
+            "bottom": 710
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_11.png"
+    },
+    {
+        "word": "0",
+        "confidence": 0.14562947215441913,
+        "bounding_box": {
+            "left": 1652,
+            "top": 659,
+            "right": 1673,
+            "bottom": 683
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_12.png"
+    },
+    {
+        "word": "Mine",
+        "confidence": 0.9999828338623047,
+        "bounding_box": {
+            "left": 1824,
+            "top": 573,
+            "right": 2101,
+            "bottom": 695
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_13.png"
+    },
+    {
+        "word": "is",
+        "confidence": 0.9905346852296432,
+        "bounding_box": {
+            "left": 2228,
+            "top": 589,
+            "right": 2329,
+            "bottom": 690
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_14.png"
+    },
+    {
+        "word": "gardening:",
+        "confidence": 0.9496253072038582,
+        "bounding_box": {
+            "left": 142,
+            "top": 736,
+            "right": 756,
+            "bottom": 896
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_15.png"
+    },
+    {
+        "word": "1",
+        "confidence": 0.23165146515333745,
+        "bounding_box": {
+            "left": 816,
+            "top": 764,
+            "right": 852,
+            "bottom": 841
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_16.png"
+    },
+    {
+        "word": "find",
+        "confidence": 0.9995974898338318,
+        "bounding_box": {
+            "left": 924,
+            "top": 741,
+            "right": 1155,
+            "bottom": 865
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_17.png"
+    },
+    {
+        "word": "solace",
+        "confidence": 0.9998911792825956,
+        "bounding_box": {
+            "left": 1216,
+            "top": 744,
+            "right": 1590,
+            "bottom": 861
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_18.png"
+    },
+    {
+        "word": "in",
+        "confidence": 0.5966849692462741,
+        "bounding_box": {
+            "left": 1656,
+            "top": 759,
+            "right": 1765,
+            "bottom": 860
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_19.png"
+    },
+    {
+        "word": "nurturing",
+        "confidence": 0.9021692750132879,
+        "bounding_box": {
+            "left": 1827,
+            "top": 727,
+            "right": 2335,
+            "bottom": 896
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_20.png"
+    },
+    {
+        "word": "plants and watching them grow. There's",
+        "confidence": 0.7416145238088194,
+        "bounding_box": {
+            "left": 134,
+            "top": 887,
+            "right": 2336,
+            "bottom": 1067
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_21.png"
+    },
+    {
+        "word": "something magical about seeing",
+        "confidence": 0.9982222769035919,
+        "bounding_box": {
+            "left": 133,
+            "top": 1059,
+            "right": 1978,
+            "bottom": 1248
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_22.png"
+    },
+    {
+        "word": "a",
+        "confidence": 0.9997913946234718,
+        "bounding_box": {
+            "left": 2005,
+            "top": 1111,
+            "right": 2090,
+            "bottom": 1202
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_23.png"
+    },
+    {
+        "word": "tiny",
+        "confidence": 0.9996469604802309,
+        "bounding_box": {
+            "left": 2107,
+            "top": 1086,
+            "right": 2341,
+            "bottom": 1236
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_24.png"
+    },
+    {
+        "word": "seed transform",
+        "confidence": 0.9686608734970592,
+        "bounding_box": {
+            "left": 139,
+            "top": 1248,
+            "right": 983,
+            "bottom": 1374
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_25.png"
+    },
+    {
+        "word": "into",
+        "confidence": 0.9996904134750366,
+        "bounding_box": {
+            "left": 1014,
+            "top": 1264,
+            "right": 1238,
+            "bottom": 1367
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_26.png"
+    },
+    {
+        "word": "a",
+        "confidence": 0.2755762860843447,
+        "bounding_box": {
+            "left": 1276,
+            "top": 1282,
+            "right": 1357,
+            "bottom": 1365
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_27.png"
+    },
+    {
+        "word": "vibrant flower",
+        "confidence": 0.8654558229901433,
+        "bounding_box": {
+            "left": 1388,
+            "top": 1246,
+            "right": 2181,
+            "bottom": 1382
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_28.png"
+    },
+    {
+        "word": "or",
+        "confidence": 0.961958202229409,
+        "bounding_box": {
+            "left": 2205,
+            "top": 1282,
+            "right": 2336,
+            "bottom": 1371
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_29.png"
+    },
+    {
+        "word": "a",
+        "confidence": 0.9833336384660676,
+        "bounding_box": {
+            "left": 150,
+            "top": 1455,
+            "right": 230,
+            "bottom": 1535
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_30.png"
+    },
+    {
+        "word": "lush",
+        "confidence": 0.9290673991278396,
+        "bounding_box": {
+            "left": 288,
+            "top": 1421,
+            "right": 519,
+            "bottom": 1542
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_31.png"
+    },
+    {
+        "word": "vegetable.",
+        "confidence": 0.7270643216171202,
+        "bounding_box": {
+            "left": 559,
+            "top": 1401,
+            "right": 1153,
+            "bottom": 1587
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_32.png"
+    },
+    {
+        "word": "Digging",
+        "confidence": 0.9999705326627166,
+        "bounding_box": {
+            "left": 1220,
+            "top": 1417,
+            "right": 1673,
+            "bottom": 1590
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_33.png"
+    },
+    {
+        "word": "in",
+        "confidence": 0.969056393577218,
+        "bounding_box": {
+            "left": 1713,
+            "top": 1439,
+            "right": 1825,
+            "bottom": 1537
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_34.png"
+    },
+    {
+        "word": "the",
+        "confidence": 0.9999529234959179,
+        "bounding_box": {
+            "left": 1882,
+            "top": 1422,
+            "right": 2076,
+            "bottom": 1538
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_35.png"
+    },
+    {
+        "word": "soil",
+        "confidence": 0.9994572997093201,
+        "bounding_box": {
+            "left": 2124,
+            "top": 1417,
+            "right": 2338,
+            "bottom": 1550
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_36.png"
+    },
+    {
+        "word": "connects",
+        "confidence": 0.9999588326349842,
+        "bounding_box": {
+            "left": 145,
+            "top": 1606,
+            "right": 652,
+            "bottom": 1710
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_37.png"
+    },
+    {
+        "word": "me",
+        "confidence": 0.9995691178150727,
+        "bounding_box": {
+            "left": 711,
+            "top": 1621,
+            "right": 878,
+            "bottom": 1706
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_38.png"
+    },
+    {
+        "word": "with",
+        "confidence": 0.9999336004257202,
+        "bounding_box": {
+            "left": 925,
+            "top": 1584,
+            "right": 1182,
+            "bottom": 1720
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_39.png"
+    },
+    {
+        "word": "nature",
+        "confidence": 0.9999708970455993,
+        "bounding_box": {
+            "left": 1220,
+            "top": 1603,
+            "right": 1586,
+            "bottom": 1713
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_40.png"
+    },
+    {
+        "word": "and",
+        "confidence": 0.9999932551025371,
+        "bounding_box": {
+            "left": 1628,
+            "top": 1588,
+            "right": 1860,
+            "bottom": 1714
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_41.png"
+    },
+    {
+        "word": "relieves",
+        "confidence": 0.9999922028204342,
+        "bounding_box": {
+            "left": 1905,
+            "top": 1589,
+            "right": 2332,
+            "bottom": 1714
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_42.png"
+    },
+    {
+        "word": "stress: Every",
+        "confidence": 0.6881883520809983,
+        "bounding_box": {
+            "left": 138,
+            "top": 1757,
+            "right": 834,
+            "bottom": 1907
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_43.png"
+    },
+    {
+        "word": "1",
+        "confidence": 0.3141405014004164,
+        "bounding_box": {
+            "left": 1121,
+            "top": 1782,
+            "right": 1153,
+            "bottom": 1860
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_44.png"
+    },
+    {
+        "word": "eagerly check",
+        "confidence": 0.6128960141564497,
+        "bounding_box": {
+            "left": 1175,
+            "top": 1751,
+            "right": 1974,
+            "bottom": 1915
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_45.png"
+    },
+    {
+        "word": "on my",
+        "confidence": 0.9994243172998954,
+        "bounding_box": {
+            "left": 1988,
+            "top": 1785,
+            "right": 2334,
+            "bottom": 1909
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_46.png"
+    },
+    {
+        "word": "plants,",
+        "confidence": 0.9752476464913309,
+        "bounding_box": {
+            "left": 140,
+            "top": 1920,
+            "right": 529,
+            "bottom": 2078
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_47.png"
+    },
+    {
+        "word": "water them, and tenderly",
+        "confidence": 0.7193541497638363,
+        "bounding_box": {
+            "left": 561,
+            "top": 1903,
+            "right": 2037,
+            "bottom": 2085
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_48.png"
+    },
+    {
+        "word": "care",
+        "confidence": 0.9999783039093018,
+        "bounding_box": {
+            "left": 2070,
+            "top": 1961,
+            "right": 2326,
+            "bottom": 2046
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_49.png"
+    },
+    {
+        "word": "for",
+        "confidence": 0.9965556657367751,
+        "bounding_box": {
+            "left": 143,
+            "top": 2098,
+            "right": 322,
+            "bottom": 2219
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_50.png"
+    },
+    {
+        "word": "them:",
+        "confidence": 0.7505785246566123,
+        "bounding_box": {
+            "left": 358,
+            "top": 2096,
+            "right": 689,
+            "bottom": 2223
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_51.png"
+    },
+    {
+        "word": "Whether",
+        "confidence": 0.9999564296941431,
+        "bounding_box": {
+            "left": 741,
+            "top": 2098,
+            "right": 1210,
+            "bottom": 2225
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_52.png"
+    },
+    {
+        "word": "it's",
+        "confidence": 0.6673672199249268,
+        "bounding_box": {
+            "left": 1245,
+            "top": 2095,
+            "right": 1410,
+            "bottom": 2216
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_53.png"
+    },
+    {
+        "word": "planting",
+        "confidence": 0.9999964596621292,
+        "bounding_box": {
+            "left": 1462,
+            "top": 2098,
+            "right": 1926,
+            "bottom": 2249
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_54.png"
+    },
+    {
+        "word": "seeds,",
+        "confidence": 0.9543669061488419,
+        "bounding_box": {
+            "left": 1965,
+            "top": 2089,
+            "right": 2340,
+            "bottom": 2236
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_55.png"
+    },
+    {
+        "word": "pruning,",
+        "confidence": 0.9686062540659202,
+        "bounding_box": {
+            "left": 144,
+            "top": 2280,
+            "right": 606,
+            "bottom": 2421
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_56.png"
+    },
+    {
+        "word": "or",
+        "confidence": 0.9774305887690142,
+        "bounding_box": {
+            "left": 643,
+            "top": 2299,
+            "right": 776,
+            "bottom": 2388
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_57.png"
+    },
+    {
+        "word": "simply enjoying",
+        "confidence": 0.9883365841780447,
+        "bounding_box": {
+            "left": 802,
+            "top": 2271,
+            "right": 1667,
+            "bottom": 2421
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_58.png"
+    },
+    {
+        "word": "the beauty",
+        "confidence": 0.9416372071357884,
+        "bounding_box": {
+            "left": 1699,
+            "top": 2252,
+            "right": 2345,
+            "bottom": 2425
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_59.png"
+    },
+    {
+        "word": "of",
+        "confidence": 0.9945414678410845,
+        "bounding_box": {
+            "left": 144,
+            "top": 2439,
+            "right": 280,
+            "bottom": 2555
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_60.png"
+    },
+    {
+        "word": "my",
+        "confidence": 0.9999084582722889,
+        "bounding_box": {
+            "left": 341,
+            "top": 2466,
+            "right": 502,
+            "bottom": 2583
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_61.png"
+    },
+    {
+        "word": "garden,",
+        "confidence": 0.7284935892729045,
+        "bounding_box": {
+            "left": 556,
+            "top": 2425,
+            "right": 1003,
+            "bottom": 2588
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_62.png"
+    },
+    {
+        "word": "1",
+        "confidence": 0.3011764587327548,
+        "bounding_box": {
+            "left": 1055,
+            "top": 2458,
+            "right": 1094,
+            "bottom": 2541
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_63.png"
+    },
+    {
+        "word": "find",
+        "confidence": 0.9999279975891113,
+        "bounding_box": {
+            "left": 1155,
+            "top": 2435,
+            "right": 1383,
+            "bottom": 2559
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_64.png"
+    },
+    {
+        "word": "immense",
+        "confidence": 0.9997065757211521,
+        "bounding_box": {
+            "left": 1432,
+            "top": 2450,
+            "right": 1933,
+            "bottom": 2571
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_65.png"
+    },
+    {
+        "word": "joy",
+        "confidence": 0.9978738699307926,
+        "bounding_box": {
+            "left": 1969,
+            "top": 2455,
+            "right": 2167,
+            "bottom": 2589
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_66.png"
+    },
+    {
+        "word": "in",
+        "confidence": 0.9996387363304987,
+        "bounding_box": {
+            "left": 2215,
+            "top": 2456,
+            "right": 2327,
+            "bottom": 2557
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_67.png"
+    },
+    {
+        "word": "every",
+        "confidence": 0.9716230997377773,
+        "bounding_box": {
+            "left": 144,
+            "top": 2630,
+            "right": 450,
+            "bottom": 2752
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_68.png"
+    },
+    {
+        "word": "moment",
+        "confidence": 0.9997858114273117,
+        "bounding_box": {
+            "left": 541,
+            "top": 2619,
+            "right": 988,
+            "bottom": 2728
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_69.png"
+    },
+    {
+        "word": "spent",
+        "confidence": 0.9998106336062852,
+        "bounding_box": {
+            "left": 1058,
+            "top": 2614,
+            "right": 1393,
+            "bottom": 2762
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_70.png"
+    },
+    {
+        "word": "with",
+        "confidence": 0.9997866153717041,
+        "bounding_box": {
+            "left": 1468,
+            "top": 2607,
+            "right": 1711,
+            "bottom": 2730
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_71.png"
+    },
+    {
+        "word": "my",
+        "confidence": 0.9997135820327876,
+        "bounding_box": {
+            "left": 1796,
+            "top": 2630,
+            "right": 1969,
+            "bottom": 2753
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_72.png"
+    },
+    {
+        "word": "leafy",
+        "confidence": 0.9995586716435807,
+        "bounding_box": {
+            "left": 2037,
+            "top": 2602,
+            "right": 2340,
+            "bottom": 2759
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_73.png"
+    },
+    {
+        "word": "companions.",
+        "confidence": 0.6348669838776717,
+        "bounding_box": {
+            "left": 138,
+            "top": 2779,
+            "right": 850,
+            "bottom": 2937
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_74.png"
+    },
+    {
+        "word": "Gardening",
+        "confidence": 0.9999887942953902,
+        "bounding_box": {
+            "left": 933,
+            "top": 2756,
+            "right": 1545,
+            "bottom": 2933
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_75.png"
+    },
+    {
+        "word": "isn't",
+        "confidence": 0.45052226186143296,
+        "bounding_box": {
+            "left": 1622,
+            "top": 2779,
+            "right": 1853,
+            "bottom": 2895
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_76.png"
+    },
+    {
+        "word": "just",
+        "confidence": 0.9999909400939941,
+        "bounding_box": {
+            "left": 1924,
+            "top": 2789,
+            "right": 2157,
+            "bottom": 2923
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_77.png"
+    },
+    {
+        "word": "a",
+        "confidence": 0.9926416837706711,
+        "bounding_box": {
+            "left": 2244,
+            "top": 2812,
+            "right": 2322,
+            "bottom": 2892
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_78.png"
+    },
+    {
+        "word": "it's my sanctuary:",
+        "confidence": 0.6853606552607137,
+        "bounding_box": {
+            "left": 535,
+            "top": 2939,
+            "right": 1480,
+            "bottom": 3098
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_79.png"
+    },
+    {
+        "word": "aspirantsessay com",
+        "confidence": 0.7358827975331377,
+        "bounding_box": {
+            "left": 761,
+            "top": 3335,
+            "right": 1817,
+            "bottom": 3472
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_80.png"
+    },
+    {
+        "word": "day,",
+        "confidence": 0.8757773041725159,
+        "bounding_box": {
+            "left": 830,
+            "top": 1744,
+            "right": 1119,
+            "bottom": 1926
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_81.png"
+    },
+    {
+        "word": "hobby;",
+        "confidence": 0.8749667878136786,
+        "bounding_box": {
+            "left": 129,
+            "top": 2912,
+            "right": 547,
+            "bottom": 3108
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_82.png"
+    }
+]

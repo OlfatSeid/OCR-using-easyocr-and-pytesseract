@@ -1,0 +1,464 @@
+[
+    {
+        "word": "المحطًسة",
+        "confidence": 0.47824709442274727,
+        "bounding_box": {
+            "left": 708,
+            "top": 1133,
+            "right": 1270,
+            "bottom": 1358
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_1.png"
+    },
+    {
+        "word": "مقعد ",
+        "confidence": 0.23511016072922722,
+        "bounding_box": {
+            "left": 81,
+            "top": 1666,
+            "right": 374,
+            "bottom": 1812
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_2.png"
+    },
+    {
+        "word": "توجًهت إلى أول",
+        "confidence": 0.35318831091097835,
+        "bounding_box": {
+            "left": 404,
+            "top": 1605,
+            "right": 1248,
+            "bottom": 1845
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_3.png"
+    },
+    {
+        "word": "صعذت",
+        "confidence": 0.7155802845954895,
+        "bounding_box": {
+            "left": 1674,
+            "top": 1619,
+            "right": 2040,
+            "bottom": 1777
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_4.png"
+    },
+    {
+        "word": "ووقفت",
+        "confidence": 0.9007849001907114,
+        "bounding_box": {
+            "left": 333,
+            "top": 1818,
+            "right": 716,
+            "bottom": 2038
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_5.png"
+    },
+    {
+        "word": "آلرًف ",
+        "confidence": 0.39113915706486324,
+        "bounding_box": {
+            "left": 766,
+            "top": 1835,
+            "right": 1064,
+            "bottom": 2016
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_6.png"
+    },
+    {
+        "word": "ووضعت",
+        "confidence": 0.9012480954225677,
+        "bounding_box": {
+            "left": 1803,
+            "top": 1820,
+            "right": 2218,
+            "bottom": 1993
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_7.png"
+    },
+    {
+        "word": "ء",
+        "confidence": 0.11053305083635578,
+        "bounding_box": {
+            "left": 1825,
+            "top": 1998,
+            "right": 1867,
+            "bottom": 2053
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_8.png"
+    },
+    {
+        "word": "أنظر إلى",
+        "confidence": 0.6145261001615179,
+        "bounding_box": {
+            "left": 1443,
+            "top": 2005,
+            "right": 1893,
+            "bottom": 2222
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_9.png"
+    },
+    {
+        "word": "يتوجًهون",
+        "confidence": 0.36312345820835035,
+        "bounding_box": {
+            "left": 454,
+            "top": 2256,
+            "right": 940,
+            "bottom": 2462
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_10.png"
+    },
+    {
+        "word": "مسر عون ",
+        "confidence": 0.5612706923972165,
+        "bounding_box": {
+            "left": 1004,
+            "top": 2258,
+            "right": 1475,
+            "bottom": 2454
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_11.png"
+    },
+    {
+        "word": "المسافرون",
+        "confidence": 0.5841753593139092,
+        "bounding_box": {
+            "left": 1543,
+            "top": 2243,
+            "right": 2071,
+            "bottom": 2454
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_12.png"
+    },
+    {
+        "word": "بينمًا ترتفع",
+        "confidence": 0.2955145487089603,
+        "bounding_box": {
+            "left": 90,
+            "top": 2481,
+            "right": 649,
+            "bottom": 2675
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_13.png"
+    },
+    {
+        "word": "وهم يحملون",
+        "confidence": 0.2480021392317519,
+        "bounding_box": {
+            "left": 1099,
+            "top": 2448,
+            "right": 1772,
+            "bottom": 2667
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_14.png"
+    },
+    {
+        "word": "باعة آلصحف وآلمشروبات",
+        "confidence": 0.208398083256037,
+        "bounding_box": {
+            "left": 564,
+            "top": 2627,
+            "right": 1849,
+            "bottom": 2852
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_15.png"
+    },
+    {
+        "word": "وبقيت",
+        "confidence": 0.6542091191657722,
+        "bounding_box": {
+            "left": 105,
+            "top": 2923,
+            "right": 429,
+            "bottom": 3098
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_16.png"
+    },
+    {
+        "word": "دوًت",
+        "confidence": 0.41867203408876724,
+        "bounding_box": {
+            "left": 1798,
+            "top": 2883,
+            "right": 2067,
+            "bottom": 3059
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_17.png"
+    },
+    {
+        "word": "أراقب",
+        "confidence": 0.288975692095364,
+        "bounding_box": {
+            "left": 872,
+            "top": 3066,
+            "right": 1174,
+            "bottom": 3283
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_18.png"
+    },
+    {
+        "word": "آلنًافذة",
+        "confidence": 0.637447466258754,
+        "bounding_box": {
+            "left": 1242,
+            "top": 3072,
+            "right": 1623,
+            "bottom": 3271
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_19.png"
+    },
+    {
+        "word": "قرب",
+        "confidence": 0.702279269695282,
+        "bounding_box": {
+            "left": 1685,
+            "top": 3050,
+            "right": 1925,
+            "bottom": 3262
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_20.png"
+    },
+    {
+        "word": "واقفاً",
+        "confidence": 0.4946633009875675,
+        "bounding_box": {
+            "left": 1990,
+            "top": 3065,
+            "right": 2243,
+            "bottom": 3247
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_21.png"
+    },
+    {
+        "word": "و",
+        "confidence": 0.07733384927952613,
+        "bounding_box": {
+            "left": 2166,
+            "top": 3301,
+            "right": 2231,
+            "bottom": 3426
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_22.png"
+    },
+    {
+        "word": "فسي",
+        "confidence": 0.6926388740539551,
+        "bounding_box": {
+            "left": 1291,
+            "top": 1175,
+            "right": 1565,
+            "bottom": 1414
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_23.png"
+    },
+    {
+        "word": "آلقطار .",
+        "confidence": 0.3541952790292168,
+        "bounding_box": {
+            "left": 1281,
+            "top": 1611,
+            "right": 1634,
+            "bottom": 1823
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_24.png"
+    },
+    {
+        "word": "أمام",
+        "confidence": 0.8914828356722764,
+        "bounding_box": {
+            "left": 44,
+            "top": 1806,
+            "right": 319,
+            "bottom": 2061
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_25.png"
+    },
+    {
+        "word": "على",
+        "confidence": 0.7477842569351196,
+        "bounding_box": {
+            "left": 1093,
+            "top": 1795,
+            "right": 1354,
+            "bottom": 2051
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_26.png"
+    },
+    {
+        "word": "حقيبتي",
+        "confidence": 0.503121527959159,
+        "bounding_box": {
+            "left": 1387,
+            "top": 1818,
+            "right": 1743,
+            "bottom": 2042
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_27.png"
+    },
+    {
+        "word": "آلنًافذة",
+        "confidence": 0.5713638852575376,
+        "bounding_box": {
+            "left": 1894,
+            "top": 1995,
+            "right": 2220,
+            "bottom": 2194
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_28.png"
+    },
+    {
+        "word": "آلناس",
+        "confidence": 0.8724649611031812,
+        "bounding_box": {
+            "left": 1136,
+            "top": 2008,
+            "right": 1453,
+            "bottom": 2230
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_29.png"
+    },
+    {
+        "word": "نحسو",
+        "confidence": 0.7216113430100917,
+        "bounding_box": {
+            "left": 99,
+            "top": 2272,
+            "right": 383,
+            "bottom": 2452
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_30.png"
+    },
+    {
+        "word": "أمتعتهم",
+        "confidence": 0.4225152619475488,
+        "bounding_box": {
+            "left": 672,
+            "top": 2419,
+            "right": 1097,
+            "bottom": 2694
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_31.png"
+    },
+    {
+        "word": "آلعربات ",
+        "confidence": 0.5632594320565446,
+        "bounding_box": {
+            "left": 1801,
+            "top": 2439,
+            "right": 2241,
+            "bottom": 2675
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_32.png"
+    },
+    {
+        "word": "أصوات",
+        "confidence": 0.4573685394219019,
+        "bounding_box": {
+            "left": 1867,
+            "top": 2624,
+            "right": 2243,
+            "bottom": 2865
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_33.png"
+    },
+    {
+        "word": "آلصثًفًارة",
+        "confidence": 0.4678848707272332,
+        "bounding_box": {
+            "left": 1372,
+            "top": 2841,
+            "right": 1788,
+            "bottom": 3080
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_34.png"
+    },
+    {
+        "word": "وبدأ",
+        "confidence": 0.9896972179412842,
+        "bounding_box": {
+            "left": 1096,
+            "top": 2851,
+            "right": 1394,
+            "bottom": 3098
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_35.png"
+    },
+    {
+        "word": "آلقطار",
+        "confidence": 0.5675833070901559,
+        "bounding_box": {
+            "left": 813,
+            "top": 2879,
+            "right": 1130,
+            "bottom": 3093
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_36.png"
+    },
+    {
+        "word": "يتحرًك",
+        "confidence": 0.5943410181513687,
+        "bounding_box": {
+            "left": 419,
+            "top": 2863,
+            "right": 841,
+            "bottom": 3130
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_37.png"
+    },
+    {
+        "word": "حركةً",
+        "confidence": 0.5926332909750441,
+        "bounding_box": {
+            "left": 503,
+            "top": 3087,
+            "right": 813,
+            "bottom": 3315
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_38.png"
+    },
+    {
+        "word": "آلناس",
+        "confidence": 0.7529439192115513,
+        "bounding_box": {
+            "left": 148,
+            "top": 3094,
+            "right": 458,
+            "bottom": 3315
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_39.png"
+    },
+    {
+        "word": "آن",
+        "confidence": 0.5883669853210449,
+        "bounding_box": {
+            "left": 1590,
+            "top": 3228,
+            "right": 1869,
+            "bottom": 3532
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_40.png"
+    },
+    {
+        "word": "آلايدي",
+        "confidence": 0.9986840595671146,
+        "bounding_box": {
+            "left": 1842,
+            "top": 3274,
+            "right": 2199,
+            "bottom": 3466
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_41.png"
+    },
+    {
+        "word": "تودع .",
+        "confidence": 0.5416217082764238,
+        "bounding_box": {
+            "left": 1336,
+            "top": 3266,
+            "right": 1629,
+            "bottom": 3511
+        },
+        "roi_image_path": "output_pdf_arabic/extracted_text_42.png"
+    }
+]

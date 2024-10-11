@@ -1,0 +1,5340 @@
+[
+    {
+        "page_number": 1,
+        "extracted_data": [
+            {
+                "text": "Life",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1126,
+                    "top": 160,
+                    "right": 1357,
+                    "bottom": 273
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_1.png"
+            },
+            {
+                "text": "Lite",
+                "confidence": 93.0,
+                "bounding_box": {
+                    "left": 165,
+                    "top": 423,
+                    "right": 344,
+                    "bottom": 518
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_2.png"
+            },
+            {
+                "text": "is",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 405,
+                    "top": 442,
+                    "right": 471,
+                    "bottom": 518
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_3.png"
+            },
+            {
+                "text": "like",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 528,
+                    "top": 423,
+                    "right": 693,
+                    "bottom": 518
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_4.png"
+            },
+            {
+                "text": "a",
+                "confidence": 94.0,
+                "bounding_box": {
+                    "left": 749,
+                    "top": 461,
+                    "right": 806,
+                    "bottom": 518
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_5.png"
+            },
+            {
+                "text": "journey",
+                "confidence": 94.0,
+                "bounding_box": {
+                    "left": 862,
+                    "top": 442,
+                    "right": 1248,
+                    "bottom": 551
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_6.png"
+            },
+            {
+                "text": "filled",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1300,
+                    "top": 423,
+                    "right": 1555,
+                    "bottom": 518
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_7.png"
+            },
+            {
+                "text": "with",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1611,
+                    "top": 423,
+                    "right": 1828,
+                    "bottom": 522
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_8.png"
+            },
+            {
+                "text": "ups",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 1889,
+                    "top": 461,
+                    "right": 2063,
+                    "bottom": 551
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_9.png"
+            },
+            {
+                "text": "and",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 2120,
+                    "top": 423,
+                    "right": 2313,
+                    "bottom": 518
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_10.png"
+            },
+            {
+                "text": "downs.",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 593,
+                    "right": 528,
+                    "bottom": 692
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_11.png"
+            },
+            {
+                "text": "It's",
+                "confidence": 91.0,
+                "bounding_box": {
+                    "left": 622,
+                    "top": 593,
+                    "right": 749,
+                    "bottom": 687
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_12.png"
+            },
+            {
+                "text": "a",
+                "confidence": 94.0,
+                "bounding_box": {
+                    "left": 834,
+                    "top": 631,
+                    "right": 890,
+                    "bottom": 687
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_13.png"
+            },
+            {
+                "text": "mix",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 985,
+                    "top": 612,
+                    "right": 1154,
+                    "bottom": 687
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_14.png"
+            },
+            {
+                "text": "of",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1239,
+                    "top": 593,
+                    "right": 1343,
+                    "bottom": 687
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_15.png"
+            },
+            {
+                "text": "joy",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1418,
+                    "top": 612,
+                    "right": 1573,
+                    "bottom": 720
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_16.png"
+            },
+            {
+                "text": "and",
+                "confidence": 94.0,
+                "bounding_box": {
+                    "left": 1658,
+                    "top": 593,
+                    "right": 1851,
+                    "bottom": 687
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_17.png"
+            },
+            {
+                "text": "sorrow,",
+                "confidence": 94.0,
+                "bounding_box": {
+                    "left": 1941,
+                    "top": 631,
+                    "right": 2318,
+                    "bottom": 706
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_18.png"
+            },
+            {
+                "text": "success",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 800,
+                    "right": 565,
+                    "bottom": 857
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_19.png"
+            },
+            {
+                "text": "and",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 650,
+                    "top": 763,
+                    "right": 843,
+                    "bottom": 857
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_20.png"
+            },
+            {
+                "text": "failure.",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 933,
+                    "top": 763,
+                    "right": 1291,
+                    "bottom": 857
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_21.png"
+            },
+            {
+                "text": "Each",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1390,
+                    "top": 763,
+                    "right": 1644,
+                    "bottom": 857
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_22.png"
+            },
+            {
+                "text": "day",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1729,
+                    "top": 763,
+                    "right": 1917,
+                    "bottom": 890
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_23.png"
+            },
+            {
+                "text": "brings",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 2002,
+                    "top": 763,
+                    "right": 2318,
+                    "bottom": 890
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_24.png"
+            },
+            {
+                "text": "new",
+                "confidence": 88.0,
+                "bounding_box": {
+                    "left": 165,
+                    "top": 970,
+                    "right": 377,
+                    "bottom": 1031
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_25.png"
+            },
+            {
+                "text": "experiences",
+                "confidence": 79.0,
+                "bounding_box": {
+                    "left": 542,
+                    "top": 951,
+                    "right": 1182,
+                    "bottom": 1059
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_26.png"
+            },
+            {
+                "text": "and_",
+                "confidence": 79.0,
+                "bounding_box": {
+                    "left": 1352,
+                    "top": 932,
+                    "right": 1545,
+                    "bottom": 1026
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_27.png"
+            },
+            {
+                "text": "challenges,",
+                "confidence": 92.0,
+                "bounding_box": {
+                    "left": 1719,
+                    "top": 932,
+                    "right": 2318,
+                    "bottom": 1059
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_28.png"
+            },
+            {
+                "text": "shaping",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 1102,
+                    "right": 570,
+                    "bottom": 1229
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_29.png"
+            },
+            {
+                "text": "who",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 664,
+                    "top": 1102,
+                    "right": 881,
+                    "bottom": 1201
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_30.png"
+            },
+            {
+                "text": "we",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 971,
+                    "top": 1139,
+                    "right": 1126,
+                    "bottom": 1201
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_31.png"
+            },
+            {
+                "text": "are.",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1215,
+                    "top": 1139,
+                    "right": 1413,
+                    "bottom": 1196
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_32.png"
+            },
+            {
+                "text": "Sometimes",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 1512,
+                    "top": 1106,
+                    "right": 2092,
+                    "bottom": 1196
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_33.png"
+            },
+            {
+                "text": "it's",
+                "confidence": 88.0,
+                "bounding_box": {
+                    "left": 2190,
+                    "top": 1102,
+                    "right": 2318,
+                    "bottom": 1196
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_34.png"
+            },
+            {
+                "text": "smooth",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 1271,
+                    "right": 537,
+                    "bottom": 1365
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_35.png"
+            },
+            {
+                "text": "sailing,",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 655,
+                    "top": 1271,
+                    "right": 1018,
+                    "bottom": 1398
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_36.png"
+            },
+            {
+                "text": "other",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1131,
+                    "top": 1271,
+                    "right": 1404,
+                    "bottom": 1365
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_37.png"
+            },
+            {
+                "text": "times",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1512,
+                    "top": 1290,
+                    "right": 1790,
+                    "bottom": 1365
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_38.png"
+            },
+            {
+                "text": "its",
+                "confidence": 94.0,
+                "bounding_box": {
+                    "left": 1908,
+                    "top": 1271,
+                    "right": 2035,
+                    "bottom": 1365
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_39.png"
+            },
+            {
+                "text": "like",
+                "confidence": 94.0,
+                "bounding_box": {
+                    "left": 2153,
+                    "top": 1271,
+                    "right": 2318,
+                    "bottom": 1365
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_40.png"
+            },
+            {
+                "text": "navigating",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 165,
+                    "top": 1460,
+                    "right": 716,
+                    "bottom": 1568
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_41.png"
+            },
+            {
+                "text": "through",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 763,
+                    "top": 1441,
+                    "right": 1168,
+                    "bottom": 1568
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_42.png"
+            },
+            {
+                "text": "a",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1220,
+                    "top": 1478,
+                    "right": 1281,
+                    "bottom": 1535
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_43.png"
+            },
+            {
+                "text": "storm.",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1333,
+                    "top": 1460,
+                    "right": 1644,
+                    "bottom": 1535
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_44.png"
+            },
+            {
+                "text": "But",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 1705,
+                    "top": 1450,
+                    "right": 1865,
+                    "bottom": 1535
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_45.png"
+            },
+            {
+                "text": "through",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 1908,
+                    "top": 1441,
+                    "right": 2313,
+                    "bottom": 1568
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_46.png"
+            },
+            {
+                "text": "it",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 165,
+                    "top": 1629,
+                    "right": 226,
+                    "bottom": 1705
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_47.png"
+            },
+            {
+                "text": "all,",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 292,
+                    "top": 1610,
+                    "right": 438,
+                    "bottom": 1723
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_48.png"
+            },
+            {
+                "text": "we",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 509,
+                    "top": 1648,
+                    "right": 660,
+                    "bottom": 1709
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_49.png"
+            },
+            {
+                "text": "learn,",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 735,
+                    "top": 1610,
+                    "right": 1022,
+                    "bottom": 1723
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_50.png"
+            },
+            {
+                "text": "grow,",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1093,
+                    "top": 1648,
+                    "right": 1385,
+                    "bottom": 1738
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_51.png"
+            },
+            {
+                "text": "and",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1456,
+                    "top": 1610,
+                    "right": 1649,
+                    "bottom": 1705
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_52.png"
+            },
+            {
+                "text": "evolve.",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 1724,
+                    "top": 1610,
+                    "right": 2082,
+                    "bottom": 1705
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_53.png"
+            },
+            {
+                "text": "We",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 2157,
+                    "top": 1620,
+                    "right": 2318,
+                    "bottom": 1709
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_54.png"
+            },
+            {
+                "text": "cherish",
+                "confidence": 94.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 1780,
+                    "right": 528,
+                    "bottom": 1874
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_55.png"
+            },
+            {
+                "text": "moments",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 655,
+                    "top": 1799,
+                    "right": 1126,
+                    "bottom": 1874
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_56.png"
+            },
+            {
+                "text": "of",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1248,
+                    "top": 1780,
+                    "right": 1352,
+                    "bottom": 1874
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_57.png"
+            },
+            {
+                "text": "happiness",
+                "confidence": 93.0,
+                "bounding_box": {
+                    "left": 1475,
+                    "top": 1780,
+                    "right": 2002,
+                    "bottom": 1907
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_58.png"
+            },
+            {
+                "text": "and",
+                "confidence": 93.0,
+                "bounding_box": {
+                    "left": 2120,
+                    "top": 1780,
+                    "right": 2313,
+                    "bottom": 1874
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_59.png"
+            },
+            {
+                "text": "overcome",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 1987,
+                    "right": 679,
+                    "bottom": 2048
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_60.png"
+            },
+            {
+                "text": "obstacles",
+                "confidence": 94.0,
+                "bounding_box": {
+                    "left": 806,
+                    "top": 1949,
+                    "right": 1314,
+                    "bottom": 2044
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_61.png"
+            },
+            {
+                "text": "with",
+                "confidence": 84.0,
+                "bounding_box": {
+                    "left": 1437,
+                    "top": 1949,
+                    "right": 1653,
+                    "bottom": 2048
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_62.png"
+            },
+            {
+                "text": "resilience.",
+                "confidence": 84.0,
+                "bounding_box": {
+                    "left": 1785,
+                    "top": 1949,
+                    "right": 2313,
+                    "bottom": 2044
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_63.png"
+            },
+            {
+                "text": "Family",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 165,
+                    "top": 2119,
+                    "right": 495,
+                    "bottom": 2246
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_64.png"
+            },
+            {
+                "text": "and",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 613,
+                    "top": 2119,
+                    "right": 806,
+                    "bottom": 2213
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_65.png"
+            },
+            {
+                "text": "friends",
+                "confidence": 87.0,
+                "bounding_box": {
+                    "left": 928,
+                    "top": 2119,
+                    "right": 1286,
+                    "bottom": 2213
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_66.png"
+            },
+            {
+                "text": "provide",
+                "confidence": 93.0,
+                "bounding_box": {
+                    "left": 1409,
+                    "top": 2119,
+                    "right": 1799,
+                    "bottom": 2246
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_67.png"
+            },
+            {
+                "text": "support",
+                "confidence": 93.0,
+                "bounding_box": {
+                    "left": 1917,
+                    "top": 2138,
+                    "right": 2318,
+                    "bottom": 2246
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_68.png"
+            },
+            {
+                "text": "along",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 2289,
+                    "right": 452,
+                    "bottom": 2416
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_69.png"
+            },
+            {
+                "text": "the",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 561,
+                    "top": 2289,
+                    "right": 730,
+                    "bottom": 2383
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_70.png"
+            },
+            {
+                "text": "way,",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 834,
+                    "top": 2326,
+                    "right": 1074,
+                    "bottom": 2416
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_71.png"
+            },
+            {
+                "text": "making",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1187,
+                    "top": 2289,
+                    "right": 1555,
+                    "bottom": 2416
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_72.png"
+            },
+            {
+                "text": "the",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1663,
+                    "top": 2289,
+                    "right": 1828,
+                    "bottom": 2383
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_73.png"
+            },
+            {
+                "text": "journey",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1931,
+                    "top": 2307,
+                    "right": 2322,
+                    "bottom": 2416
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_74.png"
+            },
+            {
+                "text": "worthwhile.",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 2458,
+                    "right": 763,
+                    "bottom": 2557
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_75.png"
+            },
+            {
+                "text": "Life",
+                "confidence": 93.0,
+                "bounding_box": {
+                    "left": 872,
+                    "top": 2458,
+                    "right": 1046,
+                    "bottom": 2552
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_76.png"
+            },
+            {
+                "text": "is",
+                "confidence": 93.0,
+                "bounding_box": {
+                    "left": 1150,
+                    "top": 2477,
+                    "right": 1215,
+                    "bottom": 2557
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_77.png"
+            },
+            {
+                "text": "precious,",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 1314,
+                    "top": 2477,
+                    "right": 1785,
+                    "bottom": 2585
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_78.png"
+            },
+            {
+                "text": "fleeting,",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 1884,
+                    "top": 2458,
+                    "right": 2318,
+                    "bottom": 2585
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_79.png"
+            },
+            {
+                "text": "and",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 2628,
+                    "right": 354,
+                    "bottom": 2722
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_80.png"
+            },
+            {
+                "text": "unpredictable.",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 452,
+                    "top": 2628,
+                    "right": 1225,
+                    "bottom": 2755
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_81.png"
+            },
+            {
+                "text": "Its",
+                "confidence": 71.0,
+                "bounding_box": {
+                    "left": 1324,
+                    "top": 2628,
+                    "right": 1451,
+                    "bottom": 2722
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_82.png"
+            },
+            {
+                "text": "about",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1540,
+                    "top": 2628,
+                    "right": 1851,
+                    "bottom": 2722
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_83.png"
+            },
+            {
+                "text": "making",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1946,
+                    "top": 2628,
+                    "right": 2313,
+                    "bottom": 2755
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_84.png"
+            },
+            {
+                "text": "the",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 2797,
+                    "right": 325,
+                    "bottom": 2891
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_85.png"
+            },
+            {
+                "text": "most",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 391,
+                    "top": 2816,
+                    "right": 641,
+                    "bottom": 2891
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_86.png"
+            },
+            {
+                "text": "of",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 702,
+                    "top": 2797,
+                    "right": 806,
+                    "bottom": 2891
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_87.png"
+            },
+            {
+                "text": "every",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 867,
+                    "top": 2835,
+                    "right": 1145,
+                    "bottom": 2924
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_88.png"
+            },
+            {
+                "text": "moment",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1206,
+                    "top": 2816,
+                    "right": 1630,
+                    "bottom": 2891
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_89.png"
+            },
+            {
+                "text": "and",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1691,
+                    "top": 2797,
+                    "right": 1884,
+                    "bottom": 2891
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_90.png"
+            },
+            {
+                "text": "finding",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1955,
+                    "top": 2797,
+                    "right": 2313,
+                    "bottom": 2924
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_91.png"
+            },
+            {
+                "text": "purpose",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 165,
+                    "top": 3005,
+                    "right": 584,
+                    "bottom": 3094
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_92.png"
+            },
+            {
+                "text": "in",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 631,
+                    "top": 2986,
+                    "right": 711,
+                    "bottom": 3061
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_93.png"
+            },
+            {
+                "text": "the",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 754,
+                    "top": 2967,
+                    "right": 919,
+                    "bottom": 3061
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_94.png"
+            },
+            {
+                "text": "journey.",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 956,
+                    "top": 2986,
+                    "right": 1371,
+                    "bottom": 3094
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_95.png"
+            },
+            {
+                "text": "ic}",
+                "confidence": 60.0,
+                "bounding_box": {
+                    "left": 592,
+                    "top": 3316,
+                    "right": 772,
+                    "bottom": 3470
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_96.png"
+            },
+            {
+                "text": "aspirantsessay.com",
+                "confidence": 90.0,
+                "bounding_box": {
+                    "left": 801,
+                    "top": 3344,
+                    "right": 1824,
+                    "bottom": 3456
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_97.png"
+            }
+        ]
+    },
+    {
+        "page_number": 2,
+        "extracted_data": [
+            {
+                "text": "Hobbies",
+                "confidence": 93.0,
+                "bounding_box": {
+                    "left": 165,
+                    "top": 414,
+                    "right": 589,
+                    "bottom": 508
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_1.png"
+            },
+            {
+                "text": "are",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 716,
+                    "top": 452,
+                    "right": 886,
+                    "bottom": 508
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_2.png"
+            },
+            {
+                "text": "like",
+                "confidence": 94.0,
+                "bounding_box": {
+                    "left": 1022,
+                    "top": 414,
+                    "right": 1187,
+                    "bottom": 508
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_3.png"
+            },
+            {
+                "text": "little",
+                "confidence": 94.0,
+                "bounding_box": {
+                    "left": 1319,
+                    "top": 414,
+                    "right": 1545,
+                    "bottom": 508
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_4.png"
+            },
+            {
+                "text": "pockets",
+                "confidence": 86.0,
+                "bounding_box": {
+                    "left": 1677,
+                    "top": 414,
+                    "right": 2087,
+                    "bottom": 541
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_5.png"
+            },
+            {
+                "text": "of",
+                "confidence": 86.0,
+                "bounding_box": {
+                    "left": 2214,
+                    "top": 414,
+                    "right": 2318,
+                    "bottom": 508
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_6.png"
+            },
+            {
+                "text": "happiness",
+                "confidence": 91.0,
+                "bounding_box": {
+                    "left": 165,
+                    "top": 584,
+                    "right": 693,
+                    "bottom": 711
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_7.png"
+            },
+            {
+                "text": "in",
+                "confidence": 91.0,
+                "bounding_box": {
+                    "left": 857,
+                    "top": 602,
+                    "right": 933,
+                    "bottom": 678
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_8.png"
+            },
+            {
+                "text": "our",
+                "confidence": 91.0,
+                "bounding_box": {
+                    "left": 1098,
+                    "top": 621,
+                    "right": 1263,
+                    "bottom": 678
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_9.png"
+            },
+            {
+                "text": "lives.",
+                "confidence": 93.0,
+                "bounding_box": {
+                    "left": 1427,
+                    "top": 584,
+                    "right": 1668,
+                    "bottom": 682
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_10.png"
+            },
+            {
+                "text": "Mine",
+                "confidence": 78.0,
+                "bounding_box": {
+                    "left": 1832,
+                    "top": 588,
+                    "right": 2087,
+                    "bottom": 678
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_11.png"
+            },
+            {
+                "text": "is",
+                "confidence": 52.0,
+                "bounding_box": {
+                    "left": 2252,
+                    "top": 602,
+                    "right": 2318,
+                    "bottom": 678
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_12.png"
+            },
+            {
+                "text": "gardening.",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 165,
+                    "top": 753,
+                    "right": 730,
+                    "bottom": 880
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_13.png"
+            },
+            {
+                "text": "|",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 834,
+                    "top": 763,
+                    "right": 848,
+                    "bottom": 847
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_14.png"
+            },
+            {
+                "text": "find",
+                "confidence": 92.0,
+                "bounding_box": {
+                    "left": 942,
+                    "top": 753,
+                    "right": 1135,
+                    "bottom": 847
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_15.png"
+            },
+            {
+                "text": "solace",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1234,
+                    "top": 753,
+                    "right": 1578,
+                    "bottom": 847
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_16.png"
+            },
+            {
+                "text": "in",
+                "confidence": 94.0,
+                "bounding_box": {
+                    "left": 1677,
+                    "top": 772,
+                    "right": 1752,
+                    "bottom": 847
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_17.png"
+            },
+            {
+                "text": "nurturing",
+                "confidence": 94.0,
+                "bounding_box": {
+                    "left": 1851,
+                    "top": 772,
+                    "right": 2313,
+                    "bottom": 880
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_18.png"
+            },
+            {
+                "text": "plants",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 165,
+                    "top": 923,
+                    "right": 481,
+                    "bottom": 1050
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_19.png"
+            },
+            {
+                "text": "and",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 528,
+                    "top": 923,
+                    "right": 721,
+                    "bottom": 1017
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_20.png"
+            },
+            {
+                "text": "watching",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 768,
+                    "top": 923,
+                    "right": 1258,
+                    "bottom": 1050
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_21.png"
+            },
+            {
+                "text": "them",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1305,
+                    "top": 923,
+                    "right": 1564,
+                    "bottom": 1017
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_22.png"
+            },
+            {
+                "text": "grow.",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1616,
+                    "top": 960,
+                    "right": 1908,
+                    "bottom": 1050
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_23.png"
+            },
+            {
+                "text": "There's",
+                "confidence": 88.0,
+                "bounding_box": {
+                    "left": 1955,
+                    "top": 923,
+                    "right": 2318,
+                    "bottom": 1017
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_24.png"
+            },
+            {
+                "text": "something",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 1092,
+                    "right": 702,
+                    "bottom": 1219
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_25.png"
+            },
+            {
+                "text": "magical",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 768,
+                    "top": 1092,
+                    "right": 1187,
+                    "bottom": 1219
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_26.png"
+            },
+            {
+                "text": "about",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 1248,
+                    "top": 1092,
+                    "right": 1559,
+                    "bottom": 1186
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_27.png"
+            },
+            {
+                "text": "seeing",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1616,
+                    "top": 1111,
+                    "right": 1955,
+                    "bottom": 1219
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_28.png"
+            },
+            {
+                "text": "a",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 2016,
+                    "top": 1130,
+                    "right": 2077,
+                    "bottom": 1186
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_29.png"
+            },
+            {
+                "text": "tiny",
+                "confidence": 94.0,
+                "bounding_box": {
+                    "left": 2134,
+                    "top": 1111,
+                    "right": 2322,
+                    "bottom": 1219
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_30.png"
+            },
+            {
+                "text": "seed",
+                "confidence": 93.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 1262,
+                    "right": 405,
+                    "bottom": 1356
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_31.png"
+            },
+            {
+                "text": "transtorm",
+                "confidence": 90.0,
+                "bounding_box": {
+                    "left": 467,
+                    "top": 1262,
+                    "right": 971,
+                    "bottom": 1356
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_32.png"
+            },
+            {
+                "text": "into",
+                "confidence": 94.0,
+                "bounding_box": {
+                    "left": 1036,
+                    "top": 1281,
+                    "right": 1230,
+                    "bottom": 1356
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_33.png"
+            },
+            {
+                "text": "a",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 1286,
+                    "top": 1299,
+                    "right": 1347,
+                    "bottom": 1356
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_34.png"
+            },
+            {
+                "text": "vibrant",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 1409,
+                    "top": 1262,
+                    "right": 1771,
+                    "bottom": 1356
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_35.png"
+            },
+            {
+                "text": "flower",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 1828,
+                    "top": 1262,
+                    "right": 2162,
+                    "bottom": 1361
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_36.png"
+            },
+            {
+                "text": "or",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 2219,
+                    "top": 1299,
+                    "right": 2322,
+                    "bottom": 1356
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_37.png"
+            },
+            {
+                "text": "a",
+                "confidence": 93.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 1469,
+                    "right": 222,
+                    "bottom": 1526
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_38.png"
+            },
+            {
+                "text": "lush",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 311,
+                    "top": 1431,
+                    "right": 504,
+                    "bottom": 1526
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_39.png"
+            },
+            {
+                "text": "vegetable.",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 584,
+                    "top": 1431,
+                    "right": 1150,
+                    "bottom": 1559
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_40.png"
+            },
+            {
+                "text": "Digging",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 1244,
+                    "top": 1441,
+                    "right": 1649,
+                    "bottom": 1559
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_41.png"
+            },
+            {
+                "text": "in",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 1738,
+                    "top": 1450,
+                    "right": 1814,
+                    "bottom": 1526
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_42.png"
+            },
+            {
+                "text": "the",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1898,
+                    "top": 1431,
+                    "right": 2068,
+                    "bottom": 1526
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_43.png"
+            },
+            {
+                "text": "soil",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 2148,
+                    "top": 1431,
+                    "right": 2313,
+                    "bottom": 1526
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_44.png"
+            },
+            {
+                "text": "connects",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 1620,
+                    "right": 641,
+                    "bottom": 1695
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_45.png"
+            },
+            {
+                "text": "me",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 721,
+                    "top": 1639,
+                    "right": 872,
+                    "bottom": 1695
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_46.png"
+            },
+            {
+                "text": "with",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 942,
+                    "top": 1601,
+                    "right": 1159,
+                    "bottom": 1700
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_47.png"
+            },
+            {
+                "text": "nature",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1239,
+                    "top": 1620,
+                    "right": 1573,
+                    "bottom": 1695
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_48.png"
+            },
+            {
+                "text": "and",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1649,
+                    "top": 1601,
+                    "right": 1842,
+                    "bottom": 1695
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_49.png"
+            },
+            {
+                "text": "relieves",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1927,
+                    "top": 1601,
+                    "right": 2318,
+                    "bottom": 1695
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_50.png"
+            },
+            {
+                "text": "stress.",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 1789,
+                    "right": 481,
+                    "bottom": 1869
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_51.png"
+            },
+            {
+                "text": "Every",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 542,
+                    "top": 1780,
+                    "right": 815,
+                    "bottom": 1898
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_52.png"
+            },
+            {
+                "text": "day,",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 862,
+                    "top": 1770,
+                    "right": 1079,
+                    "bottom": 1898
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_53.png"
+            },
+            {
+                "text": "|",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1135,
+                    "top": 1780,
+                    "right": 1145,
+                    "bottom": 1865
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_54.png"
+            },
+            {
+                "text": "eagerly",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 1201,
+                    "top": 1770,
+                    "right": 1597,
+                    "bottom": 1898
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_55.png"
+            },
+            {
+                "text": "check",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 1644,
+                    "top": 1770,
+                    "right": 1955,
+                    "bottom": 1865
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_56.png"
+            },
+            {
+                "text": "on",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 2002,
+                    "top": 1808,
+                    "right": 2124,
+                    "bottom": 1865
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_57.png"
+            },
+            {
+                "text": "my",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 2181,
+                    "top": 1808,
+                    "right": 2322,
+                    "bottom": 1898
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_58.png"
+            },
+            {
+                "text": "plants,",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 165,
+                    "top": 1940,
+                    "right": 509,
+                    "bottom": 2067
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_59.png"
+            },
+            {
+                "text": "water",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 580,
+                    "top": 1959,
+                    "right": 886,
+                    "bottom": 2039
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_60.png"
+            },
+            {
+                "text": "them,",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 952,
+                    "top": 1940,
+                    "right": 1244,
+                    "bottom": 2053
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_61.png"
+            },
+            {
+                "text": "and",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1314,
+                    "top": 1940,
+                    "right": 1507,
+                    "bottom": 2034
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_62.png"
+            },
+            {
+                "text": "tenderly",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1583,
+                    "top": 1940,
+                    "right": 2016,
+                    "bottom": 2067
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_63.png"
+            },
+            {
+                "text": "care",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 2082,
+                    "top": 1978,
+                    "right": 2318,
+                    "bottom": 2034
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_64.png"
+            },
+            {
+                "text": "tor",
+                "confidence": 94.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 2110,
+                    "right": 306,
+                    "bottom": 2204
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_65.png"
+            },
+            {
+                "text": "them.",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 377,
+                    "top": 2110,
+                    "right": 669,
+                    "bottom": 2204
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_66.png"
+            },
+            {
+                "text": "Whether",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 749,
+                    "top": 2110,
+                    "right": 1192,
+                    "bottom": 2209
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_67.png"
+            },
+            {
+                "text": "it's",
+                "confidence": 86.0,
+                "bounding_box": {
+                    "left": 1272,
+                    "top": 2110,
+                    "right": 1399,
+                    "bottom": 2204
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_68.png"
+            },
+            {
+                "text": "planting",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 1484,
+                    "top": 2110,
+                    "right": 1908,
+                    "bottom": 2237
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_69.png"
+            },
+            {
+                "text": "seeds,",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1988,
+                    "top": 2110,
+                    "right": 2318,
+                    "bottom": 2223
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_70.png"
+            },
+            {
+                "text": "pruning,",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 165,
+                    "top": 2298,
+                    "right": 584,
+                    "bottom": 2406
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_71.png"
+            },
+            {
+                "text": "or",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 655,
+                    "top": 2317,
+                    "right": 759,
+                    "bottom": 2373
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_72.png"
+            },
+            {
+                "text": "simply",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 825,
+                    "top": 2279,
+                    "right": 1145,
+                    "bottom": 2406
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_73.png"
+            },
+            {
+                "text": "enjoying",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 1211,
+                    "top": 2298,
+                    "right": 1649,
+                    "bottom": 2406
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_74.png"
+            },
+            {
+                "text": "the",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1719,
+                    "top": 2279,
+                    "right": 1884,
+                    "bottom": 2373
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_75.png"
+            },
+            {
+                "text": "beauty",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1960,
+                    "top": 2279,
+                    "right": 2322,
+                    "bottom": 2406
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_76.png"
+            },
+            {
+                "text": "of",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 2449,
+                    "right": 264,
+                    "bottom": 2543
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_77.png"
+            },
+            {
+                "text": "my",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 354,
+                    "top": 2486,
+                    "right": 495,
+                    "bottom": 2576
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_78.png"
+            },
+            {
+                "text": "garden,",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 580,
+                    "top": 2449,
+                    "right": 980,
+                    "bottom": 2576
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_79.png"
+            },
+            {
+                "text": "|",
+                "confidence": 94.0,
+                "bounding_box": {
+                    "left": 1069,
+                    "top": 2458,
+                    "right": 1084,
+                    "bottom": 2543
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_80.png"
+            },
+            {
+                "text": "find",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1173,
+                    "top": 2449,
+                    "right": 1366,
+                    "bottom": 2543
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_81.png"
+            },
+            {
+                "text": "immense",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1460,
+                    "top": 2468,
+                    "right": 1917,
+                    "bottom": 2543
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_82.png"
+            },
+            {
+                "text": "joy",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1997,
+                    "top": 2468,
+                    "right": 2153,
+                    "bottom": 2576
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_83.png"
+            },
+            {
+                "text": "in",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 2238,
+                    "top": 2468,
+                    "right": 2313,
+                    "bottom": 2543
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_84.png"
+            },
+            {
+                "text": "every",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 2656,
+                    "right": 438,
+                    "bottom": 2745
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_85.png"
+            },
+            {
+                "text": "moment",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 551,
+                    "top": 2637,
+                    "right": 975,
+                    "bottom": 2712
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_86.png"
+            },
+            {
+                "text": "spent",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1084,
+                    "top": 2637,
+                    "right": 1371,
+                    "bottom": 2745
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_87.png"
+            },
+            {
+                "text": "with",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1479,
+                    "top": 2618,
+                    "right": 1696,
+                    "bottom": 2717
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_88.png"
+            },
+            {
+                "text": "my",
+                "confidence": 55.0,
+                "bounding_box": {
+                    "left": 1814,
+                    "top": 2656,
+                    "right": 1955,
+                    "bottom": 2745
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_89.png"
+            },
+            {
+                "text": "leaty",
+                "confidence": 55.0,
+                "bounding_box": {
+                    "left": 2068,
+                    "top": 2618,
+                    "right": 2322,
+                    "bottom": 2745
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_90.png"
+            },
+            {
+                "text": "companions.",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 2807,
+                    "right": 829,
+                    "bottom": 2915
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_91.png"
+            },
+            {
+                "text": "Gardening",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 956,
+                    "top": 2788,
+                    "right": 1522,
+                    "bottom": 2915
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_92.png"
+            },
+            {
+                "text": "isnt",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1649,
+                    "top": 2788,
+                    "right": 1842,
+                    "bottom": 2887
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_93.png"
+            },
+            {
+                "text": "just",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 1950,
+                    "top": 2807,
+                    "right": 2139,
+                    "bottom": 2910
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_94.png"
+            },
+            {
+                "text": "a",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 2256,
+                    "top": 2826,
+                    "right": 2313,
+                    "bottom": 2882
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_95.png"
+            },
+            {
+                "text": "hobby;",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 165,
+                    "top": 2957,
+                    "right": 509,
+                    "bottom": 3085
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_96.png"
+            },
+            {
+                "text": "it's",
+                "confidence": 93.0,
+                "bounding_box": {
+                    "left": 561,
+                    "top": 2957,
+                    "right": 693,
+                    "bottom": 3052
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_97.png"
+            },
+            {
+                "text": "my",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 740,
+                    "top": 2995,
+                    "right": 881,
+                    "bottom": 3085
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_98.png"
+            },
+            {
+                "text": "sanctuary.",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 919,
+                    "top": 2976,
+                    "right": 1456,
+                    "bottom": 3085
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_99.png"
+            },
+            {
+                "text": "(iF",
+                "confidence": 46.0,
+                "bounding_box": {
+                    "left": 568,
+                    "top": 3321,
+                    "right": 748,
+                    "bottom": 3475
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_100.png"
+            },
+            {
+                "text": "aspirantsessay.com",
+                "confidence": 91.0,
+                "bounding_box": {
+                    "left": 782,
+                    "top": 3349,
+                    "right": 1796,
+                    "bottom": 3461
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_101.png"
+            }
+        ]
+    },
+    {
+        "page_number": 3,
+        "extracted_data": [
+            {
+                "text": "Hard",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 165,
+                    "top": 423,
+                    "right": 419,
+                    "bottom": 522
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_1.png"
+            },
+            {
+                "text": "work",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 504,
+                    "top": 423,
+                    "right": 763,
+                    "bottom": 527
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_2.png"
+            },
+            {
+                "text": "is",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 848,
+                    "top": 442,
+                    "right": 919,
+                    "bottom": 522
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_3.png"
+            },
+            {
+                "text": "the",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1004,
+                    "top": 423,
+                    "right": 1173,
+                    "bottom": 522
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_4.png"
+            },
+            {
+                "text": "key",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1263,
+                    "top": 423,
+                    "right": 1437,
+                    "bottom": 555
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_5.png"
+            },
+            {
+                "text": "to",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1517,
+                    "top": 442,
+                    "right": 1625,
+                    "bottom": 522
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_6.png"
+            },
+            {
+                "text": "success.",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1710,
+                    "top": 461,
+                    "right": 2167,
+                    "bottom": 522
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_7.png"
+            },
+            {
+                "text": "It",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 2256,
+                    "top": 433,
+                    "right": 2318,
+                    "bottom": 522
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_8.png"
+            },
+            {
+                "text": "requires",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 165,
+                    "top": 617,
+                    "right": 603,
+                    "bottom": 730
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_9.png"
+            },
+            {
+                "text": "dedication",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 721,
+                    "top": 598,
+                    "right": 1314,
+                    "bottom": 697
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_10.png"
+            },
+            {
+                "text": "and",
+                "confidence": 49.0,
+                "bounding_box": {
+                    "left": 1432,
+                    "top": 598,
+                    "right": 1639,
+                    "bottom": 697
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_11.png"
+            },
+            {
+                "text": "_",
+                "confidence": 49.0,
+                "bounding_box": {
+                    "left": 1653,
+                    "top": 594,
+                    "right": 1677,
+                    "bottom": 735
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_12.png"
+            },
+            {
+                "text": "consistent",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1757,
+                    "top": 617,
+                    "right": 2322,
+                    "bottom": 701
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_13.png"
+            },
+            {
+                "text": "effort.",
+                "confidence": 94.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 772,
+                    "right": 500,
+                    "bottom": 871
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_14.png"
+            },
+            {
+                "text": "By",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 636,
+                    "top": 781,
+                    "right": 754,
+                    "bottom": 904
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_15.png"
+            },
+            {
+                "text": "working",
+                "confidence": 93.0,
+                "bounding_box": {
+                    "left": 872,
+                    "top": 772,
+                    "right": 1300,
+                    "bottom": 904
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_16.png"
+            },
+            {
+                "text": "hard,",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 1432,
+                    "top": 772,
+                    "right": 1705,
+                    "bottom": 890
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_17.png"
+            },
+            {
+                "text": "we",
+                "confidence": 86.0,
+                "bounding_box": {
+                    "left": 1832,
+                    "top": 810,
+                    "right": 1993,
+                    "bottom": 876
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_18.png"
+            },
+            {
+                "text": "can",
+                "confidence": 86.0,
+                "bounding_box": {
+                    "left": 2115,
+                    "top": 810,
+                    "right": 2313,
+                    "bottom": 871
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_19.png"
+            },
+            {
+                "text": "achieve",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 946,
+                    "right": 594,
+                    "bottom": 1050
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_20.png"
+            },
+            {
+                "text": "our",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 683,
+                    "top": 984,
+                    "right": 857,
+                    "bottom": 1045
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_21.png"
+            },
+            {
+                "text": "goals",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 942,
+                    "top": 946,
+                    "right": 1234,
+                    "bottom": 1078
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_22.png"
+            },
+            {
+                "text": "and",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1324,
+                    "top": 946,
+                    "right": 1526,
+                    "bottom": 1045
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_23.png"
+            },
+            {
+                "text": "improve",
+                "confidence": 94.0,
+                "bounding_box": {
+                    "left": 1625,
+                    "top": 965,
+                    "right": 2059,
+                    "bottom": 1078
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_24.png"
+            },
+            {
+                "text": "our",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 2148,
+                    "top": 984,
+                    "right": 2322,
+                    "bottom": 1045
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_25.png"
+            },
+            {
+                "text": "abilities.",
+                "confidence": 94.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 1120,
+                    "right": 622,
+                    "bottom": 1219
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_26.png"
+            },
+            {
+                "text": "Hard",
+                "confidence": 88.0,
+                "bounding_box": {
+                    "left": 787,
+                    "top": 1120,
+                    "right": 1036,
+                    "bottom": 1219
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_27.png"
+            },
+            {
+                "text": "work",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 1197,
+                    "top": 1120,
+                    "right": 1456,
+                    "bottom": 1224
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_28.png"
+            },
+            {
+                "text": "teaches",
+                "confidence": 45.0,
+                "bounding_box": {
+                    "left": 1606,
+                    "top": 1120,
+                    "right": 2054,
+                    "bottom": 1219
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_29.png"
+            },
+            {
+                "text": "us",
+                "confidence": 87.0,
+                "bounding_box": {
+                    "left": 2209,
+                    "top": 1158,
+                    "right": 2318,
+                    "bottom": 1219
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_30.png"
+            },
+            {
+                "text": "valuable",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 1295,
+                    "right": 631,
+                    "bottom": 1398
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_31.png"
+            },
+            {
+                "text": "lessons",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 707,
+                    "top": 1295,
+                    "right": 1093,
+                    "bottom": 1394
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_32.png"
+            },
+            {
+                "text": "about",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1164,
+                    "top": 1295,
+                    "right": 1493,
+                    "bottom": 1394
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_33.png"
+            },
+            {
+                "text": "perseverance",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1564,
+                    "top": 1332,
+                    "right": 2318,
+                    "bottom": 1427
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_34.png"
+            },
+            {
+                "text": "and",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 1469,
+                    "right": 363,
+                    "bottom": 1568
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_35.png"
+            },
+            {
+                "text": "discipline.",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 443,
+                    "top": 1469,
+                    "right": 994,
+                    "bottom": 1601
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_36.png"
+            },
+            {
+                "text": "It",
+                "confidence": 87.0,
+                "bounding_box": {
+                    "left": 1074,
+                    "top": 1478,
+                    "right": 1135,
+                    "bottom": 1568
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_37.png"
+            },
+            {
+                "text": "is",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1206,
+                    "top": 1488,
+                    "right": 1277,
+                    "bottom": 1568
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_38.png"
+            },
+            {
+                "text": "not",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1352,
+                    "top": 1488,
+                    "right": 1526,
+                    "bottom": 1568
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_39.png"
+            },
+            {
+                "text": "always",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1592,
+                    "top": 1469,
+                    "right": 1969,
+                    "bottom": 1601
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_40.png"
+            },
+            {
+                "text": "easy,",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 2040,
+                    "top": 1507,
+                    "right": 2318,
+                    "bottom": 1601
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_41.png"
+            },
+            {
+                "text": "but",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 165,
+                    "top": 1643,
+                    "right": 339,
+                    "bottom": 1742
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_42.png"
+            },
+            {
+                "text": "the",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 405,
+                    "top": 1643,
+                    "right": 580,
+                    "bottom": 1742
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_43.png"
+            },
+            {
+                "text": "results",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 655,
+                    "top": 1643,
+                    "right": 1004,
+                    "bottom": 1742
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_44.png"
+            },
+            {
+                "text": "are",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1069,
+                    "top": 1681,
+                    "right": 1248,
+                    "bottom": 1742
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_45.png"
+            },
+            {
+                "text": "worth",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1319,
+                    "top": 1643,
+                    "right": 1625,
+                    "bottom": 1747
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_46.png"
+            },
+            {
+                "text": "it.",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 1701,
+                    "top": 1662,
+                    "right": 1795,
+                    "bottom": 1742
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_47.png"
+            },
+            {
+                "text": "Success",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1870,
+                    "top": 1653,
+                    "right": 2318,
+                    "bottom": 1742
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_48.png"
+            },
+            {
+                "text": "often",
+                "confidence": 75.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 1818,
+                    "right": 448,
+                    "bottom": 1916
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_49.png"
+            },
+            {
+                "text": "depends",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 528,
+                    "top": 1818,
+                    "right": 1008,
+                    "bottom": 1949
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_50.png"
+            },
+            {
+                "text": "on",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1088,
+                    "top": 1855,
+                    "right": 1215,
+                    "bottom": 1916
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_51.png"
+            },
+            {
+                "text": "our",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1296,
+                    "top": 1855,
+                    "right": 1470,
+                    "bottom": 1916
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_52.png"
+            },
+            {
+                "text": "willingness",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1536,
+                    "top": 1818,
+                    "right": 2134,
+                    "bottom": 1949
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_53.png"
+            },
+            {
+                "text": "to",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 2209,
+                    "top": 1836,
+                    "right": 2318,
+                    "bottom": 1916
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_54.png"
+            },
+            {
+                "text": "work",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 1992,
+                    "right": 419,
+                    "bottom": 2095
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_55.png"
+            },
+            {
+                "text": "hard",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 518,
+                    "top": 1992,
+                    "right": 759,
+                    "bottom": 2091
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_56.png"
+            },
+            {
+                "text": "and",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 862,
+                    "top": 1992,
+                    "right": 1065,
+                    "bottom": 2091
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_57.png"
+            },
+            {
+                "text": "stay",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1164,
+                    "top": 2011,
+                    "right": 1385,
+                    "bottom": 2124
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_58.png"
+            },
+            {
+                "text": "focused.",
+                "confidence": 94.0,
+                "bounding_box": {
+                    "left": 1479,
+                    "top": 1992,
+                    "right": 1955,
+                    "bottom": 2095
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_59.png"
+            },
+            {
+                "text": "Hard",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 2059,
+                    "top": 1992,
+                    "right": 2313,
+                    "bottom": 2091
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_60.png"
+            },
+            {
+                "text": "work",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 2166,
+                    "right": 419,
+                    "bottom": 2270
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_61.png"
+            },
+            {
+                "text": "helps",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 509,
+                    "top": 2166,
+                    "right": 796,
+                    "bottom": 2298
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_62.png"
+            },
+            {
+                "text": "us",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 886,
+                    "top": 2204,
+                    "right": 994,
+                    "bottom": 2265
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_63.png"
+            },
+            {
+                "text": "overcome",
+                "confidence": 92.0,
+                "bounding_box": {
+                    "left": 1084,
+                    "top": 2204,
+                    "right": 1625,
+                    "bottom": 2270
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_64.png"
+            },
+            {
+                "text": "challenges",
+                "confidence": 94.0,
+                "bounding_box": {
+                    "left": 1719,
+                    "top": 2166,
+                    "right": 2318,
+                    "bottom": 2298
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_65.png"
+            },
+            {
+                "text": "and",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 2340,
+                    "right": 363,
+                    "bottom": 2444
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_66.png"
+            },
+            {
+                "text": "reach",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 434,
+                    "top": 2340,
+                    "right": 740,
+                    "bottom": 2439
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_67.png"
+            },
+            {
+                "text": "new",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 806,
+                    "top": 2378,
+                    "right": 1032,
+                    "bottom": 2444
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_68.png"
+            },
+            {
+                "text": "heights.",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1093,
+                    "top": 2340,
+                    "right": 1517,
+                    "bottom": 2472
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_69.png"
+            },
+            {
+                "text": "It",
+                "confidence": 94.0,
+                "bounding_box": {
+                    "left": 1588,
+                    "top": 2350,
+                    "right": 1649,
+                    "bottom": 2439
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_70.png"
+            },
+            {
+                "text": "shows",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1705,
+                    "top": 2340,
+                    "right": 2040,
+                    "bottom": 2444
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_71.png"
+            },
+            {
+                "text": "that",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 2096,
+                    "top": 2340,
+                    "right": 2318,
+                    "bottom": 2439
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_72.png"
+            },
+            {
+                "text": "effort",
+                "confidence": 89.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 2515,
+                    "right": 471,
+                    "bottom": 2614
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_73.png"
+            },
+            {
+                "text": "and",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 533,
+                    "top": 2515,
+                    "right": 735,
+                    "bottom": 2614
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_74.png"
+            },
+            {
+                "text": "determination",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 801,
+                    "top": 2515,
+                    "right": 1578,
+                    "bottom": 2614
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_75.png"
+            },
+            {
+                "text": "can",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1644,
+                    "top": 2552,
+                    "right": 1842,
+                    "bottom": 2614
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_76.png"
+            },
+            {
+                "text": "lead",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1913,
+                    "top": 2515,
+                    "right": 2143,
+                    "bottom": 2614
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_77.png"
+            },
+            {
+                "text": "to",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 2209,
+                    "top": 2534,
+                    "right": 2318,
+                    "bottom": 2614
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_78.png"
+            },
+            {
+                "text": "great",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 165,
+                    "top": 2708,
+                    "right": 462,
+                    "bottom": 2821
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_79.png"
+            },
+            {
+                "text": "achievements.",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 533,
+                    "top": 2689,
+                    "right": 1328,
+                    "bottom": 2788
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_80.png"
+            },
+            {
+                "text": "With",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1404,
+                    "top": 2689,
+                    "right": 1635,
+                    "bottom": 2793
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_81.png"
+            },
+            {
+                "text": "hard",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1715,
+                    "top": 2689,
+                    "right": 1955,
+                    "bottom": 2788
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_82.png"
+            },
+            {
+                "text": "work,",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 2030,
+                    "top": 2689,
+                    "right": 2318,
+                    "bottom": 2807
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_83.png"
+            },
+            {
+                "text": "we",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 2901,
+                    "right": 321,
+                    "bottom": 2967
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_84.png"
+            },
+            {
+                "text": "can",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 396,
+                    "top": 2901,
+                    "right": 598,
+                    "bottom": 2962
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_85.png"
+            },
+            {
+                "text": "turn",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 674,
+                    "top": 2882,
+                    "right": 886,
+                    "bottom": 2962
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_86.png"
+            },
+            {
+                "text": "our",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 966,
+                    "top": 2901,
+                    "right": 1140,
+                    "bottom": 2962
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_87.png"
+            },
+            {
+                "text": "dreams",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1215,
+                    "top": 2863,
+                    "right": 1621,
+                    "bottom": 2967
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_88.png"
+            },
+            {
+                "text": "into",
+                "confidence": 93.0,
+                "bounding_box": {
+                    "left": 1701,
+                    "top": 2882,
+                    "right": 1898,
+                    "bottom": 2962
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_89.png"
+            },
+            {
+                "text": "reality",
+                "confidence": 93.0,
+                "bounding_box": {
+                    "left": 1983,
+                    "top": 2863,
+                    "right": 2322,
+                    "bottom": 2995
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_90.png"
+            },
+            {
+                "text": "and",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 3037,
+                    "right": 363,
+                    "bottom": 3136
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_91.png"
+            },
+            {
+                "text": "accomplish",
+                "confidence": 93.0,
+                "bounding_box": {
+                    "left": 415,
+                    "top": 3037,
+                    "right": 1041,
+                    "bottom": 3169
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_92.png"
+            },
+            {
+                "text": "our",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1088,
+                    "top": 3075,
+                    "right": 1267,
+                    "bottom": 3136
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_93.png"
+            },
+            {
+                "text": "objectives.",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 1305,
+                    "top": 3037,
+                    "right": 1898,
+                    "bottom": 3169
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_94.png"
+            },
+            {
+                "text": "aspirantsessay.com",
+                "confidence": 92.0,
+                "bounding_box": {
+                    "left": 801,
+                    "top": 3344,
+                    "right": 1828,
+                    "bottom": 3447
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_95.png"
+            }
+        ]
+    },
+    {
+        "page_number": 4,
+        "extracted_data": [
+            {
+                "text": "English",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 165,
+                    "top": 414,
+                    "right": 547,
+                    "bottom": 546
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_1.png"
+            },
+            {
+                "text": "is",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 627,
+                    "top": 433,
+                    "right": 697,
+                    "bottom": 513
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_2.png"
+            },
+            {
+                "text": "incredibly",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 768,
+                    "top": 414,
+                    "right": 1305,
+                    "bottom": 546
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_3.png"
+            },
+            {
+                "text": "important",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 1380,
+                    "top": 433,
+                    "right": 1917,
+                    "bottom": 546
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_4.png"
+            },
+            {
+                "text": "in",
+                "confidence": 93.0,
+                "bounding_box": {
+                    "left": 1988,
+                    "top": 433,
+                    "right": 2073,
+                    "bottom": 513
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_5.png"
+            },
+            {
+                "text": "our",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 2148,
+                    "top": 452,
+                    "right": 2322,
+                    "bottom": 513
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_6.png"
+            },
+            {
+                "text": "world",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 588,
+                    "right": 462,
+                    "bottom": 692
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_7.png"
+            },
+            {
+                "text": "today.",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 509,
+                    "top": 588,
+                    "right": 853,
+                    "bottom": 720
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_8.png"
+            },
+            {
+                "text": "It's",
+                "confidence": 94.0,
+                "bounding_box": {
+                    "left": 909,
+                    "top": 588,
+                    "right": 1046,
+                    "bottom": 692
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_9.png"
+            },
+            {
+                "text": "like",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1093,
+                    "top": 588,
+                    "right": 1267,
+                    "bottom": 687
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_10.png"
+            },
+            {
+                "text": "a",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1314,
+                    "top": 626,
+                    "right": 1376,
+                    "bottom": 687
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_11.png"
+            },
+            {
+                "text": "key",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1432,
+                    "top": 588,
+                    "right": 1606,
+                    "bottom": 720
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_12.png"
+            },
+            {
+                "text": "that",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1644,
+                    "top": 588,
+                    "right": 1870,
+                    "bottom": 687
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_13.png"
+            },
+            {
+                "text": "unlocks",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1917,
+                    "top": 588,
+                    "right": 2318,
+                    "bottom": 687
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_14.png"
+            },
+            {
+                "text": "many",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 165,
+                    "top": 800,
+                    "right": 457,
+                    "bottom": 894
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_15.png"
+            },
+            {
+                "text": "doors.",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 518,
+                    "top": 763,
+                    "right": 853,
+                    "bottom": 861
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_16.png"
+            },
+            {
+                "text": "When",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 919,
+                    "top": 763,
+                    "right": 1220,
+                    "bottom": 866
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_17.png"
+            },
+            {
+                "text": "you",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 1286,
+                    "top": 800,
+                    "right": 1475,
+                    "bottom": 894
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_18.png"
+            },
+            {
+                "text": "speak",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 1540,
+                    "top": 763,
+                    "right": 1865,
+                    "bottom": 894
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_19.png"
+            },
+            {
+                "text": "English",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 1936,
+                    "top": 763,
+                    "right": 2313,
+                    "bottom": 894
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_20.png"
+            },
+            {
+                "text": "well,",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 937,
+                    "right": 405,
+                    "bottom": 1055
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_21.png"
+            },
+            {
+                "text": "you",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 452,
+                    "top": 974,
+                    "right": 641,
+                    "bottom": 1069
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_22.png"
+            },
+            {
+                "text": "can",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 693,
+                    "top": 974,
+                    "right": 890,
+                    "bottom": 1036
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_23.png"
+            },
+            {
+                "text": "talk",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 938,
+                    "top": 937,
+                    "right": 1135,
+                    "bottom": 1036
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_24.png"
+            },
+            {
+                "text": "with",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1182,
+                    "top": 937,
+                    "right": 1409,
+                    "bottom": 1040
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_25.png"
+            },
+            {
+                "text": "people",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1465,
+                    "top": 937,
+                    "right": 1847,
+                    "bottom": 1069
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_26.png"
+            },
+            {
+                "text": "trom",
+                "confidence": 90.0,
+                "bounding_box": {
+                    "left": 1894,
+                    "top": 937,
+                    "right": 2143,
+                    "bottom": 1036
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_27.png"
+            },
+            {
+                "text": "all",
+                "confidence": 89.0,
+                "bounding_box": {
+                    "left": 2195,
+                    "top": 937,
+                    "right": 2313,
+                    "bottom": 1036
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_28.png"
+            },
+            {
+                "text": "over",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 1149,
+                    "right": 396,
+                    "bottom": 1215
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_29.png"
+            },
+            {
+                "text": "the",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 467,
+                    "top": 1111,
+                    "right": 641,
+                    "bottom": 1210
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_30.png"
+            },
+            {
+                "text": "world.",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 716,
+                    "top": 1111,
+                    "right": 1055,
+                    "bottom": 1215
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_31.png"
+            },
+            {
+                "text": "This",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 1135,
+                    "top": 1111,
+                    "right": 1338,
+                    "bottom": 1210
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_32.png"
+            },
+            {
+                "text": "helps",
+                "confidence": 94.0,
+                "bounding_box": {
+                    "left": 1418,
+                    "top": 1111,
+                    "right": 1701,
+                    "bottom": 1243
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_33.png"
+            },
+            {
+                "text": "you",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1776,
+                    "top": 1149,
+                    "right": 1964,
+                    "bottom": 1243
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_34.png"
+            },
+            {
+                "text": "learn",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 2044,
+                    "top": 1111,
+                    "right": 2313,
+                    "bottom": 1210
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_35.png"
+            },
+            {
+                "text": "new",
+                "confidence": 75.0,
+                "bounding_box": {
+                    "left": 165,
+                    "top": 1323,
+                    "right": 391,
+                    "bottom": 1389
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_36.png"
+            },
+            {
+                "text": "things",
+                "confidence": 75.0,
+                "bounding_box": {
+                    "left": 594,
+                    "top": 1285,
+                    "right": 928,
+                    "bottom": 1417
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_37.png"
+            },
+            {
+                "text": "and_",
+                "confidence": 80.0,
+                "bounding_box": {
+                    "left": 1140,
+                    "top": 1285,
+                    "right": 1343,
+                    "bottom": 1384
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_38.png"
+            },
+            {
+                "text": "find",
+                "confidence": 94.0,
+                "bounding_box": {
+                    "left": 1559,
+                    "top": 1285,
+                    "right": 1762,
+                    "bottom": 1384
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_39.png"
+            },
+            {
+                "text": "better",
+                "confidence": 52.0,
+                "bounding_box": {
+                    "left": 1983,
+                    "top": 1285,
+                    "right": 2322,
+                    "bottom": 1384
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_40.png"
+            },
+            {
+                "text": "opportunities.",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 1478,
+                    "right": 923,
+                    "bottom": 1592
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_41.png"
+            },
+            {
+                "text": "In",
+                "confidence": 92.0,
+                "bounding_box": {
+                    "left": 994,
+                    "top": 1469,
+                    "right": 1074,
+                    "bottom": 1559
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_42.png"
+            },
+            {
+                "text": "school,",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1135,
+                    "top": 1460,
+                    "right": 1522,
+                    "bottom": 1577
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_43.png"
+            },
+            {
+                "text": "good",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1583,
+                    "top": 1460,
+                    "right": 1865,
+                    "bottom": 1592
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_44.png"
+            },
+            {
+                "text": "English",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1936,
+                    "top": 1460,
+                    "right": 2313,
+                    "bottom": 1592
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_45.png"
+            },
+            {
+                "text": "skills",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 1634,
+                    "right": 405,
+                    "bottom": 1733
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_46.png"
+            },
+            {
+                "text": "help",
+                "confidence": 94.0,
+                "bounding_box": {
+                    "left": 457,
+                    "top": 1634,
+                    "right": 683,
+                    "bottom": 1766
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_47.png"
+            },
+            {
+                "text": "you",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 735,
+                    "top": 1672,
+                    "right": 919,
+                    "bottom": 1766
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_48.png"
+            },
+            {
+                "text": "understand",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 975,
+                    "top": 1634,
+                    "right": 1597,
+                    "bottom": 1733
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_49.png"
+            },
+            {
+                "text": "your",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1649,
+                    "top": 1672,
+                    "right": 1880,
+                    "bottom": 1766
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_50.png"
+            },
+            {
+                "text": "lessons",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1931,
+                    "top": 1634,
+                    "right": 2318,
+                    "bottom": 1733
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_51.png"
+            },
+            {
+                "text": "and",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 1808,
+                    "right": 368,
+                    "bottom": 1907
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_52.png"
+            },
+            {
+                "text": "do",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 452,
+                    "top": 1808,
+                    "right": 589,
+                    "bottom": 1907
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_53.png"
+            },
+            {
+                "text": "well",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 674,
+                    "top": 1808,
+                    "right": 886,
+                    "bottom": 1912
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_54.png"
+            },
+            {
+                "text": "in",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 975,
+                    "top": 1827,
+                    "right": 1060,
+                    "bottom": 1907
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_55.png"
+            },
+            {
+                "text": "exams.",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 1145,
+                    "top": 1846,
+                    "right": 1526,
+                    "bottom": 1907
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_56.png"
+            },
+            {
+                "text": "Plus,",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1616,
+                    "top": 1808,
+                    "right": 1851,
+                    "bottom": 1926
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_57.png"
+            },
+            {
+                "text": "lots",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1941,
+                    "top": 1808,
+                    "right": 2129,
+                    "bottom": 1907
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_58.png"
+            },
+            {
+                "text": "of",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 2209,
+                    "top": 1808,
+                    "right": 2318,
+                    "bottom": 1907
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_59.png"
+            },
+            {
+                "text": "books,",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 165,
+                    "top": 1982,
+                    "right": 509,
+                    "bottom": 2100
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_60.png"
+            },
+            {
+                "text": "movies,",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 603,
+                    "top": 2001,
+                    "right": 1004,
+                    "bottom": 2100
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_61.png"
+            },
+            {
+                "text": "and",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 1093,
+                    "top": 1982,
+                    "right": 1296,
+                    "bottom": 2081
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_62.png"
+            },
+            {
+                "text": "websites",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1390,
+                    "top": 1982,
+                    "right": 1875,
+                    "bottom": 2086
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_63.png"
+            },
+            {
+                "text": "are",
+                "confidence": 94.0,
+                "bounding_box": {
+                    "left": 1964,
+                    "top": 2020,
+                    "right": 2139,
+                    "bottom": 2081
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_64.png"
+            },
+            {
+                "text": "in",
+                "confidence": 94.0,
+                "bounding_box": {
+                    "left": 2233,
+                    "top": 2001,
+                    "right": 2313,
+                    "bottom": 2081
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_65.png"
+            },
+            {
+                "text": "English,",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 165,
+                    "top": 2157,
+                    "right": 580,
+                    "bottom": 2289
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_66.png"
+            },
+            {
+                "text": "so",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 707,
+                    "top": 2194,
+                    "right": 820,
+                    "bottom": 2256
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_67.png"
+            },
+            {
+                "text": "knowing",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 956,
+                    "top": 2157,
+                    "right": 1399,
+                    "bottom": 2289
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_68.png"
+            },
+            {
+                "text": "it",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 1536,
+                    "top": 2176,
+                    "right": 1602,
+                    "bottom": 2256
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_69.png"
+            },
+            {
+                "text": "gives",
+                "confidence": 90.0,
+                "bounding_box": {
+                    "left": 1729,
+                    "top": 2176,
+                    "right": 2002,
+                    "bottom": 2289
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_70.png"
+            },
+            {
+                "text": "you",
+                "confidence": 90.0,
+                "bounding_box": {
+                    "left": 2129,
+                    "top": 2194,
+                    "right": 2313,
+                    "bottom": 2289
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_71.png"
+            },
+            {
+                "text": "access",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 2369,
+                    "right": 542,
+                    "bottom": 2435
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_72.png"
+            },
+            {
+                "text": "to",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 594,
+                    "top": 2350,
+                    "right": 702,
+                    "bottom": 2430
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_73.png"
+            },
+            {
+                "text": "a",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 759,
+                    "top": 2369,
+                    "right": 820,
+                    "bottom": 2430
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_74.png"
+            },
+            {
+                "text": "lot",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 886,
+                    "top": 2331,
+                    "right": 1022,
+                    "bottom": 2430
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_75.png"
+            },
+            {
+                "text": "of",
+                "confidence": 93.0,
+                "bounding_box": {
+                    "left": 1074,
+                    "top": 2331,
+                    "right": 1182,
+                    "bottom": 2430
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_76.png"
+            },
+            {
+                "text": "cool",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1239,
+                    "top": 2331,
+                    "right": 1465,
+                    "bottom": 2430
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_77.png"
+            },
+            {
+                "text": "stuff.",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1526,
+                    "top": 2331,
+                    "right": 1799,
+                    "bottom": 2430
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_78.png"
+            },
+            {
+                "text": "Whether",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1856,
+                    "top": 2331,
+                    "right": 2322,
+                    "bottom": 2435
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_79.png"
+            },
+            {
+                "text": "you",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 2543,
+                    "right": 344,
+                    "bottom": 2637
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_80.png"
+            },
+            {
+                "text": "want",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 438,
+                    "top": 2524,
+                    "right": 711,
+                    "bottom": 2609
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_81.png"
+            },
+            {
+                "text": "to",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 801,
+                    "top": 2524,
+                    "right": 905,
+                    "bottom": 2604
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_82.png"
+            },
+            {
+                "text": "travel,",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 999,
+                    "top": 2505,
+                    "right": 1338,
+                    "bottom": 2623
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_83.png"
+            },
+            {
+                "text": "study,",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 1427,
+                    "top": 2505,
+                    "right": 1743,
+                    "bottom": 2637
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_84.png"
+            },
+            {
+                "text": "or",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 1837,
+                    "top": 2543,
+                    "right": 1946,
+                    "bottom": 2604
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_85.png"
+            },
+            {
+                "text": "work,",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 2030,
+                    "top": 2505,
+                    "right": 2318,
+                    "bottom": 2623
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_86.png"
+            },
+            {
+                "text": "English",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 165,
+                    "top": 2680,
+                    "right": 547,
+                    "bottom": 2811
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_87.png"
+            },
+            {
+                "text": "can",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 613,
+                    "top": 2717,
+                    "right": 810,
+                    "bottom": 2778
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_88.png"
+            },
+            {
+                "text": "make",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 886,
+                    "top": 2680,
+                    "right": 1173,
+                    "bottom": 2778
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_89.png"
+            },
+            {
+                "text": "it",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 1244,
+                    "top": 2698,
+                    "right": 1305,
+                    "bottom": 2778
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_90.png"
+            },
+            {
+                "text": "easier",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 1366,
+                    "top": 2698,
+                    "right": 1705,
+                    "bottom": 2783
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_91.png"
+            },
+            {
+                "text": "and",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1767,
+                    "top": 2680,
+                    "right": 1969,
+                    "bottom": 2778
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_92.png"
+            },
+            {
+                "text": "more",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 2044,
+                    "top": 2717,
+                    "right": 2318,
+                    "bottom": 2778
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_93.png"
+            },
+            {
+                "text": "tun.",
+                "confidence": 81.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 2854,
+                    "right": 363,
+                    "bottom": 2953
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_94.png"
+            },
+            {
+                "text": "So,",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 438,
+                    "top": 2863,
+                    "right": 608,
+                    "bottom": 2972
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_95.png"
+            },
+            {
+                "text": "learning",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 683,
+                    "top": 2854,
+                    "right": 1126,
+                    "bottom": 2986
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_96.png"
+            },
+            {
+                "text": "English",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1206,
+                    "top": 2854,
+                    "right": 1588,
+                    "bottom": 2986
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_97.png"
+            },
+            {
+                "text": "is",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1663,
+                    "top": 2873,
+                    "right": 1734,
+                    "bottom": 2953
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_98.png"
+            },
+            {
+                "text": "definitely",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1809,
+                    "top": 2854,
+                    "right": 2322,
+                    "bottom": 2986
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_99.png"
+            },
+            {
+                "text": "worth",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 3028,
+                    "right": 467,
+                    "bottom": 3132
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_100.png"
+            },
+            {
+                "text": "it!",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 518,
+                    "top": 3028,
+                    "right": 613,
+                    "bottom": 3127
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_101.png"
+            },
+            {
+                "text": "(iF",
+                "confidence": 46.0,
+                "bounding_box": {
+                    "left": 568,
+                    "top": 3321,
+                    "right": 748,
+                    "bottom": 3475
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_102.png"
+            },
+            {
+                "text": "aspirantsessay.com",
+                "confidence": 91.0,
+                "bounding_box": {
+                    "left": 782,
+                    "top": 3349,
+                    "right": 1796,
+                    "bottom": 3461
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_103.png"
+            }
+        ]
+    },
+    {
+        "page_number": 5,
+        "extracted_data": [
+            {
+                "text": "Good",
+                "confidence": 94.0,
+                "bounding_box": {
+                    "left": 848,
+                    "top": 164,
+                    "right": 1178,
+                    "bottom": 259
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_1.png"
+            },
+            {
+                "text": "Habits",
+                "confidence": 94.0,
+                "bounding_box": {
+                    "left": 1220,
+                    "top": 160,
+                    "right": 1630,
+                    "bottom": 259
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_2.png"
+            },
+            {
+                "text": "Good",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 414,
+                    "right": 457,
+                    "bottom": 508
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_3.png"
+            },
+            {
+                "text": "habits",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 533,
+                    "top": 414,
+                    "right": 848,
+                    "bottom": 508
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_4.png"
+            },
+            {
+                "text": "are",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 909,
+                    "top": 452,
+                    "right": 1079,
+                    "bottom": 508
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_5.png"
+            },
+            {
+                "text": "essential",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1145,
+                    "top": 414,
+                    "right": 1602,
+                    "bottom": 508
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_6.png"
+            },
+            {
+                "text": "for",
+                "confidence": 94.0,
+                "bounding_box": {
+                    "left": 1668,
+                    "top": 414,
+                    "right": 1818,
+                    "bottom": 508
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_7.png"
+            },
+            {
+                "text": "success.",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1880,
+                    "top": 452,
+                    "right": 2313,
+                    "bottom": 508
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_8.png"
+            },
+            {
+                "text": "Waking",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 584,
+                    "right": 537,
+                    "bottom": 711
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_9.png"
+            },
+            {
+                "text": "up",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 622,
+                    "top": 621,
+                    "right": 740,
+                    "bottom": 711
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_10.png"
+            },
+            {
+                "text": "early",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 820,
+                    "top": 584,
+                    "right": 1074,
+                    "bottom": 711
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_11.png"
+            },
+            {
+                "text": "ensures",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1145,
+                    "top": 621,
+                    "right": 1540,
+                    "bottom": 678
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_12.png"
+            },
+            {
+                "text": "a",
+                "confidence": 93.0,
+                "bounding_box": {
+                    "left": 1616,
+                    "top": 621,
+                    "right": 1672,
+                    "bottom": 678
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_13.png"
+            },
+            {
+                "text": "productive",
+                "confidence": 93.0,
+                "bounding_box": {
+                    "left": 1757,
+                    "top": 584,
+                    "right": 2318,
+                    "bottom": 711
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_14.png"
+            },
+            {
+                "text": "day.",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 753,
+                    "right": 377,
+                    "bottom": 880
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_15.png"
+            },
+            {
+                "text": "Planning",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 452,
+                    "top": 753,
+                    "right": 890,
+                    "bottom": 880
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_16.png"
+            },
+            {
+                "text": "ahead",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 961,
+                    "top": 753,
+                    "right": 1291,
+                    "bottom": 847
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_17.png"
+            },
+            {
+                "text": "aids",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1361,
+                    "top": 753,
+                    "right": 1573,
+                    "bottom": 852
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_18.png"
+            },
+            {
+                "text": "in",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1644,
+                    "top": 772,
+                    "right": 1719,
+                    "bottom": 847
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_19.png"
+            },
+            {
+                "text": "managing",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1790,
+                    "top": 772,
+                    "right": 2313,
+                    "bottom": 880
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_20.png"
+            },
+            {
+                "text": "time",
+                "confidence": 94.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 942,
+                    "right": 386,
+                    "bottom": 1017
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_21.png"
+            },
+            {
+                "text": "efficiently.",
+                "confidence": 22.0,
+                "bounding_box": {
+                    "left": 448,
+                    "top": 923,
+                    "right": 994,
+                    "bottom": 1050
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_22.png"
+            },
+            {
+                "text": "Regular",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1065,
+                    "top": 923,
+                    "right": 1465,
+                    "bottom": 1050
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_23.png"
+            },
+            {
+                "text": "exercise",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1522,
+                    "top": 942,
+                    "right": 1955,
+                    "bottom": 1017
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_24.png"
+            },
+            {
+                "text": "keeps",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 2021,
+                    "top": 923,
+                    "right": 2318,
+                    "bottom": 1050
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_25.png"
+            },
+            {
+                "text": "the",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 1092,
+                    "right": 325,
+                    "bottom": 1186
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_26.png"
+            },
+            {
+                "text": "body",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 401,
+                    "top": 1092,
+                    "right": 655,
+                    "bottom": 1219
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_27.png"
+            },
+            {
+                "text": "healthy",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 726,
+                    "top": 1092,
+                    "right": 1107,
+                    "bottom": 1219
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_28.png"
+            },
+            {
+                "text": "and",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1173,
+                    "top": 1092,
+                    "right": 1366,
+                    "bottom": 1186
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_29.png"
+            },
+            {
+                "text": "the",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1437,
+                    "top": 1092,
+                    "right": 1606,
+                    "bottom": 1186
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_30.png"
+            },
+            {
+                "text": "mind",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1682,
+                    "top": 1092,
+                    "right": 1922,
+                    "bottom": 1186
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_31.png"
+            },
+            {
+                "text": "sharp.",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1997,
+                    "top": 1092,
+                    "right": 2313,
+                    "bottom": 1219
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_32.png"
+            },
+            {
+                "text": "Reading",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 165,
+                    "top": 1262,
+                    "right": 594,
+                    "bottom": 1389
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_33.png"
+            },
+            {
+                "text": "daily",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 646,
+                    "top": 1262,
+                    "right": 895,
+                    "bottom": 1389
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_34.png"
+            },
+            {
+                "text": "enhances",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 938,
+                    "top": 1262,
+                    "right": 1446,
+                    "bottom": 1356
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_35.png"
+            },
+            {
+                "text": "knowledge",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1498,
+                    "top": 1262,
+                    "right": 2068,
+                    "bottom": 1389
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_36.png"
+            },
+            {
+                "text": "and",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 2120,
+                    "top": 1262,
+                    "right": 2313,
+                    "bottom": 1356
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_37.png"
+            },
+            {
+                "text": "vocabulary.",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 1431,
+                    "right": 768,
+                    "bottom": 1559
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_38.png"
+            },
+            {
+                "text": "Eating",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 820,
+                    "top": 1441,
+                    "right": 1150,
+                    "bottom": 1559
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_39.png"
+            },
+            {
+                "text": "nutritious",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1201,
+                    "top": 1450,
+                    "right": 1682,
+                    "bottom": 1526
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_40.png"
+            },
+            {
+                "text": "meals",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1729,
+                    "top": 1431,
+                    "right": 2030,
+                    "bottom": 1526
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_41.png"
+            },
+            {
+                "text": "fuels",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 2073,
+                    "top": 1431,
+                    "right": 2318,
+                    "bottom": 1526
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_42.png"
+            },
+            {
+                "text": "energy",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 1639,
+                    "right": 523,
+                    "bottom": 1728
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_43.png"
+            },
+            {
+                "text": "levels.",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 613,
+                    "top": 1601,
+                    "right": 923,
+                    "bottom": 1695
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_44.png"
+            },
+            {
+                "text": "Maintaining",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1022,
+                    "top": 1606,
+                    "right": 1644,
+                    "bottom": 1728
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_45.png"
+            },
+            {
+                "text": "cleanliness",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 1738,
+                    "top": 1601,
+                    "right": 2318,
+                    "bottom": 1695
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_46.png"
+            },
+            {
+                "text": "tosters",
+                "confidence": 91.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 1770,
+                    "right": 514,
+                    "bottom": 1865
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_47.png"
+            },
+            {
+                "text": "a",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 575,
+                    "top": 1808,
+                    "right": 631,
+                    "bottom": 1865
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_48.png"
+            },
+            {
+                "text": "hygienic",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 702,
+                    "top": 1770,
+                    "right": 1135,
+                    "bottom": 1898
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_49.png"
+            },
+            {
+                "text": "environment.",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1197,
+                    "top": 1789,
+                    "right": 1870,
+                    "bottom": 1869
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_50.png"
+            },
+            {
+                "text": "Setting",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1941,
+                    "top": 1780,
+                    "right": 2313,
+                    "bottom": 1898
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_51.png"
+            },
+            {
+                "text": "goals",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 165,
+                    "top": 1940,
+                    "right": 443,
+                    "bottom": 2067
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_52.png"
+            },
+            {
+                "text": "provides",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 490,
+                    "top": 1940,
+                    "right": 933,
+                    "bottom": 2067
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_53.png"
+            },
+            {
+                "text": "direction",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 975,
+                    "top": 1940,
+                    "right": 1442,
+                    "bottom": 2034
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_54.png"
+            },
+            {
+                "text": "and",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1489,
+                    "top": 1940,
+                    "right": 1682,
+                    "bottom": 2034
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_55.png"
+            },
+            {
+                "text": "motivation.",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 1734,
+                    "top": 1959,
+                    "right": 2313,
+                    "bottom": 2039
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_56.png"
+            },
+            {
+                "text": "Being",
+                "confidence": 97.0,
+                "bounding_box": {
+                    "left": 165,
+                    "top": 2119,
+                    "right": 448,
+                    "bottom": 2237
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_57.png"
+            },
+            {
+                "text": "kind",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 518,
+                    "top": 2110,
+                    "right": 716,
+                    "bottom": 2204
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_58.png"
+            },
+            {
+                "text": "and",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 782,
+                    "top": 2110,
+                    "right": 975,
+                    "bottom": 2204
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_59.png"
+            },
+            {
+                "text": "respectful",
+                "confidence": 57.0,
+                "bounding_box": {
+                    "left": 1041,
+                    "top": 2110,
+                    "right": 1564,
+                    "bottom": 2237
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_60.png"
+            },
+            {
+                "text": "builds",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1630,
+                    "top": 2110,
+                    "right": 1931,
+                    "bottom": 2204
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_61.png"
+            },
+            {
+                "text": "strong",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1988,
+                    "top": 2128,
+                    "right": 2313,
+                    "bottom": 2237
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_62.png"
+            },
+            {
+                "text": "relationships.",
+                "confidence": 93.0,
+                "bounding_box": {
+                    "left": 165,
+                    "top": 2279,
+                    "right": 857,
+                    "bottom": 2406
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_63.png"
+            },
+            {
+                "text": "Avoiding",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 956,
+                    "top": 2279,
+                    "right": 1409,
+                    "bottom": 2406
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_64.png"
+            },
+            {
+                "text": "procrastination",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 1517,
+                    "top": 2298,
+                    "right": 2313,
+                    "bottom": 2406
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_65.png"
+            },
+            {
+                "text": "prevents",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 165,
+                    "top": 2468,
+                    "right": 608,
+                    "bottom": 2576
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_66.png"
+            },
+            {
+                "text": "stress",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 674,
+                    "top": 2468,
+                    "right": 966,
+                    "bottom": 2548
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_67.png"
+            },
+            {
+                "text": "and",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 1032,
+                    "top": 2449,
+                    "right": 1225,
+                    "bottom": 2543
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_68.png"
+            },
+            {
+                "text": "last-minute",
+                "confidence": 94.0,
+                "bounding_box": {
+                    "left": 1300,
+                    "top": 2449,
+                    "right": 1889,
+                    "bottom": 2543
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_69.png"
+            },
+            {
+                "text": "rushes.",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1960,
+                    "top": 2449,
+                    "right": 2313,
+                    "bottom": 2543
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_70.png"
+            },
+            {
+                "text": "Retlecting",
+                "confidence": 91.0,
+                "bounding_box": {
+                    "left": 165,
+                    "top": 2618,
+                    "right": 697,
+                    "bottom": 2745
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_71.png"
+            },
+            {
+                "text": "on",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 820,
+                    "top": 2656,
+                    "right": 942,
+                    "bottom": 2712
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_72.png"
+            },
+            {
+                "text": "experiences",
+                "confidence": 94.0,
+                "bounding_box": {
+                    "left": 1065,
+                    "top": 2637,
+                    "right": 1705,
+                    "bottom": 2745
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_73.png"
+            },
+            {
+                "text": "promotes",
+                "confidence": 94.0,
+                "bounding_box": {
+                    "left": 1828,
+                    "top": 2637,
+                    "right": 2318,
+                    "bottom": 2745
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_74.png"
+            },
+            {
+                "text": "self-improvement.",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 160,
+                    "top": 2788,
+                    "right": 1117,
+                    "bottom": 2915
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_75.png"
+            },
+            {
+                "text": "Cultivating",
+                "confidence": 90.0,
+                "bounding_box": {
+                    "left": 1296,
+                    "top": 2788,
+                    "right": 1865,
+                    "bottom": 2915
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_76.png"
+            },
+            {
+                "text": "good",
+                "confidence": 93.0,
+                "bounding_box": {
+                    "left": 2044,
+                    "top": 2788,
+                    "right": 2313,
+                    "bottom": 2915
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_77.png"
+            },
+            {
+                "text": "habits",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 165,
+                    "top": 2957,
+                    "right": 481,
+                    "bottom": 3052
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_78.png"
+            },
+            {
+                "text": "leads",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 528,
+                    "top": 2957,
+                    "right": 806,
+                    "bottom": 3052
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_79.png"
+            },
+            {
+                "text": "to",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 848,
+                    "top": 2976,
+                    "right": 952,
+                    "bottom": 3052
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_80.png"
+            },
+            {
+                "text": "a",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 999,
+                    "top": 2995,
+                    "right": 1055,
+                    "bottom": 3052
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_81.png"
+            },
+            {
+                "text": "fulfilling",
+                "confidence": 84.0,
+                "bounding_box": {
+                    "left": 1107,
+                    "top": 2957,
+                    "right": 1522,
+                    "bottom": 3085
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_82.png"
+            },
+            {
+                "text": "and",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1573,
+                    "top": 2957,
+                    "right": 1767,
+                    "bottom": 3052
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_83.png"
+            },
+            {
+                "text": "balanced",
+                "confidence": 96.0,
+                "bounding_box": {
+                    "left": 1818,
+                    "top": 2957,
+                    "right": 2313,
+                    "bottom": 3052
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_84.png"
+            },
+            {
+                "text": "life.",
+                "confidence": 85.0,
+                "bounding_box": {
+                    "left": 165,
+                    "top": 3127,
+                    "right": 349,
+                    "bottom": 3221
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_85.png"
+            },
+            {
+                "text": "14",
+                "confidence": 64.0,
+                "bounding_box": {
+                    "left": 573,
+                    "top": 3321,
+                    "right": 749,
+                    "bottom": 3475
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_86.png"
+            },
+            {
+                "text": "aspirantsessay.com",
+                "confidence": 91.0,
+                "bounding_box": {
+                    "left": 782,
+                    "top": 3349,
+                    "right": 1796,
+                    "bottom": 3461
+                },
+                "roi_image_path": "output_pdf_english/extracted_text_87.png"
+            }
+        ]
+    }
+]

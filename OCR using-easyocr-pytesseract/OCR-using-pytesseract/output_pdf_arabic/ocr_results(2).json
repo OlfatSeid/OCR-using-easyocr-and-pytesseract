@@ -1,0 +1,3273 @@
+[
+    {
+        "page_number": 1,
+        "extracted_data": [
+            {
+                "text": "\"",
+                "confidence": 33.0,
+                "bounding_box": {
+                    "left": 1167,
+                    "top": 100,
+                    "right": 1213,
+                    "bottom": 160
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_1.png"
+            },
+            {
+                "text": "1",
+                "confidence": 41.0,
+                "bounding_box": {
+                    "left": 709,
+                    "top": 74,
+                    "right": 808,
+                    "bottom": 275
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_2.png"
+            },
+            {
+                "text": "5",
+                "confidence": 43.0,
+                "bounding_box": {
+                    "left": 297,
+                    "top": 74,
+                    "right": 388,
+                    "bottom": 155
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_3.png"
+            },
+            {
+                "text": "2",
+                "confidence": 50.0,
+                "bounding_box": {
+                    "left": 1233,
+                    "top": 192,
+                    "right": 1395,
+                    "bottom": 307
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_4.png"
+            },
+            {
+                "text": "ا",
+                "confidence": 38.0,
+                "bounding_box": {
+                    "left": 1039,
+                    "top": 165,
+                    "right": 1178,
+                    "bottom": 303
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_5.png"
+            },
+            {
+                "text": "1",
+                "confidence": 43.0,
+                "bounding_box": {
+                    "left": 825,
+                    "top": 209,
+                    "right": 925,
+                    "bottom": 318
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_6.png"
+            },
+            {
+                "text": "0",
+                "confidence": 38.0,
+                "bounding_box": {
+                    "left": 278,
+                    "top": 187,
+                    "right": 462,
+                    "bottom": 324
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_7.png"
+            },
+            {
+                "text": "8",
+                "confidence": 47.0,
+                "bounding_box": {
+                    "left": 1111,
+                    "top": 309,
+                    "right": 1318,
+                    "bottom": 577
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_8.png"
+            },
+            {
+                "text": "0",
+                "confidence": 17.0,
+                "bounding_box": {
+                    "left": 296,
+                    "top": 306,
+                    "right": 578,
+                    "bottom": 455
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_9.png"
+            },
+            {
+                "text": "200700",
+                "confidence": 48.0,
+                "bounding_box": {
+                    "left": 602,
+                    "top": 436,
+                    "right": 783,
+                    "bottom": 482
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_10.png"
+            },
+            {
+                "text": "20",
+                "confidence": 59.0,
+                "bounding_box": {
+                    "left": 420,
+                    "top": 437,
+                    "right": 557,
+                    "bottom": 537
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_11.png"
+            },
+            {
+                "text": "3",
+                "confidence": 51.0,
+                "bounding_box": {
+                    "left": 278,
+                    "top": 439,
+                    "right": 372,
+                    "bottom": 495
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_12.png"
+            },
+            {
+                "text": "8",
+                "confidence": 69.0,
+                "bounding_box": {
+                    "left": 1205,
+                    "top": 477,
+                    "right": 1242,
+                    "bottom": 525
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_13.png"
+            },
+            {
+                "text": "7",
+                "confidence": 38.0,
+                "bounding_box": {
+                    "left": 929,
+                    "top": 502,
+                    "right": 941,
+                    "bottom": 508
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_14.png"
+            },
+            {
+                "text": "21",
+                "confidence": 49.0,
+                "bounding_box": {
+                    "left": 533,
+                    "top": 466,
+                    "right": 675,
+                    "bottom": 551
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_15.png"
+            },
+            {
+                "text": "د",
+                "confidence": 43.0,
+                "bounding_box": {
+                    "left": 303,
+                    "top": 491,
+                    "right": 447,
+                    "bottom": 548
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_16.png"
+            },
+            {
+                "text": "عت",
+                "confidence": 31.0,
+                "bounding_box": {
+                    "left": 322,
+                    "top": 721,
+                    "right": 622,
+                    "bottom": 827
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_17.png"
+            },
+            {
+                "text": "2ه",
+                "confidence": 29.0,
+                "bounding_box": {
+                    "left": 1880,
+                    "top": 883,
+                    "right": 1921,
+                    "bottom": 916
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_18.png"
+            },
+            {
+                "text": ":",
+                "confidence": 47.0,
+                "bounding_box": {
+                    "left": 331,
+                    "top": 867,
+                    "right": 342,
+                    "bottom": 881
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_19.png"
+            },
+            {
+                "text": "١‏",
+                "confidence": 10.0,
+                "bounding_box": {
+                    "left": 278,
+                    "top": 843,
+                    "right": 292,
+                    "bottom": 883
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_20.png"
+            },
+            {
+                "text": "ََ",
+                "confidence": 7.0,
+                "bounding_box": {
+                    "left": 1894,
+                    "top": 903,
+                    "right": 1923,
+                    "bottom": 927
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_21.png"
+            },
+            {
+                "text": "0",
+                "confidence": 84.0,
+                "bounding_box": {
+                    "left": 1369,
+                    "top": 913,
+                    "right": 1395,
+                    "bottom": 928
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_22.png"
+            },
+            {
+                "text": "1",
+                "confidence": 31.0,
+                "bounding_box": {
+                    "left": 577,
+                    "top": 917,
+                    "right": 606,
+                    "bottom": 928
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_23.png"
+            },
+            {
+                "text": "|",
+                "confidence": 47.0,
+                "bounding_box": {
+                    "left": 1968,
+                    "top": 940,
+                    "right": 1982,
+                    "bottom": 1033
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_24.png"
+            },
+            {
+                "text": "0",
+                "confidence": 34.0,
+                "bounding_box": {
+                    "left": 1541,
+                    "top": 923,
+                    "right": 1649,
+                    "bottom": 960
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_25.png"
+            },
+            {
+                "text": "لحن",
+                "confidence": 5.0,
+                "bounding_box": {
+                    "left": 974,
+                    "top": 933,
+                    "right": 1225,
+                    "bottom": 1029
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_26.png"
+            },
+            {
+                "text": "1",
+                "confidence": 71.0,
+                "bounding_box": {
+                    "left": 864,
+                    "top": 950,
+                    "right": 928,
+                    "bottom": 1063
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_27.png"
+            },
+            {
+                "text": "علق",
+                "confidence": 53.0,
+                "bounding_box": {
+                    "left": 653,
+                    "top": 929,
+                    "right": 848,
+                    "bottom": 1067
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_28.png"
+            },
+            {
+                "text": "ال",
+                "confidence": 88.0,
+                "bounding_box": {
+                    "left": 500,
+                    "top": 927,
+                    "right": 602,
+                    "bottom": 1049
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_29.png"
+            },
+            {
+                "text": "0",
+                "confidence": 78.0,
+                "bounding_box": {
+                    "left": 1911,
+                    "top": 937,
+                    "right": 1959,
+                    "bottom": 1034
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_30.png"
+            },
+            {
+                "text": "يد",
+                "confidence": 44.0,
+                "bounding_box": {
+                    "left": 1789,
+                    "top": 987,
+                    "right": 1868,
+                    "bottom": 1086
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_31.png"
+            },
+            {
+                "text": "صأ",
+                "confidence": 62.0,
+                "bounding_box": {
+                    "left": 1534,
+                    "top": 932,
+                    "right": 1734,
+                    "bottom": 1050
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_32.png"
+            },
+            {
+                "text": "(",
+                "confidence": 69.0,
+                "bounding_box": {
+                    "left": 1524,
+                    "top": 989,
+                    "right": 1541,
+                    "bottom": 1051
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_33.png"
+            },
+            {
+                "text": "”9",
+                "confidence": 22.0,
+                "bounding_box": {
+                    "left": 1195,
+                    "top": 982,
+                    "right": 1229,
+                    "bottom": 1161
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_34.png"
+            },
+            {
+                "text": "2",
+                "confidence": 41.0,
+                "bounding_box": {
+                    "left": 981,
+                    "top": 1056,
+                    "right": 1006,
+                    "bottom": 1082
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_35.png"
+            },
+            {
+                "text": "9",
+                "confidence": 35.0,
+                "bounding_box": {
+                    "left": 517,
+                    "top": 1060,
+                    "right": 542,
+                    "bottom": 1074
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_36.png"
+            },
+            {
+                "text": "3",
+                "confidence": 54.0,
+                "bounding_box": {
+                    "left": 1383,
+                    "top": 1279,
+                    "right": 1409,
+                    "bottom": 1293
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_37.png"
+            },
+            {
+                "text": "2",
+                "confidence": 83.0,
+                "bounding_box": {
+                    "left": 1124,
+                    "top": 1239,
+                    "right": 1150,
+                    "bottom": 1265
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_38.png"
+            },
+            {
+                "text": "2",
+                "confidence": 46.0,
+                "bounding_box": {
+                    "left": 677,
+                    "top": 1275,
+                    "right": 704,
+                    "bottom": 1289
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_39.png"
+            },
+            {
+                "text": "0",
+                "confidence": 15.0,
+                "bounding_box": {
+                    "left": 1947,
+                    "top": 1327,
+                    "right": 1972,
+                    "bottom": 1341
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_40.png"
+            },
+            {
+                "text": "0",
+                "confidence": 18.0,
+                "bounding_box": {
+                    "left": 1565,
+                    "top": 1292,
+                    "right": 1677,
+                    "bottom": 1344
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_41.png"
+            },
+            {
+                "text": "2",
+                "confidence": 83.0,
+                "bounding_box": {
+                    "left": 1427,
+                    "top": 1303,
+                    "right": 1454,
+                    "bottom": 1317
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_42.png"
+            },
+            {
+                "text": "0",
+                "confidence": 41.0,
+                "bounding_box": {
+                    "left": 1117,
+                    "top": 1295,
+                    "right": 1202,
+                    "bottom": 1324
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_43.png"
+            },
+            {
+                "text": "ل",
+                "confidence": 30.0,
+                "bounding_box": {
+                    "left": 812,
+                    "top": 1316,
+                    "right": 836,
+                    "bottom": 1329
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_44.png"
+            },
+            {
+                "text": "كما",
+                "confidence": 34.0,
+                "bounding_box": {
+                    "left": 1897,
+                    "top": 1303,
+                    "right": 2057,
+                    "bottom": 1400
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_45.png"
+            },
+            {
+                "text": "صليت",
+                "confidence": 91.0,
+                "bounding_box": {
+                    "left": 1538,
+                    "top": 1298,
+                    "right": 1856,
+                    "bottom": 1430
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_46.png"
+            },
+            {
+                "text": "عَلَى",
+                "confidence": 70.0,
+                "bounding_box": {
+                    "left": 1287,
+                    "top": 1297,
+                    "right": 1485,
+                    "bottom": 1436
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_47.png"
+            },
+            {
+                "text": "إبراهيمَ",
+                "confidence": 43.0,
+                "bounding_box": {
+                    "left": 901,
+                    "top": 1301,
+                    "right": 1242,
+                    "bottom": 1448
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_48.png"
+            },
+            {
+                "text": "وَعَلَى",
+                "confidence": 40.0,
+                "bounding_box": {
+                    "left": 582,
+                    "top": 1294,
+                    "right": 858,
+                    "bottom": 1432
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_49.png"
+            },
+            {
+                "text": "ال",
+                "confidence": 5.0,
+                "bounding_box": {
+                    "left": 430,
+                    "top": 1293,
+                    "right": 533,
+                    "bottom": 1440
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_50.png"
+            },
+            {
+                "text": "28",
+                "confidence": 57.0,
+                "bounding_box": {
+                    "left": 1286,
+                    "top": 1479,
+                    "right": 1371,
+                    "bottom": 1506
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_51.png"
+            },
+            {
+                "text": "5",
+                "confidence": 48.0,
+                "bounding_box": {
+                    "left": 1084,
+                    "top": 1507,
+                    "right": 1109,
+                    "bottom": 1522
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_52.png"
+            },
+            {
+                "text": "إبراهيم",
+                "confidence": 73.0,
+                "bounding_box": {
+                    "left": 1069,
+                    "top": 1486,
+                    "right": 1410,
+                    "bottom": 1631
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_53.png"
+            },
+            {
+                "text": "د",
+                "confidence": 21.0,
+                "bounding_box": {
+                    "left": 1512,
+                    "top": 1633,
+                    "right": 1543,
+                    "bottom": 1702
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_54.png"
+            },
+            {
+                "text": "0",
+                "confidence": 67.0,
+                "bounding_box": {
+                    "left": 1437,
+                    "top": 1668,
+                    "right": 1463,
+                    "bottom": 1682
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_55.png"
+            },
+            {
+                "text": "5",
+                "confidence": 79.0,
+                "bounding_box": {
+                    "left": 1313,
+                    "top": 1675,
+                    "right": 1339,
+                    "bottom": 1689
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_56.png"
+            },
+            {
+                "text": "اه",
+                "confidence": 7.0,
+                "bounding_box": {
+                    "left": 1148,
+                    "top": 1637,
+                    "right": 1183,
+                    "bottom": 1685
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_57.png"
+            },
+            {
+                "text": "ىه",
+                "confidence": 31.0,
+                "bounding_box": {
+                    "left": 858,
+                    "top": 1644,
+                    "right": 894,
+                    "bottom": 1692
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_58.png"
+            },
+            {
+                "text": "و",
+                "confidence": 36.0,
+                "bounding_box": {
+                    "left": 1855,
+                    "top": 1851,
+                    "right": 1856,
+                    "bottom": 1874
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_59.png"
+            },
+            {
+                "text": "ع",
+                "confidence": 30.0,
+                "bounding_box": {
+                    "left": 1491,
+                    "top": 1797,
+                    "right": 1545,
+                    "bottom": 1882
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_60.png"
+            },
+            {
+                "text": "عه",
+                "confidence": 23.0,
+                "bounding_box": {
+                    "left": 1373,
+                    "top": 1828,
+                    "right": 1442,
+                    "bottom": 1865
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_61.png"
+            },
+            {
+                "text": "6",
+                "confidence": 38.0,
+                "bounding_box": {
+                    "left": 532,
+                    "top": 1832,
+                    "right": 561,
+                    "bottom": 1841
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_62.png"
+            },
+            {
+                "text": "أ",
+                "confidence": 54.0,
+                "bounding_box": {
+                    "left": 2009,
+                    "top": 1856,
+                    "right": 2022,
+                    "bottom": 1948
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_63.png"
+            },
+            {
+                "text": "9",
+                "confidence": 67.0,
+                "bounding_box": {
+                    "left": 1826,
+                    "top": 1841,
+                    "right": 1898,
+                    "bottom": 1888
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_64.png"
+            },
+            {
+                "text": "بَارك",
+                "confidence": 73.0,
+                "bounding_box": {
+                    "left": 1527,
+                    "top": 1834,
+                    "right": 1774,
+                    "bottom": 1988
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_65.png"
+            },
+            {
+                "text": "محمد»",
+                "confidence": 74.0,
+                "bounding_box": {
+                    "left": 933,
+                    "top": 1851,
+                    "right": 1240,
+                    "bottom": 1959
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_66.png"
+            },
+            {
+                "text": "وهلى",
+                "confidence": 30.0,
+                "bounding_box": {
+                    "left": 564,
+                    "top": 1839,
+                    "right": 882,
+                    "bottom": 1986
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_67.png"
+            },
+            {
+                "text": "ال",
+                "confidence": 87.0,
+                "bounding_box": {
+                    "left": 453,
+                    "top": 1842,
+                    "right": 554,
+                    "bottom": 1963
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_68.png"
+            },
+            {
+                "text": "د",
+                "confidence": 27.0,
+                "bounding_box": {
+                    "left": 1647,
+                    "top": 1996,
+                    "right": 1656,
+                    "bottom": 2009
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_69.png"
+            },
+            {
+                "text": "م",
+                "confidence": 18.0,
+                "bounding_box": {
+                    "left": 1245,
+                    "top": 1846,
+                    "right": 1461,
+                    "bottom": 2072
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_70.png"
+            },
+            {
+                "text": ":",
+                "confidence": 38.0,
+                "bounding_box": {
+                    "left": 1172,
+                    "top": 2031,
+                    "right": 1202,
+                    "bottom": 2068
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_71.png"
+            },
+            {
+                "text": "0",
+                "confidence": 18.0,
+                "bounding_box": {
+                    "left": 1948,
+                    "top": 2205,
+                    "right": 2034,
+                    "bottom": 2256
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_72.png"
+            },
+            {
+                "text": "ات",
+                "confidence": 30.0,
+                "bounding_box": {
+                    "left": 1555,
+                    "top": 2192,
+                    "right": 1749,
+                    "bottom": 2240
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_73.png"
+            },
+            {
+                "text": "10",
+                "confidence": 39.0,
+                "bounding_box": {
+                    "left": 1360,
+                    "top": 2183,
+                    "right": 1399,
+                    "bottom": 2241
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_74.png"
+            },
+            {
+                "text": "دم",
+                "confidence": 44.0,
+                "bounding_box": {
+                    "left": 669,
+                    "top": 2190,
+                    "right": 739,
+                    "bottom": 2228
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_75.png"
+            },
+            {
+                "text": "1",
+                "confidence": 55.0,
+                "bounding_box": {
+                    "left": 499,
+                    "top": 2197,
+                    "right": 529,
+                    "bottom": 2206
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_76.png"
+            },
+            {
+                "text": "20",
+                "confidence": 50.0,
+                "bounding_box": {
+                    "left": 1281,
+                    "top": 2408,
+                    "right": 1306,
+                    "bottom": 2421
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_77.png"
+            },
+            {
+                "text": "2",
+                "confidence": 17.0,
+                "bounding_box": {
+                    "left": 1079,
+                    "top": 2422,
+                    "right": 1105,
+                    "bottom": 2437
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_78.png"
+            },
+            {
+                "text": "إبراهيم",
+                "confidence": 70.0,
+                "bounding_box": {
+                    "left": 1064,
+                    "top": 2400,
+                    "right": 1407,
+                    "bottom": 2547
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_79.png"
+            },
+            {
+                "text": "-",
+                "confidence": 20.0,
+                "bounding_box": {
+                    "left": 1433,
+                    "top": 2583,
+                    "right": 1459,
+                    "bottom": 2597
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_80.png"
+            },
+            {
+                "text": "5",
+                "confidence": 83.0,
+                "bounding_box": {
+                    "left": 1309,
+                    "top": 2590,
+                    "right": 1334,
+                    "bottom": 2604
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_81.png"
+            },
+            {
+                "text": "5",
+                "confidence": 64.0,
+                "bounding_box": {
+                    "left": 1144,
+                    "top": 2564,
+                    "right": 1176,
+                    "bottom": 2595
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_82.png"
+            },
+            {
+                "text": "1",
+                "confidence": 9.0,
+                "bounding_box": {
+                    "left": 869,
+                    "top": 2563,
+                    "right": 897,
+                    "bottom": 2594
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_83.png"
+            },
+            {
+                "text": "3",
+                "confidence": 61.0,
+                "bounding_box": {
+                    "left": 1932,
+                    "top": 2768,
+                    "right": 2134,
+                    "bottom": 3038
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_84.png"
+            },
+            {
+                "text": "1",
+                "confidence": 31.0,
+                "bounding_box": {
+                    "left": 1566,
+                    "top": 2933,
+                    "right": 1696,
+                    "bottom": 3067
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_85.png"
+            },
+            {
+                "text": ":",
+                "confidence": 33.0,
+                "bounding_box": {
+                    "left": 1314,
+                    "top": 2940,
+                    "right": 1350,
+                    "bottom": 3090
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_86.png"
+            },
+            {
+                "text": "3",
+                "confidence": 46.0,
+                "bounding_box": {
+                    "left": 1164,
+                    "top": 2882,
+                    "right": 1326,
+                    "bottom": 3055
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_87.png"
+            },
+            {
+                "text": ",",
+                "confidence": 82.0,
+                "bounding_box": {
+                    "left": 2088,
+                    "top": 3109,
+                    "right": 2114,
+                    "bottom": 3139
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_88.png"
+            },
+            {
+                "text": "0",
+                "confidence": 17.0,
+                "bounding_box": {
+                    "left": 1745,
+                    "top": 3089,
+                    "right": 2063,
+                    "bottom": 3196
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_89.png"
+            },
+            {
+                "text": "4",
+                "confidence": 13.0,
+                "bounding_box": {
+                    "left": 1674,
+                    "top": 3123,
+                    "right": 1731,
+                    "bottom": 3195
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_90.png"
+            },
+            {
+                "text": "7",
+                "confidence": 22.0,
+                "bounding_box": {
+                    "left": 1592,
+                    "top": 3094,
+                    "right": 1652,
+                    "bottom": 3169
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_91.png"
+            },
+            {
+                "text": "ا",
+                "confidence": 30.0,
+                "bounding_box": {
+                    "left": 1300,
+                    "top": 3056,
+                    "right": 1536,
+                    "bottom": 3197
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_92.png"
+            },
+            {
+                "text": "دجي",
+                "confidence": 41.0,
+                "bounding_box": {
+                    "left": 1081,
+                    "top": 3023,
+                    "right": 1261,
+                    "bottom": 3228
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_93.png"
+            },
+            {
+                "text": "37",
+                "confidence": 39.0,
+                "bounding_box": {
+                    "left": 1951,
+                    "top": 3173,
+                    "right": 1986,
+                    "bottom": 3277
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_94.png"
+            },
+            {
+                "text": "0",
+                "confidence": 46.0,
+                "bounding_box": {
+                    "left": 1734,
+                    "top": 3189,
+                    "right": 1777,
+                    "bottom": 3257
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_95.png"
+            },
+            {
+                "text": "4700",
+                "confidence": 40.0,
+                "bounding_box": {
+                    "left": 1441,
+                    "top": 3193,
+                    "right": 1779,
+                    "bottom": 3253
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_96.png"
+            },
+            {
+                "text": "24",
+                "confidence": 25.0,
+                "bounding_box": {
+                    "left": 1377,
+                    "top": 3236,
+                    "right": 1389,
+                    "bottom": 3244
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_97.png"
+            },
+            {
+                "text": "ص2",
+                "confidence": 28.0,
+                "bounding_box": {
+                    "left": 1017,
+                    "top": 3187,
+                    "right": 1225,
+                    "bottom": 3371
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_98.png"
+            },
+            {
+                "text": "س0",
+                "confidence": 56.0,
+                "bounding_box": {
+                    "left": 1969,
+                    "top": 3265,
+                    "right": 2015,
+                    "bottom": 3304
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_99.png"
+            },
+            {
+                "text": "5",
+                "confidence": 77.0,
+                "bounding_box": {
+                    "left": 1852,
+                    "top": 3266,
+                    "right": 1927,
+                    "bottom": 3320
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_100.png"
+            },
+            {
+                "text": "7",
+                "confidence": 72.0,
+                "bounding_box": {
+                    "left": 1791,
+                    "top": 3269,
+                    "right": 1816,
+                    "bottom": 3312
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_101.png"
+            },
+            {
+                "text": "7",
+                "confidence": 47.0,
+                "bounding_box": {
+                    "left": 1677,
+                    "top": 3253,
+                    "right": 1719,
+                    "bottom": 3308
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_102.png"
+            },
+            {
+                "text": "7",
+                "confidence": 52.0,
+                "bounding_box": {
+                    "left": 1433,
+                    "top": 3271,
+                    "right": 1499,
+                    "bottom": 3320
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_103.png"
+            },
+            {
+                "text": "7",
+                "confidence": 71.0,
+                "bounding_box": {
+                    "left": 2098,
+                    "top": 3335,
+                    "right": 2133,
+                    "bottom": 3342
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_104.png"
+            },
+            {
+                "text": "01",
+                "confidence": 26.0,
+                "bounding_box": {
+                    "left": 1848,
+                    "top": 3344,
+                    "right": 1854,
+                    "bottom": 3353
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_105.png"
+            },
+            {
+                "text": "“تك",
+                "confidence": 46.0,
+                "bounding_box": {
+                    "left": 1608,
+                    "top": 3319,
+                    "right": 1668,
+                    "bottom": 3378
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_106.png"
+            }
+        ]
+    },
+    {
+        "page_number": 2,
+        "extracted_data": [
+            {
+                "text": "|",
+                "confidence": 65.0,
+                "bounding_box": {
+                    "left": 2344,
+                    "top": 0,
+                    "right": 2351,
+                    "bottom": 67
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_1.png"
+            },
+            {
+                "text": "9",
+                "confidence": 45.0,
+                "bounding_box": {
+                    "left": 1557,
+                    "top": 64,
+                    "right": 1592,
+                    "bottom": 67
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_2.png"
+            },
+            {
+                "text": "تان",
+                "confidence": 32.0,
+                "bounding_box": {
+                    "left": 1449,
+                    "top": 70,
+                    "right": 1572,
+                    "bottom": 102
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_3.png"
+            },
+            {
+                "text": "لوووط",
+                "confidence": 5.0,
+                "bounding_box": {
+                    "left": 1340,
+                    "top": 36,
+                    "right": 1429,
+                    "bottom": 145
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_4.png"
+            },
+            {
+                "text": "سوم",
+                "confidence": 17.0,
+                "bounding_box": {
+                    "left": 1156,
+                    "top": 68,
+                    "right": 1320,
+                    "bottom": 133
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_5.png"
+            },
+            {
+                "text": "سس",
+                "confidence": 36.0,
+                "bounding_box": {
+                    "left": 986,
+                    "top": 70,
+                    "right": 1068,
+                    "bottom": 132
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_6.png"
+            },
+            {
+                "text": "يبب",
+                "confidence": 23.0,
+                "bounding_box": {
+                    "left": 675,
+                    "top": 77,
+                    "right": 726,
+                    "bottom": 102
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_7.png"
+            },
+            {
+                "text": "دي",
+                "confidence": 40.0,
+                "bounding_box": {
+                    "left": 584,
+                    "top": 36,
+                    "right": 639,
+                    "bottom": 145
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_8.png"
+            },
+            {
+                "text": "سس",
+                "confidence": 30.0,
+                "bounding_box": {
+                    "left": 388,
+                    "top": 74,
+                    "right": 641,
+                    "bottom": 133
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_9.png"
+            },
+            {
+                "text": "م",
+                "confidence": 36.0,
+                "bounding_box": {
+                    "left": 352,
+                    "top": 74,
+                    "right": 380,
+                    "bottom": 83
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_10.png"
+            },
+            {
+                "text": "»",
+                "confidence": 14.0,
+                "bounding_box": {
+                    "left": 2160,
+                    "top": 562,
+                    "right": 2188,
+                    "bottom": 601
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_11.png"
+            },
+            {
+                "text": "2",
+                "confidence": 41.0,
+                "bounding_box": {
+                    "left": 1722,
+                    "top": 569,
+                    "right": 1926,
+                    "bottom": 662
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_12.png"
+            },
+            {
+                "text": ">",
+                "confidence": 37.0,
+                "bounding_box": {
+                    "left": 1246,
+                    "top": 636,
+                    "right": 1247,
+                    "bottom": 639
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_13.png"
+            },
+            {
+                "text": "0",
+                "confidence": 51.0,
+                "bounding_box": {
+                    "left": 831,
+                    "top": 509,
+                    "right": 1019,
+                    "bottom": 715
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_14.png"
+            },
+            {
+                "text": "])",
+                "confidence": 25.0,
+                "bounding_box": {
+                    "left": 225,
+                    "top": 566,
+                    "right": 274,
+                    "bottom": 695
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_15.png"
+            },
+            {
+                "text": "|",
+                "confidence": 48.0,
+                "bounding_box": {
+                    "left": 52,
+                    "top": 579,
+                    "right": 79,
+                    "bottom": 679
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_16.png"
+            },
+            {
+                "text": "٠",
+                "confidence": 16.0,
+                "bounding_box": {
+                    "left": 1914,
+                    "top": 813,
+                    "right": 1915,
+                    "bottom": 816
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_17.png"
+            },
+            {
+                "text": "فون",
+                "confidence": 47.0,
+                "bounding_box": {
+                    "left": 1336,
+                    "top": 757,
+                    "right": 1391,
+                    "bottom": 781
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_18.png"
+            },
+            {
+                "text": "1",
+                "confidence": 59.0,
+                "bounding_box": {
+                    "left": 1199,
+                    "top": 749,
+                    "right": 1237,
+                    "bottom": 842
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_19.png"
+            },
+            {
+                "text": "1",
+                "confidence": 63.0,
+                "bounding_box": {
+                    "left": 1024,
+                    "top": 807,
+                    "right": 1033,
+                    "bottom": 810
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_20.png"
+            },
+            {
+                "text": "0",
+                "confidence": 4.0,
+                "bounding_box": {
+                    "left": 915,
+                    "top": 743,
+                    "right": 991,
+                    "bottom": 810
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_21.png"
+            },
+            {
+                "text": "1",
+                "confidence": 88.0,
+                "bounding_box": {
+                    "left": 768,
+                    "top": 700,
+                    "right": 840,
+                    "bottom": 872
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_22.png"
+            },
+            {
+                "text": "5",
+                "confidence": 61.0,
+                "bounding_box": {
+                    "left": 667,
+                    "top": 772,
+                    "right": 679,
+                    "bottom": 807
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_23.png"
+            },
+            {
+                "text": "55",
+                "confidence": 65.0,
+                "bounding_box": {
+                    "left": 454,
+                    "top": 763,
+                    "right": 474,
+                    "bottom": 772
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_24.png"
+            },
+            {
+                "text": "2",
+                "confidence": 63.0,
+                "bounding_box": {
+                    "left": 335,
+                    "top": 750,
+                    "right": 391,
+                    "bottom": 840
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_25.png"
+            },
+            {
+                "text": "0",
+                "confidence": 34.0,
+                "bounding_box": {
+                    "left": 205,
+                    "top": 797,
+                    "right": 272,
+                    "bottom": 829
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_26.png"
+            },
+            {
+                "text": "ا",
+                "confidence": 45.0,
+                "bounding_box": {
+                    "left": 46,
+                    "top": 757,
+                    "right": 47,
+                    "bottom": 761
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_27.png"
+            },
+            {
+                "text": "59",
+                "confidence": 56.0,
+                "bounding_box": {
+                    "left": 2374,
+                    "top": 836,
+                    "right": 2396,
+                    "bottom": 846
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_28.png"
+            },
+            {
+                "text": "ل",
+                "confidence": 5.0,
+                "bounding_box": {
+                    "left": 1928,
+                    "top": 859,
+                    "right": 1943,
+                    "bottom": 869
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_29.png"
+            },
+            {
+                "text": "ع",
+                "confidence": 36.0,
+                "bounding_box": {
+                    "left": 1666,
+                    "top": 860,
+                    "right": 1726,
+                    "bottom": 868
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_30.png"
+            },
+            {
+                "text": "٠ش‏",
+                "confidence": 17.0,
+                "bounding_box": {
+                    "left": 1314,
+                    "top": 806,
+                    "right": 1325,
+                    "bottom": 876
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_31.png"
+            },
+            {
+                "text": "”0",
+                "confidence": 19.0,
+                "bounding_box": {
+                    "left": 913,
+                    "top": 875,
+                    "right": 917,
+                    "bottom": 877
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_32.png"
+            },
+            {
+                "text": "ع",
+                "confidence": 44.0,
+                "bounding_box": {
+                    "left": 725,
+                    "top": 870,
+                    "right": 767,
+                    "bottom": 879
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_33.png"
+            },
+            {
+                "text": "ل",
+                "confidence": 18.0,
+                "bounding_box": {
+                    "left": 626,
+                    "top": 862,
+                    "right": 648,
+                    "bottom": 879
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_34.png"
+            },
+            {
+                "text": "1",
+                "confidence": 11.0,
+                "bounding_box": {
+                    "left": 442,
+                    "top": 845,
+                    "right": 460,
+                    "bottom": 852
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_35.png"
+            },
+            {
+                "text": "يان",
+                "confidence": 29.0,
+                "bounding_box": {
+                    "left": 57,
+                    "top": 833,
+                    "right": 308,
+                    "bottom": 878
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_36.png"
+            },
+            {
+                "text": "مره",
+                "confidence": 61.0,
+                "bounding_box": {
+                    "left": 1181,
+                    "top": 1118,
+                    "right": 1250,
+                    "bottom": 1224
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_37.png"
+            },
+            {
+                "text": "فى",
+                "confidence": 92.0,
+                "bounding_box": {
+                    "left": 1271,
+                    "top": 1224,
+                    "right": 1527,
+                    "bottom": 1375
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_38.png"
+            },
+            {
+                "text": "المحخطة",
+                "confidence": 36.0,
+                "bounding_box": {
+                    "left": 663,
+                    "top": 1204,
+                    "right": 1232,
+                    "bottom": 1351
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_39.png"
+            },
+            {
+                "text": "اق",
+                "confidence": 33.0,
+                "bounding_box": {
+                    "left": 1731,
+                    "top": 1643,
+                    "right": 1864,
+                    "bottom": 1697
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_40.png"
+            },
+            {
+                "text": "القعاًا",
+                "confidence": 32.0,
+                "bounding_box": {
+                    "left": 1384,
+                    "top": 1617,
+                    "right": 1614,
+                    "bottom": 1764
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_41.png"
+            },
+            {
+                "text": "ه",
+                "confidence": 78.0,
+                "bounding_box": {
+                    "left": 1031,
+                    "top": 1669,
+                    "right": 1053,
+                    "bottom": 1693
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_42.png"
+            },
+            {
+                "text": "ف",
+                "confidence": 38.0,
+                "bounding_box": {
+                    "left": 956,
+                    "top": 1659,
+                    "right": 967,
+                    "bottom": 1721
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_43.png"
+            },
+            {
+                "text": "د",
+                "confidence": 38.0,
+                "bounding_box": {
+                    "left": 762,
+                    "top": 1653,
+                    "right": 784,
+                    "bottom": 1667
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_44.png"
+            },
+            {
+                "text": "كي",
+                "confidence": 74.0,
+                "bounding_box": {
+                    "left": 534,
+                    "top": 1633,
+                    "right": 592,
+                    "bottom": 1703
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_45.png"
+            },
+            {
+                "text": "2-7",
+                "confidence": 25.0,
+                "bounding_box": {
+                    "left": 221,
+                    "top": 1644,
+                    "right": 328,
+                    "bottom": 1737
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_46.png"
+            },
+            {
+                "text": "صعدت",
+                "confidence": 86.0,
+                "bounding_box": {
+                    "left": 1696,
+                    "top": 1678,
+                    "right": 2015,
+                    "bottom": 1782
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_47.png"
+            },
+            {
+                "text": "الفطارء",
+                "confidence": 67.0,
+                "bounding_box": {
+                    "left": 1309,
+                    "top": 1720,
+                    "right": 1544,
+                    "bottom": 1798
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_48.png"
+            },
+            {
+                "text": "توجهت",
+                "confidence": 89.0,
+                "bounding_box": {
+                    "left": 903,
+                    "top": 1712,
+                    "right": 1210,
+                    "bottom": 1805
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_49.png"
+            },
+            {
+                "text": "إلى",
+                "confidence": 93.0,
+                "bounding_box": {
+                    "left": 680,
+                    "top": 1681,
+                    "right": 819,
+                    "bottom": 1822
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_50.png"
+            },
+            {
+                "text": "اول",
+                "confidence": 95.0,
+                "bounding_box": {
+                    "left": 434,
+                    "top": 1681,
+                    "right": 590,
+                    "bottom": 1815
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_51.png"
+            },
+            {
+                "text": "مَقعد",
+                "confidence": 14.0,
+                "bounding_box": {
+                    "left": 108,
+                    "top": 1716,
+                    "right": 347,
+                    "bottom": 1789
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_52.png"
+            },
+            {
+                "text": "0",
+                "confidence": 29.0,
+                "bounding_box": {
+                    "left": 1956,
+                    "top": 1845,
+                    "right": 2188,
+                    "bottom": 1890
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_53.png"
+            },
+            {
+                "text": "مه",
+                "confidence": 49.0,
+                "bounding_box": {
+                    "left": 1603,
+                    "top": 1866,
+                    "right": 1634,
+                    "bottom": 1886
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_54.png"
+            },
+            {
+                "text": "7",
+                "confidence": 68.0,
+                "bounding_box": {
+                    "left": 1233,
+                    "top": 1840,
+                    "right": 1299,
+                    "bottom": 1888
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_55.png"
+            },
+            {
+                "text": "ولت",
+                "confidence": 19.0,
+                "bounding_box": {
+                    "left": 946,
+                    "top": 1855,
+                    "right": 973,
+                    "bottom": 1890
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_56.png"
+            },
+            {
+                "text": "3",
+                "confidence": 48.0,
+                "bounding_box": {
+                    "left": 502,
+                    "top": 1841,
+                    "right": 561,
+                    "bottom": 1871
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_57.png"
+            },
+            {
+                "text": "2",
+                "confidence": 73.0,
+                "bounding_box": {
+                    "left": 233,
+                    "top": 1838,
+                    "right": 258,
+                    "bottom": 1877
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_58.png"
+            },
+            {
+                "text": "ووضصعت",
+                "confidence": 76.0,
+                "bounding_box": {
+                    "left": 1827,
+                    "top": 1889,
+                    "right": 2192,
+                    "bottom": 1977
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_59.png"
+            },
+            {
+                "text": "حفيبتى",
+                "confidence": 61.0,
+                "bounding_box": {
+                    "left": 1426,
+                    "top": 1892,
+                    "right": 1713,
+                    "bottom": 2001
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_60.png"
+            },
+            {
+                "text": "عَلى",
+                "confidence": 73.0,
+                "bounding_box": {
+                    "left": 1099,
+                    "top": 1865,
+                    "right": 1315,
+                    "bottom": 2015
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_61.png"
+            },
+            {
+                "text": "الرف,",
+                "confidence": 26.0,
+                "bounding_box": {
+                    "left": 796,
+                    "top": 1872,
+                    "right": 1029,
+                    "bottom": 2009
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_62.png"
+            },
+            {
+                "text": "وَوَقفتٌ",
+                "confidence": 20.0,
+                "bounding_box": {
+                    "left": 336,
+                    "top": 1865,
+                    "right": 675,
+                    "bottom": 2015
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_63.png"
+            },
+            {
+                "text": "امام",
+                "confidence": 78.0,
+                "bounding_box": {
+                    "left": 102,
+                    "top": 1889,
+                    "right": 254,
+                    "bottom": 2040
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_64.png"
+            },
+            {
+                "text": "عد",
+                "confidence": 41.0,
+                "bounding_box": {
+                    "left": 1994,
+                    "top": 2024,
+                    "right": 2054,
+                    "bottom": 2065
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_65.png"
+            },
+            {
+                "text": "د",
+                "confidence": 41.0,
+                "bounding_box": {
+                    "left": 1754,
+                    "top": 2003,
+                    "right": 1860,
+                    "bottom": 2041
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_66.png"
+            },
+            {
+                "text": "يد\"",
+                "confidence": 26.0,
+                "bounding_box": {
+                    "left": 1385,
+                    "top": 2002,
+                    "right": 1478,
+                    "bottom": 2058
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_67.png"
+            },
+            {
+                "text": "النافذة",
+                "confidence": 84.0,
+                "bounding_box": {
+                    "left": 1919,
+                    "top": 2042,
+                    "right": 2186,
+                    "bottom": 2178
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_68.png"
+            },
+            {
+                "text": "الظر",
+                "confidence": 44.0,
+                "bounding_box": {
+                    "left": 1674,
+                    "top": 2039,
+                    "right": 1855,
+                    "bottom": 2189
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_69.png"
+            },
+            {
+                "text": "إلى",
+                "confidence": 93.0,
+                "bounding_box": {
+                    "left": 1475,
+                    "top": 2060,
+                    "right": 1612,
+                    "bottom": 2201
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_70.png"
+            },
+            {
+                "text": "النّاس.",
+                "confidence": 36.0,
+                "bounding_box": {
+                    "left": 1138,
+                    "top": 2057,
+                    "right": 1404,
+                    "bottom": 2204
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_71.png"
+            },
+            {
+                "text": "©",
+                "confidence": 57.0,
+                "bounding_box": {
+                    "left": 1987,
+                    "top": 2255,
+                    "right": 2038,
+                    "bottom": 2284
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_72.png"
+            },
+            {
+                "text": "مر",
+                "confidence": 3.0,
+                "bounding_box": {
+                    "left": 1584,
+                    "top": 2252,
+                    "right": 1613,
+                    "bottom": 2295
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_73.png"
+            },
+            {
+                "text": "ل",
+                "confidence": 46.0,
+                "bounding_box": {
+                    "left": 1936,
+                    "top": 2281,
+                    "right": 1959,
+                    "bottom": 2317
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_74.png"
+            },
+            {
+                "text": "امف",
+                "confidence": 38.0,
+                "bounding_box": {
+                    "left": 1744,
+                    "top": 2264,
+                    "right": 1865,
+                    "bottom": 2334
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_75.png"
+            },
+            {
+                "text": "000",
+                "confidence": 38.0,
+                "bounding_box": {
+                    "left": 1595,
+                    "top": 2264,
+                    "right": 1705,
+                    "bottom": 2334
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_76.png"
+            },
+            {
+                "text": "فى",
+                "confidence": 75.0,
+                "bounding_box": {
+                    "left": 1396,
+                    "top": 2267,
+                    "right": 1436,
+                    "bottom": 2337
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_77.png"
+            },
+            {
+                "text": "ها",
+                "confidence": 13.0,
+                "bounding_box": {
+                    "left": 1296,
+                    "top": 2267,
+                    "right": 1352,
+                    "bottom": 2337
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_78.png"
+            },
+            {
+                "text": "خخ",
+                "confidence": 39.0,
+                "bounding_box": {
+                    "left": 1221,
+                    "top": 2267,
+                    "right": 1261,
+                    "bottom": 2337
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_79.png"
+            },
+            {
+                "text": "اه",
+                "confidence": 7.0,
+                "bounding_box": {
+                    "left": 1090,
+                    "top": 2267,
+                    "right": 1183,
+                    "bottom": 2337
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_80.png"
+            },
+            {
+                "text": "سام",
+                "confidence": 52.0,
+                "bounding_box": {
+                    "left": 811,
+                    "top": 2269,
+                    "right": 875,
+                    "bottom": 2339
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_81.png"
+            },
+            {
+                "text": "لَه",
+                "confidence": 45.0,
+                "bounding_box": {
+                    "left": 733,
+                    "top": 2269,
+                    "right": 786,
+                    "bottom": 2339
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_82.png"
+            },
+            {
+                "text": "ل",
+                "confidence": 51.0,
+                "bounding_box": {
+                    "left": 667,
+                    "top": 2286,
+                    "right": 690,
+                    "bottom": 2321
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_83.png"
+            },
+            {
+                "text": "1",
+                "confidence": 33.0,
+                "bounding_box": {
+                    "left": 492,
+                    "top": 2274,
+                    "right": 519,
+                    "bottom": 2327
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_84.png"
+            },
+            {
+                "text": "007",
+                "confidence": 35.0,
+                "bounding_box": {
+                    "left": 272,
+                    "top": 2272,
+                    "right": 359,
+                    "bottom": 2342
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_85.png"
+            },
+            {
+                "text": "5",
+                "confidence": 74.0,
+                "bounding_box": {
+                    "left": 142,
+                    "top": 2308,
+                    "right": 168,
+                    "bottom": 2325
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_86.png"
+            },
+            {
+                "text": "المي",
+                "confidence": 40.0,
+                "bounding_box": {
+                    "left": 1988,
+                    "top": 2449,
+                    "right": 2206,
+                    "bottom": 2591
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_87.png"
+            },
+            {
+                "text": "فى",
+                "confidence": 63.0,
+                "bounding_box": {
+                    "left": 1634,
+                    "top": 2481,
+                    "right": 1657,
+                    "bottom": 2516
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_88.png"
+            },
+            {
+                "text": "هم",
+                "confidence": 6.0,
+                "bounding_box": {
+                    "left": 1575,
+                    "top": 2491,
+                    "right": 1598,
+                    "bottom": 2515
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_89.png"
+            },
+            {
+                "text": "عنمن",
+                "confidence": 43.0,
+                "bounding_box": {
+                    "left": 1455,
+                    "top": 2503,
+                    "right": 1480,
+                    "bottom": 2519
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_90.png"
+            },
+            {
+                "text": "ى",
+                "confidence": 4.0,
+                "bounding_box": {
+                    "left": 1394,
+                    "top": 2491,
+                    "right": 1415,
+                    "bottom": 2515
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_91.png"
+            },
+            {
+                "text": "2",
+                "confidence": 63.0,
+                "bounding_box": {
+                    "left": 1143,
+                    "top": 2473,
+                    "right": 1169,
+                    "bottom": 2526
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_92.png"
+            },
+            {
+                "text": "ا",
+                "confidence": 50.0,
+                "bounding_box": {
+                    "left": 984,
+                    "top": 2461,
+                    "right": 1052,
+                    "bottom": 2587
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_93.png"
+            },
+            {
+                "text": "هم",
+                "confidence": 27.0,
+                "bounding_box": {
+                    "left": 537,
+                    "top": 2495,
+                    "right": 590,
+                    "bottom": 2558
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_94.png"
+            },
+            {
+                "text": "م",
+                "confidence": 48.0,
+                "bounding_box": {
+                    "left": 485,
+                    "top": 2506,
+                    "right": 508,
+                    "bottom": 2523
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_95.png"
+            },
+            {
+                "text": "جه",
+                "confidence": 47.0,
+                "bounding_box": {
+                    "left": 298,
+                    "top": 2496,
+                    "right": 357,
+                    "bottom": 2543
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_96.png"
+            },
+            {
+                "text": "بي",
+                "confidence": 71.0,
+                "bounding_box": {
+                    "left": 133,
+                    "top": 2489,
+                    "right": 159,
+                    "bottom": 2522
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_97.png"
+            },
+            {
+                "text": "وشم",
+                "confidence": 85.0,
+                "bounding_box": {
+                    "left": 1507,
+                    "top": 2498,
+                    "right": 1736,
+                    "bottom": 2650
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_98.png"
+            },
+            {
+                "text": "يتحملون",
+                "confidence": 47.0,
+                "bounding_box": {
+                    "left": 1138,
+                    "top": 2495,
+                    "right": 1452,
+                    "bottom": 2636
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_99.png"
+            },
+            {
+                "text": "متعتهم2)",
+                "confidence": 6.0,
+                "bounding_box": {
+                    "left": 716,
+                    "top": 2502,
+                    "right": 1021,
+                    "bottom": 2662
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_100.png"
+            },
+            {
+                "text": "بينما",
+                "confidence": 88.0,
+                "bounding_box": {
+                    "left": 386,
+                    "top": 2502,
+                    "right": 666,
+                    "bottom": 2662
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_101.png"
+            },
+            {
+                "text": "تركفع",
+                "confidence": 53.0,
+                "bounding_box": {
+                    "left": 86,
+                    "top": 2502,
+                    "right": 351,
+                    "bottom": 2662
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_102.png"
+            },
+            {
+                "text": "0",
+                "confidence": 49.0,
+                "bounding_box": {
+                    "left": 1553,
+                    "top": 2679,
+                    "right": 1826,
+                    "bottom": 2789
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_103.png"
+            },
+            {
+                "text": "ع",
+                "confidence": 34.0,
+                "bounding_box": {
+                    "left": 859,
+                    "top": 2660,
+                    "right": 1142,
+                    "bottom": 2787
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_104.png"
+            },
+            {
+                "text": "ار",
+                "confidence": 15.0,
+                "bounding_box": {
+                    "left": 632,
+                    "top": 2658,
+                    "right": 738,
+                    "bottom": 2798
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_105.png"
+            },
+            {
+                "text": "صوات",
+                "confidence": 46.0,
+                "bounding_box": {
+                    "left": 1891,
+                    "top": 2731,
+                    "right": 2182,
+                    "bottom": 2828
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_106.png"
+            },
+            {
+                "text": "بَاعَةَ",
+                "confidence": 66.0,
+                "bounding_box": {
+                    "left": 1650,
+                    "top": 2727,
+                    "right": 1817,
+                    "bottom": 2823
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_107.png"
+            },
+            {
+                "text": "الصحف",
+                "confidence": 90.0,
+                "bounding_box": {
+                    "left": 1219,
+                    "top": 2696,
+                    "right": 1546,
+                    "bottom": 2826
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_108.png"
+            },
+            {
+                "text": "وَالمَشْروبَات.",
+                "confidence": 41.0,
+                "bounding_box": {
+                    "left": 557,
+                    "top": 2697,
+                    "right": 1148,
+                    "bottom": 2835
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_109.png"
+            },
+            {
+                "text": "عه",
+                "confidence": 36.0,
+                "bounding_box": {
+                    "left": 1956,
+                    "top": 2898,
+                    "right": 2030,
+                    "bottom": 2936
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_110.png"
+            },
+            {
+                "text": "2",
+                "confidence": 58.0,
+                "bounding_box": {
+                    "left": 1731,
+                    "top": 2897,
+                    "right": 1765,
+                    "bottom": 2914
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_111.png"
+            },
+            {
+                "text": "و",
+                "confidence": 15.0,
+                "bounding_box": {
+                    "left": 1612,
+                    "top": 2873,
+                    "right": 1629,
+                    "bottom": 2948
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_112.png"
+            },
+            {
+                "text": "538",
+                "confidence": 17.0,
+                "bounding_box": {
+                    "left": 1450,
+                    "top": 2892,
+                    "right": 1498,
+                    "bottom": 2955
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_113.png"
+            },
+            {
+                "text": "5-975",
+                "confidence": 44.0,
+                "bounding_box": {
+                    "left": 1222,
+                    "top": 2892,
+                    "right": 1316,
+                    "bottom": 2957
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_114.png"
+            },
+            {
+                "text": "يه",
+                "confidence": 51.0,
+                "bounding_box": {
+                    "left": 1052,
+                    "top": 2896,
+                    "right": 1109,
+                    "bottom": 2932
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_115.png"
+            },
+            {
+                "text": "2",
+                "confidence": 6.0,
+                "bounding_box": {
+                    "left": 932,
+                    "top": 2911,
+                    "right": 954,
+                    "bottom": 2926
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_116.png"
+            },
+            {
+                "text": "ل",
+                "confidence": 54.0,
+                "bounding_box": {
+                    "left": 610,
+                    "top": 2926,
+                    "right": 634,
+                    "bottom": 2942
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_117.png"
+            },
+            {
+                "text": "اقل",
+                "confidence": 34.0,
+                "bounding_box": {
+                    "left": 545,
+                    "top": 2900,
+                    "right": 567,
+                    "bottom": 2931
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_118.png"
+            },
+            {
+                "text": "دوت",
+                "confidence": 28.0,
+                "bounding_box": {
+                    "left": 1819,
+                    "top": 2943,
+                    "right": 2040,
+                    "bottom": 3045
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_119.png"
+            },
+            {
+                "text": "الصفارة,",
+                "confidence": 50.0,
+                "bounding_box": {
+                    "left": 1404,
+                    "top": 2922,
+                    "right": 1751,
+                    "bottom": 3057
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_120.png"
+            },
+            {
+                "text": "وَبَدَا",
+                "confidence": 89.0,
+                "bounding_box": {
+                    "left": 1166,
+                    "top": 2939,
+                    "right": 1336,
+                    "bottom": 3061
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_121.png"
+            },
+            {
+                "text": "القطار",
+                "confidence": 91.0,
+                "bounding_box": {
+                    "left": 839,
+                    "top": 2924,
+                    "right": 1095,
+                    "bottom": 3071
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_122.png"
+            },
+            {
+                "text": "يتحرى.",
+                "confidence": 46.0,
+                "bounding_box": {
+                    "left": 468,
+                    "top": 2938,
+                    "right": 791,
+                    "bottom": 3080
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_123.png"
+            },
+            {
+                "text": "وَبَقِيِتٌ",
+                "confidence": 32.0,
+                "bounding_box": {
+                    "left": 128,
+                    "top": 2941,
+                    "right": 399,
+                    "bottom": 3082
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_124.png"
+            },
+            {
+                "text": "ع",
+                "confidence": 9.0,
+                "bounding_box": {
+                    "left": 1754,
+                    "top": 3070,
+                    "right": 1875,
+                    "bottom": 3138
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_125.png"
+            },
+            {
+                "text": "4",
+                "confidence": 71.0,
+                "bounding_box": {
+                    "left": 1502,
+                    "top": 3099,
+                    "right": 1592,
+                    "bottom": 3203
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_126.png"
+            },
+            {
+                "text": "000",
+                "confidence": 47.0,
+                "bounding_box": {
+                    "left": 1317,
+                    "top": 3095,
+                    "right": 1374,
+                    "bottom": 3156
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_127.png"
+            },
+            {
+                "text": "يا",
+                "confidence": 32.0,
+                "bounding_box": {
+                    "left": 1030,
+                    "top": 3075,
+                    "right": 1080,
+                    "bottom": 3163
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_128.png"
+            },
+            {
+                "text": "ا",
+                "confidence": 44.0,
+                "bounding_box": {
+                    "left": 712,
+                    "top": 3118,
+                    "right": 750,
+                    "bottom": 3163
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_129.png"
+            },
+            {
+                "text": "دي",
+                "confidence": 39.0,
+                "bounding_box": {
+                    "left": 270,
+                    "top": 3054,
+                    "right": 354,
+                    "bottom": 3147
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_130.png"
+            },
+            {
+                "text": "شرب",
+                "confidence": 70.0,
+                "bounding_box": {
+                    "left": 1714,
+                    "top": 3131,
+                    "right": 1896,
+                    "bottom": 3288
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_131.png"
+            },
+            {
+                "text": "لنافذة,",
+                "confidence": 47.0,
+                "bounding_box": {
+                    "left": 1281,
+                    "top": 3112,
+                    "right": 1538,
+                    "bottom": 3256
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_132.png"
+            },
+            {
+                "text": "أزاقفب",
+                "confidence": 59.0,
+                "bounding_box": {
+                    "left": 903,
+                    "top": 3139,
+                    "right": 1141,
+                    "bottom": 3265
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_133.png"
+            },
+            {
+                "text": "حركة",
+                "confidence": 59.0,
+                "bounding_box": {
+                    "left": 550,
+                    "top": 3140,
+                    "right": 777,
+                    "bottom": 3278
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_134.png"
+            },
+            {
+                "text": "الناس,",
+                "confidence": 18.0,
+                "bounding_box": {
+                    "left": 144,
+                    "top": 3138,
+                    "right": 413,
+                    "bottom": 3295
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_135.png"
+            },
+            {
+                "text": "م",
+                "confidence": 58.0,
+                "bounding_box": {
+                    "left": 1789,
+                    "top": 3280,
+                    "right": 1812,
+                    "bottom": 3312
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_136.png"
+            },
+            {
+                "text": "ورا",
+                "confidence": 46.0,
+                "bounding_box": {
+                    "left": 1521,
+                    "top": 3285,
+                    "right": 1583,
+                    "bottom": 3346
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_137.png"
+            },
+            {
+                "text": "اس",
+                "confidence": 46.0,
+                "bounding_box": {
+                    "left": 1472,
+                    "top": 3285,
+                    "right": 1522,
+                    "bottom": 3346
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_138.png"
+            },
+            {
+                "text": "زالايدي",
+                "confidence": 70.0,
+                "bounding_box": {
+                    "left": 1869,
+                    "top": 3308,
+                    "right": 2221,
+                    "bottom": 3447
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_139.png"
+            },
+            {
+                "text": "التي",
+                "confidence": 93.0,
+                "bounding_box": {
+                    "left": 1640,
+                    "top": 3318,
+                    "right": 1796,
+                    "bottom": 3474
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_140.png"
+            },
+            {
+                "text": "تودٍع.",
+                "confidence": 31.0,
+                "bounding_box": {
+                    "left": 1368,
+                    "top": 3351,
+                    "right": 1578,
+                    "bottom": 3478
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_141.png"
+            }
+        ]
+    },
+    {
+        "page_number": 3,
+        "extracted_data": [
+            {
+                "text": "إن",
+                "confidence": 56.0,
+                "bounding_box": {
+                    "left": 2080,
+                    "top": 176,
+                    "right": 2204,
+                    "bottom": 396
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_1.png"
+            },
+            {
+                "text": "الْحَيَاةً",
+                "confidence": 40.0,
+                "bounding_box": {
+                    "left": 1574,
+                    "top": 176,
+                    "right": 2018,
+                    "bottom": 379
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_2.png"
+            },
+            {
+                "text": "قَصِيدَةٌ",
+                "confidence": 43.0,
+                "bounding_box": {
+                    "left": 843,
+                    "top": 171,
+                    "right": 1512,
+                    "bottom": 401
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_3.png"
+            },
+            {
+                "text": "أنْييَاتها",
+                "confidence": 43.0,
+                "bounding_box": {
+                    "left": 399,
+                    "top": 210,
+                    "right": 747,
+                    "bottom": 379
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_4.png"
+            },
+            {
+                "text": "أَعْمَارْنَا",
+                "confidence": 18.0,
+                "bounding_box": {
+                    "left": 1625,
+                    "top": 435,
+                    "right": 2108,
+                    "bottom": 626
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_5.png"
+            },
+            {
+                "text": "وَالْمَوْتٌ",
+                "confidence": 23.0,
+                "bounding_box": {
+                    "left": 1164,
+                    "top": 435,
+                    "right": 1563,
+                    "bottom": 637
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_6.png"
+            },
+            {
+                "text": "فيهًا",
+                "confidence": 74.0,
+                "bounding_box": {
+                    "left": 854,
+                    "top": 474,
+                    "right": 1096,
+                    "bottom": 654
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_7.png"
+            },
+            {
+                "text": "الْقَافبَة",
+                "confidence": 49.0,
+                "bounding_box": {
+                    "left": 449,
+                    "top": 435,
+                    "right": 798,
+                    "bottom": 654
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_8.png"
+            },
+            {
+                "text": "أَيْنَ",
+                "confidence": 65.0,
+                "bounding_box": {
+                    "left": 1973,
+                    "top": 947,
+                    "right": 2148,
+                    "bottom": 1143
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_9.png"
+            },
+            {
+                "text": "الْفُصُورٌ",
+                "confidence": 41.0,
+                "bounding_box": {
+                    "left": 1495,
+                    "top": 941,
+                    "right": 1917,
+                    "bottom": 1143
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_10.png"
+            },
+            {
+                "text": "الشتَّامِخَاتٌ",
+                "confidence": 10.0,
+                "bounding_box": {
+                    "left": 849,
+                    "top": 947,
+                    "right": 1434,
+                    "bottom": 1166
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_11.png"
+            },
+            {
+                "text": "وَأَهْلُهَ",
+                "confidence": 6.0,
+                "bounding_box": {
+                    "left": 455,
+                    "top": 935,
+                    "right": 787,
+                    "bottom": 1143
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_12.png"
+            },
+            {
+                "text": "اد",
+                "confidence": 38.0,
+                "bounding_box": {
+                    "left": 1945,
+                    "top": 1222,
+                    "right": 2086,
+                    "bottom": 1396
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_13.png"
+            },
+            {
+                "text": "الْجَمِيعٌ",
+                "confidence": 63.0,
+                "bounding_box": {
+                    "left": 1512,
+                    "top": 1194,
+                    "right": 1883,
+                    "bottom": 1425
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_14.png"
+            },
+            {
+                "text": "فَهَلْ",
+                "confidence": 37.0,
+                "bounding_box": {
+                    "left": 1242,
+                    "top": 1200,
+                    "right": 1450,
+                    "bottom": 1396
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_15.png"
+            },
+            {
+                "text": "لَهُمْ",
+                "confidence": 50.0,
+                "bounding_box": {
+                    "left": 1000,
+                    "top": 1211,
+                    "right": 1186,
+                    "bottom": 1425
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_16.png"
+            },
+            {
+                "text": "مِنْ",
+                "confidence": 85.0,
+                "bounding_box": {
+                    "left": 781,
+                    "top": 1216,
+                    "right": 939,
+                    "bottom": 1419
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_17.png"
+            },
+            {
+                "text": "بَاقبَة",
+                "confidence": 61.0,
+                "bounding_box": {
+                    "left": 472,
+                    "top": 1239,
+                    "right": 719,
+                    "bottom": 1413
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_18.png"
+            },
+            {
+                "text": "لو",
+                "confidence": 86.0,
+                "bounding_box": {
+                    "left": 2080,
+                    "top": 1739,
+                    "right": 2170,
+                    "bottom": 1908
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_19.png"
+            },
+            {
+                "text": "أن",
+                "confidence": 57.0,
+                "bounding_box": {
+                    "left": 1912,
+                    "top": 1723,
+                    "right": 2018,
+                    "bottom": 1891
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_20.png"
+            },
+            {
+                "text": "حا",
+                "confidence": 32.0,
+                "bounding_box": {
+                    "left": 1546,
+                    "top": 1728,
+                    "right": 1844,
+                    "bottom": 1908
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_21.png"
+            },
+            {
+                "text": "حَالد",
+                "confidence": 33.0,
+                "bounding_box": {
+                    "left": 1242,
+                    "top": 1728,
+                    "right": 1479,
+                    "bottom": 1925
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_22.png"
+            },
+            {
+                "text": "بن",
+                "confidence": 2.0,
+                "bounding_box": {
+                    "left": 781,
+                    "top": 1739,
+                    "right": 1175,
+                    "bottom": 1908
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_23.png"
+            },
+            {
+                "text": "الوَرَى",
+                "confidence": 55.0,
+                "bounding_box": {
+                    "left": 427,
+                    "top": 1751,
+                    "right": 719,
+                    "bottom": 1914
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_24.png"
+            },
+            {
+                "text": "مَا",
+                "confidence": 80.0,
+                "bounding_box": {
+                    "left": 2058,
+                    "top": 2004,
+                    "right": 2148,
+                    "bottom": 2116
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_25.png"
+            },
+            {
+                "text": "مَاتَ",
+                "confidence": 77.0,
+                "bounding_box": {
+                    "left": 1681,
+                    "top": 1981,
+                    "right": 1996,
+                    "bottom": 2122
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_26.png"
+            },
+            {
+                "text": "هَارُونٌ",
+                "confidence": 23.0,
+                "bounding_box": {
+                    "left": 1237,
+                    "top": 1959,
+                    "right": 1619,
+                    "bottom": 2156
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_27.png"
+            },
+            {
+                "text": "وَمَات",
+                "confidence": 28.0,
+                "bounding_box": {
+                    "left": 837,
+                    "top": 1981,
+                    "right": 1175,
+                    "bottom": 2156
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_28.png"
+            },
+            {
+                "text": "مُعَاويَة",
+                "confidence": 39.0,
+                "bounding_box": {
+                    "left": 410,
+                    "top": 1987,
+                    "right": 776,
+                    "bottom": 2167
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_29.png"
+            },
+            {
+                "text": "اجْتَاحَت",
+                "confidence": 19.0,
+                "bounding_box": {
+                    "left": 1630,
+                    "top": 2499,
+                    "right": 2165,
+                    "bottom": 2662
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_30.png"
+            },
+            {
+                "text": "الأَيَِامُ",
+                "confidence": 32.0,
+                "bounding_box": {
+                    "left": 1096,
+                    "top": 2459,
+                    "right": 1568,
+                    "bottom": 2690
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_31.png"
+            },
+            {
+                "text": "أَكْرّمَ",
+                "confidence": 38.0,
+                "bounding_box": {
+                    "left": 776,
+                    "top": 2476,
+                    "right": 1034,
+                    "bottom": 2684
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_32.png"
+            },
+            {
+                "text": "أَهْلقَ",
+                "confidence": 53.0,
+                "bounding_box": {
+                    "left": 449,
+                    "top": 2459,
+                    "right": 719,
+                    "bottom": 2673
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_33.png"
+            },
+            {
+                "text": "5",
+                "confidence": 92.0,
+                "bounding_box": {
+                    "left": 2103,
+                    "top": 2735,
+                    "right": 2142,
+                    "bottom": 2785
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_34.png"
+            },
+            {
+                "text": "2م",
+                "confidence": 37.0,
+                "bounding_box": {
+                    "left": 1743,
+                    "top": 2723,
+                    "right": 1833,
+                    "bottom": 2780
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_35.png"
+            },
+            {
+                "text": ",",
+                "confidence": 63.0,
+                "bounding_box": {
+                    "left": 1670,
+                    "top": 2667,
+                    "right": 1709,
+                    "bottom": 2785
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_36.png"
+            },
+            {
+                "text": "2",
+                "confidence": 34.0,
+                "bounding_box": {
+                    "left": 1563,
+                    "top": 2707,
+                    "right": 1597,
+                    "bottom": 2774
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_37.png"
+            },
+            {
+                "text": "#",
+                "confidence": 15.0,
+                "bounding_box": {
+                    "left": 1203,
+                    "top": 2723,
+                    "right": 1237,
+                    "bottom": 2768
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_38.png"
+            },
+            {
+                "text": "ا",
+                "confidence": 42.0,
+                "bounding_box": {
+                    "left": 1176,
+                    "top": 2717,
+                    "right": 1186,
+                    "bottom": 2795
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_39.png"
+            },
+            {
+                "text": "سس",
+                "confidence": 49.0,
+                "bounding_box": {
+                    "left": 1102,
+                    "top": 2717,
+                    "right": 1162,
+                    "bottom": 2795
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_40.png"
+            },
+            {
+                "text": "3",
+                "confidence": 71.0,
+                "bounding_box": {
+                    "left": 927,
+                    "top": 2757,
+                    "right": 950,
+                    "bottom": 2791
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_41.png"
+            },
+            {
+                "text": "1",
+                "confidence": 38.0,
+                "bounding_box": {
+                    "left": 427,
+                    "top": 2673,
+                    "right": 680,
+                    "bottom": 2791
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_42.png"
+            },
+            {
+                "text": "فكانهم",
+                "confidence": 91.0,
+                "bounding_box": {
+                    "left": 1586,
+                    "top": 2753,
+                    "right": 2159,
+                    "bottom": 2952
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_43.png"
+            },
+            {
+                "text": "اعحاز",
+                "confidence": 44.0,
+                "bounding_box": {
+                    "left": 1203,
+                    "top": 2768,
+                    "right": 1591,
+                    "bottom": 2920
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_44.png"
+            },
+            {
+                "text": "نضخل",
+                "confidence": 49.0,
+                "bounding_box": {
+                    "left": 792,
+                    "top": 2768,
+                    "right": 1141,
+                    "bottom": 2915
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_45.png"
+            },
+            {
+                "text": "خاونة",
+                "confidence": 45.0,
+                "bounding_box": {
+                    "left": 410,
+                    "top": 2764,
+                    "right": 707,
+                    "bottom": 2936
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_46.png"
+            },
+            {
+                "text": "إيليا",
+                "confidence": 91.0,
+                "bounding_box": {
+                    "left": 517,
+                    "top": 3190,
+                    "right": 657,
+                    "bottom": 3297
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_47.png"
+            },
+            {
+                "text": "أبو",
+                "confidence": 91.0,
+                "bounding_box": {
+                    "left": 382,
+                    "top": 3168,
+                    "right": 472,
+                    "bottom": 3297
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_48.png"
+            },
+            {
+                "text": "ماضي",
+                "confidence": 31.0,
+                "bounding_box": {
+                    "left": 146,
+                    "top": 3190,
+                    "right": 337,
+                    "bottom": 3320
+                },
+                "roi_image_path": "output_pdf_arabic/extracted_text_49.png"
+            }
+        ]
+    }
+]

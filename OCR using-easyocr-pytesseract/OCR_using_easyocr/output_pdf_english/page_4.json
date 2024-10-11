@@ -1,0 +1,871 @@
+[
+    {
+        "word": "Importance ot English",
+        "confidence": 0.8336735165399732,
+        "bounding_box": {
+            "left": 557,
+            "top": 146,
+            "right": 1999,
+            "bottom": 331
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_1.png"
+    },
+    {
+        "word": "English",
+        "confidence": 0.9999909886116298,
+        "bounding_box": {
+            "left": 142,
+            "top": 395,
+            "right": 570,
+            "bottom": 566
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_2.png"
+    },
+    {
+        "word": "is",
+        "confidence": 0.982455518926509,
+        "bounding_box": {
+            "left": 603,
+            "top": 422,
+            "right": 707,
+            "bottom": 526
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_3.png"
+    },
+    {
+        "word": "incredibly important",
+        "confidence": 0.9977842702144899,
+        "bounding_box": {
+            "left": 734,
+            "top": 370,
+            "right": 1938,
+            "bottom": 565
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_4.png"
+    },
+    {
+        "word": "in",
+        "confidence": 0.9994679796449822,
+        "bounding_box": {
+            "left": 1968,
+            "top": 422,
+            "right": 2083,
+            "bottom": 526
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_5.png"
+    },
+    {
+        "word": "our",
+        "confidence": 0.9980690059981118,
+        "bounding_box": {
+            "left": 2136,
+            "top": 437,
+            "right": 2334,
+            "bottom": 525
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_6.png"
+    },
+    {
+        "word": "world",
+        "confidence": 0.9996772429126982,
+        "bounding_box": {
+            "left": 143,
+            "top": 569,
+            "right": 484,
+            "bottom": 719
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_7.png"
+    },
+    {
+        "word": "Its like a key that unlocks",
+        "confidence": 0.8735951626060297,
+        "bounding_box": {
+            "left": 879,
+            "top": 569,
+            "right": 2339,
+            "bottom": 739
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_8.png"
+    },
+    {
+        "word": "many",
+        "confidence": 0.999921441078186,
+        "bounding_box": {
+            "left": 147,
+            "top": 768,
+            "right": 469,
+            "bottom": 906
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_9.png"
+    },
+    {
+        "word": "doors_",
+        "confidence": 0.9976697006692138,
+        "bounding_box": {
+            "left": 502,
+            "top": 749,
+            "right": 851,
+            "bottom": 876
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_10.png"
+    },
+    {
+        "word": "When you",
+        "confidence": 0.9871090641785539,
+        "bounding_box": {
+            "left": 904,
+            "top": 744,
+            "right": 1497,
+            "bottom": 904
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_11.png"
+    },
+    {
+        "word": "English",
+        "confidence": 0.997799816596502,
+        "bounding_box": {
+            "left": 1915,
+            "top": 745,
+            "right": 2336,
+            "bottom": 909
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_12.png"
+    },
+    {
+        "word": "well, you",
+        "confidence": 0.7618631685776244,
+        "bounding_box": {
+            "left": 147,
+            "top": 928,
+            "right": 658,
+            "bottom": 1078
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_13.png"
+    },
+    {
+        "word": "can talk with",
+        "confidence": 0.9989194368072278,
+        "bounding_box": {
+            "left": 674,
+            "top": 921,
+            "right": 1428,
+            "bottom": 1062
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_14.png"
+    },
+    {
+        "word": "people from all",
+        "confidence": 0.7912135735211094,
+        "bounding_box": {
+            "left": 1432,
+            "top": 914,
+            "right": 2342,
+            "bottom": 1099
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_15.png"
+    },
+    {
+        "word": "over",
+        "confidence": 0.9984369277954102,
+        "bounding_box": {
+            "left": 148,
+            "top": 1129,
+            "right": 410,
+            "bottom": 1225
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_16.png"
+    },
+    {
+        "word": "the",
+        "confidence": 0.9997912551309183,
+        "bounding_box": {
+            "left": 450,
+            "top": 1100,
+            "right": 656,
+            "bottom": 1227
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_17.png"
+    },
+    {
+        "word": "world_",
+        "confidence": 0.9970131796512732,
+        "bounding_box": {
+            "left": 705,
+            "top": 1097,
+            "right": 1046,
+            "bottom": 1232
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_18.png"
+    },
+    {
+        "word": "This",
+        "confidence": 0.9999377131462097,
+        "bounding_box": {
+            "left": 1124,
+            "top": 1100,
+            "right": 1356,
+            "bottom": 1227
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_19.png"
+    },
+    {
+        "word": "you learn",
+        "confidence": 0.9689639313537728,
+        "bounding_box": {
+            "left": 1749,
+            "top": 1098,
+            "right": 2335,
+            "bottom": 1256
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_20.png"
+    },
+    {
+        "word": "new",
+        "confidence": 0.9999584295044541,
+        "bounding_box": {
+            "left": 148,
+            "top": 1302,
+            "right": 394,
+            "bottom": 1400
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_21.png"
+    },
+    {
+        "word": "and",
+        "confidence": 0.9999907773866326,
+        "bounding_box": {
+            "left": 1120,
+            "top": 1270,
+            "right": 1362,
+            "bottom": 1405
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_22.png"
+    },
+    {
+        "word": "find",
+        "confidence": 0.9998092651367188,
+        "bounding_box": {
+            "left": 1538,
+            "top": 1272,
+            "right": 1780,
+            "bottom": 1399
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_23.png"
+    },
+    {
+        "word": "better",
+        "confidence": 0.9997295006541372,
+        "bounding_box": {
+            "left": 1965,
+            "top": 1275,
+            "right": 2338,
+            "bottom": 1401
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_24.png"
+    },
+    {
+        "word": "opportunities.",
+        "confidence": 0.6563074469040442,
+        "bounding_box": {
+            "left": 138,
+            "top": 1432,
+            "right": 941,
+            "bottom": 1620
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_25.png"
+    },
+    {
+        "word": "In school,",
+        "confidence": 0.5005258441044264,
+        "bounding_box": {
+            "left": 969,
+            "top": 1446,
+            "right": 1544,
+            "bottom": 1593
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_26.png"
+    },
+    {
+        "word": "English",
+        "confidence": 0.9999929711193208,
+        "bounding_box": {
+            "left": 1913,
+            "top": 1439,
+            "right": 2338,
+            "bottom": 1611
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_27.png"
+    },
+    {
+        "word": "skills",
+        "confidence": 0.9999294809745914,
+        "bounding_box": {
+            "left": 143,
+            "top": 1621,
+            "right": 421,
+            "bottom": 1750
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_28.png"
+    },
+    {
+        "word": "you understand your lessons",
+        "confidence": 0.9648507723658518,
+        "bounding_box": {
+            "left": 707,
+            "top": 1617,
+            "right": 2338,
+            "bottom": 1781
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_29.png"
+    },
+    {
+        "word": "and",
+        "confidence": 0.9999960769466525,
+        "bounding_box": {
+            "left": 140,
+            "top": 1792,
+            "right": 387,
+            "bottom": 1932
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_30.png"
+    },
+    {
+        "word": "do",
+        "confidence": 0.9999615622905302,
+        "bounding_box": {
+            "left": 435,
+            "top": 1793,
+            "right": 611,
+            "bottom": 1926
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_31.png"
+    },
+    {
+        "word": "well",
+        "confidence": 0.9999730587005615,
+        "bounding_box": {
+            "left": 652,
+            "top": 1791,
+            "right": 918,
+            "bottom": 1940
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_32.png"
+    },
+    {
+        "word": "in",
+        "confidence": 0.9999426807671866,
+        "bounding_box": {
+            "left": 954,
+            "top": 1815,
+            "right": 1071,
+            "bottom": 1918
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_33.png"
+    },
+    {
+        "word": "exams.",
+        "confidence": 0.9019874561399016,
+        "bounding_box": {
+            "left": 1136,
+            "top": 1832,
+            "right": 1528,
+            "bottom": 1920
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_34.png"
+    },
+    {
+        "word": "Plus,",
+        "confidence": 0.9938210659262754,
+        "bounding_box": {
+            "left": 1592,
+            "top": 1786,
+            "right": 1879,
+            "bottom": 1942
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_35.png"
+    },
+    {
+        "word": "lots",
+        "confidence": 0.999294102191925,
+        "bounding_box": {
+            "left": 1915,
+            "top": 1801,
+            "right": 2141,
+            "bottom": 1924
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_36.png"
+    },
+    {
+        "word": "of",
+        "confidence": 0.9941745558659083,
+        "bounding_box": {
+            "left": 2194,
+            "top": 1799,
+            "right": 2334,
+            "bottom": 1923
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_37.png"
+    },
+    {
+        "word": "books,",
+        "confidence": 0.9845435666841137,
+        "bounding_box": {
+            "left": 136,
+            "top": 1952,
+            "right": 537,
+            "bottom": 2117
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_38.png"
+    },
+    {
+        "word": "movies,",
+        "confidence": 0.956229014535081,
+        "bounding_box": {
+            "left": 587,
+            "top": 1977,
+            "right": 1026,
+            "bottom": 2114
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_39.png"
+    },
+    {
+        "word": "and",
+        "confidence": 0.9999905709103443,
+        "bounding_box": {
+            "left": 1074,
+            "top": 1968,
+            "right": 1315,
+            "bottom": 2102
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_40.png"
+    },
+    {
+        "word": "websites",
+        "confidence": 0.9709119645441328,
+        "bounding_box": {
+            "left": 1375,
+            "top": 1967,
+            "right": 1895,
+            "bottom": 2106
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_41.png"
+    },
+    {
+        "word": "are",
+        "confidence": 0.9999977975838318,
+        "bounding_box": {
+            "left": 1950,
+            "top": 2002,
+            "right": 2150,
+            "bottom": 2093
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_42.png"
+    },
+    {
+        "word": "in",
+        "confidence": 0.9998017469810722,
+        "bounding_box": {
+            "left": 2208,
+            "top": 1986,
+            "right": 2325,
+            "bottom": 2095
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_43.png"
+    },
+    {
+        "word": "English,",
+        "confidence": 0.7223523236525151,
+        "bounding_box": {
+            "left": 142,
+            "top": 2137,
+            "right": 602,
+            "bottom": 2308
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_44.png"
+    },
+    {
+        "word": "50",
+        "confidence": 0.4169930966795923,
+        "bounding_box": {
+            "left": 692,
+            "top": 2183,
+            "right": 832,
+            "bottom": 2268
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_45.png"
+    },
+    {
+        "word": "knowing",
+        "confidence": 0.9999633234855269,
+        "bounding_box": {
+            "left": 926,
+            "top": 2136,
+            "right": 1425,
+            "bottom": 2306
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_46.png"
+    },
+    {
+        "word": "it",
+        "confidence": 0.9901110532932791,
+        "bounding_box": {
+            "left": 1510,
+            "top": 2165,
+            "right": 1611,
+            "bottom": 2266
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_47.png"
+    },
+    {
+        "word": "you",
+        "confidence": 0.8790617747241442,
+        "bounding_box": {
+            "left": 2108,
+            "top": 2169,
+            "right": 2332,
+            "bottom": 2298
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_48.png"
+    },
+    {
+        "word": "access to",
+        "confidence": 0.9979987686891738,
+        "bounding_box": {
+            "left": 144,
+            "top": 2334,
+            "right": 713,
+            "bottom": 2446
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_49.png"
+    },
+    {
+        "word": "a lot of",
+        "confidence": 0.9745313140424621,
+        "bounding_box": {
+            "left": 742,
+            "top": 2316,
+            "right": 1203,
+            "bottom": 2448
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_50.png"
+    },
+    {
+        "word": "stuff. Whether",
+        "confidence": 0.8689884963121841,
+        "bounding_box": {
+            "left": 1503,
+            "top": 2310,
+            "right": 2341,
+            "bottom": 2451
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_51.png"
+    },
+    {
+        "word": "you",
+        "confidence": 0.8304851262144031,
+        "bounding_box": {
+            "left": 137,
+            "top": 2520,
+            "right": 361,
+            "bottom": 2646
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_52.png"
+    },
+    {
+        "word": "want",
+        "confidence": 0.9999556541442871,
+        "bounding_box": {
+            "left": 422,
+            "top": 2507,
+            "right": 729,
+            "bottom": 2630
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_53.png"
+    },
+    {
+        "word": "to",
+        "confidence": 0.9984974585124687,
+        "bounding_box": {
+            "left": 787,
+            "top": 2511,
+            "right": 918,
+            "bottom": 2615
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_54.png"
+    },
+    {
+        "word": "travel;",
+        "confidence": 0.47181538575915305,
+        "bounding_box": {
+            "left": 977,
+            "top": 2493,
+            "right": 1355,
+            "bottom": 2638
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_55.png"
+    },
+    {
+        "word": "or",
+        "confidence": 0.9063647947008172,
+        "bounding_box": {
+            "left": 1824,
+            "top": 2527,
+            "right": 1960,
+            "bottom": 2618
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_56.png"
+    },
+    {
+        "word": "work,",
+        "confidence": 0.8095960745265207,
+        "bounding_box": {
+            "left": 2019,
+            "top": 2490,
+            "right": 2336,
+            "bottom": 2638
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_57.png"
+    },
+    {
+        "word": "English",
+        "confidence": 0.939490341948775,
+        "bounding_box": {
+            "left": 144,
+            "top": 2664,
+            "right": 568,
+            "bottom": 2828
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_58.png"
+    },
+    {
+        "word": "can",
+        "confidence": 0.9999944939607979,
+        "bounding_box": {
+            "left": 595,
+            "top": 2693,
+            "right": 824,
+            "bottom": 2797
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_59.png"
+    },
+    {
+        "word": "make",
+        "confidence": 0.9993815422058105,
+        "bounding_box": {
+            "left": 871,
+            "top": 2667,
+            "right": 1186,
+            "bottom": 2795
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_60.png"
+    },
+    {
+        "word": "it",
+        "confidence": 0.9963431092884826,
+        "bounding_box": {
+            "left": 1217,
+            "top": 2684,
+            "right": 1318,
+            "bottom": 2787
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_61.png"
+    },
+    {
+        "word": "easier and",
+        "confidence": 0.9938069759701317,
+        "bounding_box": {
+            "left": 1350,
+            "top": 2665,
+            "right": 1987,
+            "bottom": 2798
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_62.png"
+    },
+    {
+        "word": "more",
+        "confidence": 0.9998323321342468,
+        "bounding_box": {
+            "left": 2033,
+            "top": 2693,
+            "right": 2327,
+            "bottom": 2793
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_63.png"
+    },
+    {
+        "word": "fun.",
+        "confidence": 0.5593641996383667,
+        "bounding_box": {
+            "left": 143,
+            "top": 2841,
+            "right": 377,
+            "bottom": 2970
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_64.png"
+    },
+    {
+        "word": "learning English",
+        "confidence": 0.9896047940278201,
+        "bounding_box": {
+            "left": 648,
+            "top": 2827,
+            "right": 1608,
+            "bottom": 3008
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_65.png"
+    },
+    {
+        "word": "is",
+        "confidence": 0.9698912821543748,
+        "bounding_box": {
+            "left": 1639,
+            "top": 2862,
+            "right": 1746,
+            "bottom": 2965
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_66.png"
+    },
+    {
+        "word": "definitely",
+        "confidence": 0.9998977996190501,
+        "bounding_box": {
+            "left": 1786,
+            "top": 2836,
+            "right": 2338,
+            "bottom": 3001
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_67.png"
+    },
+    {
+        "word": "worth itl",
+        "confidence": 0.9898370935192694,
+        "bounding_box": {
+            "left": 145,
+            "top": 3013,
+            "right": 636,
+            "bottom": 3152
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_68.png"
+    },
+    {
+        "word": "aspirantsessay com",
+        "confidence": 0.7358827975331377,
+        "bounding_box": {
+            "left": 761,
+            "top": 3335,
+            "right": 1817,
+            "bottom": 3472
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_69.png"
+    },
+    {
+        "word": "today:",
+        "confidence": 0.6830730603366747,
+        "bounding_box": {
+            "left": 478,
+            "top": 551,
+            "right": 891,
+            "bottom": 745
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_70.png"
+    },
+    {
+        "word": "speak",
+        "confidence": 0.9798017413287101,
+        "bounding_box": {
+            "left": 1522,
+            "top": 747,
+            "right": 1884,
+            "bottom": 912
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_71.png"
+    },
+    {
+        "word": "helps",
+        "confidence": 0.999562723566864,
+        "bounding_box": {
+            "left": 1382,
+            "top": 1069,
+            "right": 1736,
+            "bottom": 1276
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_72.png"
+    },
+    {
+        "word": "things",
+        "confidence": 0.9997512073978876,
+        "bounding_box": {
+            "left": 562,
+            "top": 1255,
+            "right": 958,
+            "bottom": 1448
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_73.png"
+    },
+    {
+        "word": "good",
+        "confidence": 0.9999556541442871,
+        "bounding_box": {
+            "left": 1564,
+            "top": 1445,
+            "right": 1883,
+            "bottom": 1605
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_74.png"
+    },
+    {
+        "word": "help",
+        "confidence": 0.9999221563339233,
+        "bounding_box": {
+            "left": 416,
+            "top": 1588,
+            "right": 721,
+            "bottom": 1792
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_75.png"
+    },
+    {
+        "word": "gives",
+        "confidence": 0.9999748366915521,
+        "bounding_box": {
+            "left": 1707,
+            "top": 2142,
+            "right": 2017,
+            "bottom": 2302
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_76.png"
+    },
+    {
+        "word": "cool",
+        "confidence": 0.9997161030769348,
+        "bounding_box": {
+            "left": 1222,
+            "top": 2319,
+            "right": 1489,
+            "bottom": 2460
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_77.png"
+    },
+    {
+        "word": "study,",
+        "confidence": 0.9944768059108682,
+        "bounding_box": {
+            "left": 1393,
+            "top": 2463,
+            "right": 1782,
+            "bottom": 2662
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_78.png"
+    },
+    {
+        "word": "So,",
+        "confidence": 0.9970826442048087,
+        "bounding_box": {
+            "left": 410,
+            "top": 2836,
+            "right": 641,
+            "bottom": 2991
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_79.png"
+    }
+]

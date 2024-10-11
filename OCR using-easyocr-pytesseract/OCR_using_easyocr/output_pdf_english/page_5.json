@@ -1,0 +1,585 @@
+[
+    {
+        "word": "Good Habits",
+        "confidence": 0.9997760234106299,
+        "bounding_box": {
+            "left": 834,
+            "top": 146,
+            "right": 1643,
+            "bottom": 275
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_1.png"
+    },
+    {
+        "word": "Good",
+        "confidence": 0.9999015927314758,
+        "bounding_box": {
+            "left": 146,
+            "top": 399,
+            "right": 478,
+            "bottom": 531
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_2.png"
+    },
+    {
+        "word": "habits",
+        "confidence": 0.9999586328673352,
+        "bounding_box": {
+            "left": 510,
+            "top": 401,
+            "right": 862,
+            "bottom": 525
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_3.png"
+    },
+    {
+        "word": "are",
+        "confidence": 0.9999814859593156,
+        "bounding_box": {
+            "left": 898,
+            "top": 438,
+            "right": 1088,
+            "bottom": 518
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_4.png"
+    },
+    {
+        "word": "essential for",
+        "confidence": 0.9987939548231072,
+        "bounding_box": {
+            "left": 1122,
+            "top": 399,
+            "right": 1837,
+            "bottom": 550
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_5.png"
+    },
+    {
+        "word": "success",
+        "confidence": 0.9985124954121208,
+        "bounding_box": {
+            "left": 1862,
+            "top": 434,
+            "right": 2309,
+            "bottom": 522
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_6.png"
+    },
+    {
+        "word": "Waking",
+        "confidence": 0.999966176314317,
+        "bounding_box": {
+            "left": 137,
+            "top": 553,
+            "right": 563,
+            "bottom": 728
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_7.png"
+    },
+    {
+        "word": "up early",
+        "confidence": 0.9963406204895695,
+        "bounding_box": {
+            "left": 601,
+            "top": 560,
+            "right": 1093,
+            "bottom": 723
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_8.png"
+    },
+    {
+        "word": "ensures",
+        "confidence": 0.9999879697906628,
+        "bounding_box": {
+            "left": 1132,
+            "top": 597,
+            "right": 1551,
+            "bottom": 693
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_9.png"
+    },
+    {
+        "word": "a",
+        "confidence": 0.9933474210814417,
+        "bounding_box": {
+            "left": 1605,
+            "top": 605,
+            "right": 1683,
+            "bottom": 688
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_10.png"
+    },
+    {
+        "word": "productive",
+        "confidence": 0.9999440186176982,
+        "bounding_box": {
+            "left": 1733,
+            "top": 551,
+            "right": 2336,
+            "bottom": 723
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_11.png"
+    },
+    {
+        "word": "Planning ahead",
+        "confidence": 0.9960664024762789,
+        "bounding_box": {
+            "left": 426,
+            "top": 731,
+            "right": 1316,
+            "bottom": 896
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_12.png"
+    },
+    {
+        "word": "aids",
+        "confidence": 0.9971163868904114,
+        "bounding_box": {
+            "left": 1345,
+            "top": 744,
+            "right": 1588,
+            "bottom": 861
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_13.png"
+    },
+    {
+        "word": "in",
+        "confidence": 0.9997022876437354,
+        "bounding_box": {
+            "left": 1620,
+            "top": 759,
+            "right": 1732,
+            "bottom": 860
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_14.png"
+    },
+    {
+        "word": "managing",
+        "confidence": 0.999959327948585,
+        "bounding_box": {
+            "left": 1773,
+            "top": 756,
+            "right": 2330,
+            "bottom": 893
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_15.png"
+    },
+    {
+        "word": "time",
+        "confidence": 0.9988523125648499,
+        "bounding_box": {
+            "left": 145,
+            "top": 926,
+            "right": 397,
+            "bottom": 1030
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_16.png"
+    },
+    {
+        "word": "efficiently: Regular exercise keeps",
+        "confidence": 0.7901300977783063,
+        "bounding_box": {
+            "left": 419,
+            "top": 885,
+            "right": 2346,
+            "bottom": 1078
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_17.png"
+    },
+    {
+        "word": "the",
+        "confidence": 0.9994896762521098,
+        "bounding_box": {
+            "left": 139,
+            "top": 1078,
+            "right": 338,
+            "bottom": 1203
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_18.png"
+    },
+    {
+        "word": "healthy and",
+        "confidence": 0.9929668423840864,
+        "bounding_box": {
+            "left": 697,
+            "top": 1051,
+            "right": 1388,
+            "bottom": 1238
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_19.png"
+    },
+    {
+        "word": "the",
+        "confidence": 0.999930693027759,
+        "bounding_box": {
+            "left": 1421,
+            "top": 1081,
+            "right": 1621,
+            "bottom": 1202
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_20.png"
+    },
+    {
+        "word": "mind",
+        "confidence": 0.9999650716781616,
+        "bounding_box": {
+            "left": 1663,
+            "top": 1077,
+            "right": 1943,
+            "bottom": 1209
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_21.png"
+    },
+    {
+        "word": "Reading daily enhances knowledge and",
+        "confidence": 0.9937164720976566,
+        "bounding_box": {
+            "left": 138,
+            "top": 1216,
+            "right": 2337,
+            "bottom": 1413
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_22.png"
+    },
+    {
+        "word": "vocabulary: Eating nutritious meals fuels",
+        "confidence": 0.9358030822547976,
+        "bounding_box": {
+            "left": 136,
+            "top": 1399,
+            "right": 2340,
+            "bottom": 1574
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_23.png"
+    },
+    {
+        "word": "energy",
+        "confidence": 0.9999678796715428,
+        "bounding_box": {
+            "left": 143,
+            "top": 1607,
+            "right": 533,
+            "bottom": 1740
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_24.png"
+    },
+    {
+        "word": "levels:",
+        "confidence": 0.5460443530560752,
+        "bounding_box": {
+            "left": 583,
+            "top": 1589,
+            "right": 929,
+            "bottom": 1717
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_25.png"
+    },
+    {
+        "word": "Maintaining",
+        "confidence": 0.9999188026986221,
+        "bounding_box": {
+            "left": 1004,
+            "top": 1579,
+            "right": 1666,
+            "bottom": 1742
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_26.png"
+    },
+    {
+        "word": "cleanliness",
+        "confidence": 0.9999618640479668,
+        "bounding_box": {
+            "left": 1722,
+            "top": 1590,
+            "right": 2331,
+            "bottom": 1712
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_27.png"
+    },
+    {
+        "word": "fosters",
+        "confidence": 0.9999582770515092,
+        "bounding_box": {
+            "left": 141,
+            "top": 1753,
+            "right": 532,
+            "bottom": 1885
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_28.png"
+    },
+    {
+        "word": "a",
+        "confidence": 0.9294576705707733,
+        "bounding_box": {
+            "left": 566,
+            "top": 1795,
+            "right": 642,
+            "bottom": 1872
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_29.png"
+    },
+    {
+        "word": "hygienic environment; Setting",
+        "confidence": 0.8062518647472191,
+        "bounding_box": {
+            "left": 675,
+            "top": 1743,
+            "right": 2340,
+            "bottom": 1930
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_30.png"
+    },
+    {
+        "word": "provides direction and motivation:",
+        "confidence": 0.7137720777621172,
+        "bounding_box": {
+            "left": 463,
+            "top": 1913,
+            "right": 2333,
+            "bottom": 2081
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_31.png"
+    },
+    {
+        "word": "Being kind and respectful builds strong",
+        "confidence": 0.7642124207983191,
+        "bounding_box": {
+            "left": 137,
+            "top": 2080,
+            "right": 2336,
+            "bottom": 2267
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_32.png"
+    },
+    {
+        "word": "relationships:",
+        "confidence": 0.7639655735026215,
+        "bounding_box": {
+            "left": 137,
+            "top": 2244,
+            "right": 881,
+            "bottom": 2420
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_33.png"
+    },
+    {
+        "word": "Avoiding",
+        "confidence": 0.9999474423078077,
+        "bounding_box": {
+            "left": 934,
+            "top": 2243,
+            "right": 1437,
+            "bottom": 2425
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_34.png"
+    },
+    {
+        "word": "procrastination",
+        "confidence": 0.9998807836041746,
+        "bounding_box": {
+            "left": 1493,
+            "top": 2265,
+            "right": 2332,
+            "bottom": 2414
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_35.png"
+    },
+    {
+        "word": "prevents",
+        "confidence": 0.8668630142990708,
+        "bounding_box": {
+            "left": 143,
+            "top": 2442,
+            "right": 629,
+            "bottom": 2586
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_36.png"
+    },
+    {
+        "word": "stress and last-minute",
+        "confidence": 0.6008700229583185,
+        "bounding_box": {
+            "left": 655,
+            "top": 2434,
+            "right": 1903,
+            "bottom": 2569
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_37.png"
+    },
+    {
+        "word": "rushes.",
+        "confidence": 0.9817333227698661,
+        "bounding_box": {
+            "left": 1939,
+            "top": 2438,
+            "right": 2315,
+            "bottom": 2559
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_38.png"
+    },
+    {
+        "word": "Reflecting",
+        "confidence": 0.9999778715500582,
+        "bounding_box": {
+            "left": 141,
+            "top": 2589,
+            "right": 717,
+            "bottom": 2760
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_39.png"
+    },
+    {
+        "word": "on",
+        "confidence": 0.9939407963962871,
+        "bounding_box": {
+            "left": 810,
+            "top": 2642,
+            "right": 951,
+            "bottom": 2722
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_40.png"
+    },
+    {
+        "word": "experiences",
+        "confidence": 0.9999932427097729,
+        "bounding_box": {
+            "left": 1040,
+            "top": 2605,
+            "right": 1723,
+            "bottom": 2764
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_41.png"
+    },
+    {
+        "word": "promotes",
+        "confidence": 0.9998622180204231,
+        "bounding_box": {
+            "left": 1801,
+            "top": 2608,
+            "right": 2336,
+            "bottom": 2756
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_42.png"
+    },
+    {
+        "word": "self-improvement:",
+        "confidence": 0.947339971757446,
+        "bounding_box": {
+            "left": 137,
+            "top": 2767,
+            "right": 1139,
+            "bottom": 2938
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_43.png"
+    },
+    {
+        "word": "Cultivating",
+        "confidence": 0.9999840412449584,
+        "bounding_box": {
+            "left": 1274,
+            "top": 2765,
+            "right": 1889,
+            "bottom": 2929
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_44.png"
+    },
+    {
+        "word": "habits leads to a",
+        "confidence": 0.8806395075199707,
+        "bounding_box": {
+            "left": 143,
+            "top": 2945,
+            "right": 1073,
+            "bottom": 3069
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_45.png"
+    },
+    {
+        "word": "fulfilling and balanced",
+        "confidence": 0.9994187682582386,
+        "bounding_box": {
+            "left": 1077,
+            "top": 2921,
+            "right": 2337,
+            "bottom": 3105
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_46.png"
+    },
+    {
+        "word": "life_",
+        "confidence": 0.5720704531105069,
+        "bounding_box": {
+            "left": 143,
+            "top": 3112,
+            "right": 341,
+            "bottom": 3239
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_47.png"
+    },
+    {
+        "word": "aspirantsessay com",
+        "confidence": 0.7358827975331377,
+        "bounding_box": {
+            "left": 761,
+            "top": 3335,
+            "right": 1817,
+            "bottom": 3472
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_48.png"
+    },
+    {
+        "word": "day:",
+        "confidence": 0.8723874092102051,
+        "bounding_box": {
+            "left": 128,
+            "top": 726,
+            "right": 411,
+            "bottom": 905
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_49.png"
+    },
+    {
+        "word": "sharp_",
+        "confidence": 0.9958464731550217,
+        "bounding_box": {
+            "left": 1964,
+            "top": 1062,
+            "right": 2317,
+            "bottom": 1238
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_50.png"
+    },
+    {
+        "word": "body",
+        "confidence": 0.9995386600494385,
+        "bounding_box": {
+            "left": 368,
+            "top": 1051,
+            "right": 687,
+            "bottom": 1241
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_51.png"
+    },
+    {
+        "word": "goals",
+        "confidence": 0.9987026593700966,
+        "bounding_box": {
+            "left": 146,
+            "top": 1925,
+            "right": 456,
+            "bottom": 2078
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_52.png"
+    },
+    {
+        "word": "good",
+        "confidence": 0.9999493360519409,
+        "bounding_box": {
+            "left": 2025,
+            "top": 2772,
+            "right": 2329,
+            "bottom": 2925
+        },
+        "roi_image_path": "output_pdf_english/extracted_text_53.png"
+    }
+]
