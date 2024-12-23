@@ -21,7 +21,7 @@ Before running the notebooks, ensure you have the following installed:
 - Python 3.x
 - Jupyter Notebook
 - Required Python libraries (listed below)
-
+-----------------------------
 ### Install Required Libraries
 
 You can install the required libraries using pip:
