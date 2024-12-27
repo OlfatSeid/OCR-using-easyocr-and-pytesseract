@@ -2,6 +2,7 @@
 
 This repository contains Python notebooks that perform Optical Character Recognition (OCR) on PDF documents. The notebooks extract text along with confidence scores, annotate the detected text in the images, and save the results in various formats. There are two versions available: one using EasyOCR and another using PyTesseract.
 
+
 ## Features
 
 - **Multi-language OCR Support**: The EasyOCR notebook supports OCR in both English and Arabic, while the PyTesseract notebook is configured for English.
@@ -48,9 +49,9 @@ Annotated PDF: A PDF with the original pages and annotated bounding boxes around
 - Annotates the original images with bounding boxes around detected text.
 3. ### JSON and Image Output
 
-Saves extracted text and bounding box data into individual JSON files.
+- Saves extracted text and bounding box data into individual JSON files.
 
-Cropped images of detected regions (ROIs) are saved separately.
+- Cropped images of detected regions (ROIs) are saved separately.
 
 4. ### Annotated PDF Generation
 
