@@ -59,7 +59,7 @@ Annotated PDF: A PDF with the original pages and annotated bounding boxes around
 
 5. ### Text File Output
 
-- Outputs extracted text from all pages into a text file.#######################
+- Outputs extracted text from all pages into a text file.
 ----------------------------------------------------------------
 #### Usage
 
