@@ -56,6 +56,6 @@ Cropped images of detected regions (ROIs) are saved separately.
 
 Combines annotated images into a single PDF file for easy review.
 
-Text File Output
+5. ### Text File Output
 
 Outputs extracted text from all pages into a text file.
