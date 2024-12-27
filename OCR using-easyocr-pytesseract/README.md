@@ -38,10 +38,23 @@ Annotated PDF: A PDF with the original pages and annotated bounding boxes around
 
 1. ### Multi-Language OCR
 
-Supports Arabic and English languages using EasyOCR.
+- Supports Arabic and English languages using EasyOCR.
 
 2. ### Box Creation
 
-Extracts text along with bounding box coordinates.
+- Extracts text along with bounding box coordinates.
 
-Annotates the original images with bounding boxes around detected text.
+- Annotates the original images with bounding boxes around detected text.
+JSON and Image Output
+
+Saves extracted text and bounding box data into individual JSON files.
+
+Cropped images of detected regions (ROIs) are saved separately.
+
+Annotated PDF Generation
+
+Combines annotated images into a single PDF file for easy review.
+
+Text File Output
+
+Outputs extracted text from all pages into a text file.
