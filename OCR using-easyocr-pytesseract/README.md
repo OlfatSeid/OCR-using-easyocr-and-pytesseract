@@ -33,6 +33,7 @@ pip install easyocr pytesseract pdf2image opencv-python-headless matplotlib Pill
 Text Files: Contains the extracted text for each page.
 JSON Files: Contains bounding box coordinates, confidence scores, and paths to extracted text images.
 Annotated PDF: A PDF with the original pages and annotated bounding boxes around the detected text.
+
 *************************************************************************************************
 ## Features
 
@@ -45,13 +46,13 @@ Annotated PDF: A PDF with the original pages and annotated bounding boxes around
 - Extracts text along with bounding box coordinates.
 
 - Annotates the original images with bounding boxes around detected text.
-JSON and Image Output
+3. ### JSON and Image Output
 
 Saves extracted text and bounding box data into individual JSON files.
 
 Cropped images of detected regions (ROIs) are saved separately.
 
-Annotated PDF Generation
+4. ### Annotated PDF Generation
 
 Combines annotated images into a single PDF file for easy review.
 
