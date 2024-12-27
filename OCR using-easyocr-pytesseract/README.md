@@ -27,32 +27,25 @@ This repository contains Python notebooks that perform Optical Character Recogni
 
 - Outputs extracted text from all pages into a text file.
 
-
-### Prerequisites
-
-- Before running the notebooks, ensure you have the following installed:
-
-- Python 3.x
-- Jupyter Notebook
-- Required Python libraries (listed below)
------------------------------
-### Install required Python libraries:
+## Install required Python libraries:
 You can install the required libraries using pip:
 
                    pip install easyocr pytesseract pdf2image opencv-python-headless matplotlib Pillow tqdm
 
 
 
-
 ### Usage
 
 1: **Initialize the OCR Readers** 
+
 The notebook initializes EasyOCR readers for Arabic and English text.
 
                             arabic_reader = easyocr.Reader(['ar'], gpu=True)
                             english_reader = easyocr.Reader(['en'], gpu=True)
 2: **Run OCR on PDFs** 
+
 Call the ocr_pdf_to``_individual_json function for each PDF file.
+
 Example for English PDF:
 
                            english_pdf_path = '/path/to/english.pdf'
@@ -62,3 +55,8 @@ Example for Arabic PDF:
 
                            arabic_pdf_path = '/path/to/arabic.pdf'
                            ocr_pdf_to_individual_json(arabic_pdf_path, language='ar', output_dir="output_pdf_arabic", save_pdf=True)
+## Notes
+
+- Ensure GPU support for faster OCR processing, especially for large PDFs.
+
+- Modify the font path in the script (/content/DejaVuSansCondensed-Bold.ttf) as per your system's font availability.
