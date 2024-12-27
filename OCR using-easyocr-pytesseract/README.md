@@ -27,7 +27,6 @@ This repository contains Python notebooks that perform Optical Character Recogni
 
 You can install the required libraries using pip:
 
-```bash
                    pip install easyocr pytesseract pdf2image opencv-python-headless matplotlib Pillow tqdm
 
 ## Output
