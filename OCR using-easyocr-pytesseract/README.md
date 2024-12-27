@@ -33,3 +33,15 @@ pip install easyocr pytesseract pdf2image opencv-python-headless matplotlib Pill
 Text Files: Contains the extracted text for each page.
 JSON Files: Contains bounding box coordinates, confidence scores, and paths to extracted text images.
 Annotated PDF: A PDF with the original pages and annotated bounding boxes around the detected text.
+*************************************************************************************************
+## Features
+
+1. ### Multi-Language OCR
+
+Supports Arabic and English languages using EasyOCR.
+
+2. ### Box Creation
+
+Extracts text along with bounding box coordinates.
+
+Annotates the original images with bounding boxes around detected text.
