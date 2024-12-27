@@ -36,23 +36,23 @@ This repository contains Python notebooks that perform Optical Character Recogni
 - Jupyter Notebook
 - Required Python libraries (listed below)
 -----------------------------
-### Install Required Libraries
-
+### Install required Python libraries:
 You can install the required libraries using pip:
 
                    pip install easyocr pytesseract pdf2image opencv-python-headless matplotlib Pillow tqdm
 
-## Output
-Text Files: Contains the extracted text for each page.
-JSON Files: Contains bounding box coordinates, confidence scores, and paths to extracted text images.
-Annotated PDF: A PDF with the original pages and annotated bounding boxes around the detected text.
 
 
 
 ### Usage
 
-Step 1: Initialize the OCR Readers
+1: Initialize the OCR Readers
 The script initializes EasyOCR readers for Arabic and English text.
 
                             arabic_reader = easyocr.Reader(['ar'], gpu=True)
                             english_reader = easyocr.Reader(['en'], gpu=True)
+2: Run OCR on PDFs
+Call the ocr_pdf_to``_individual_json function for each PDF file.
+Example for English PDF:
+
+                           
