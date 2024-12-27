@@ -17,7 +17,7 @@ This repository contains Python notebooks that perform Optical Character Recogni
 
 ### Prerequisites
 
-Before running the notebooks, ensure you have the following installed:
+- Before running the notebooks, ensure you have the following installed:
 
 - Python 3.x
 - Jupyter Notebook
