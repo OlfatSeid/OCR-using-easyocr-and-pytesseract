@@ -28,7 +28,7 @@ This repository contains Python notebooks that perform Optical Character Recogni
 You can install the required libraries using pip:
 
 ```bash
-pip install easyocr pytesseract pdf2image opencv-python-headless matplotlib Pillow tqdm
+                   pip install easyocr pytesseract pdf2image opencv-python-headless matplotlib Pillow tqdm
 
 ## Output
 Text Files: Contains the extracted text for each page.
@@ -60,11 +60,11 @@ Annotated PDF: A PDF with the original pages and annotated bounding boxes around
 5. ### Text File Output
 
 - Outputs extracted text from all pages into a text file.
---------------------------------------------------------------------
-#### Usage
+
+### Usage
 
 Step 1: Initialize the OCR Readers
+The script initializes EasyOCR readers for Arabic and English text.
 
-                              The script initializes EasyOCR readers for Arabic and English text.
-                         arabic_reader = easyocr.Reader(['ar'], gpu=True)
-                         english_reader = easyocr.Reader(['en'], gpu=True)
+                            arabic_reader = easyocr.Reader(['ar'], gpu=True)
+                            english_reader = easyocr.Reader(['en'], gpu=True)
