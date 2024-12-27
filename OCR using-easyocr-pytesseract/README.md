@@ -55,7 +55,7 @@ Annotated PDF: A PDF with the original pages and annotated bounding boxes around
 
 4. ### Annotated PDF Generation
 
-Combines annotated images into a single PDF file for easy review.
+- Combines annotated images into a single PDF file for easy review.
 
 5. ### Text File Output
 
