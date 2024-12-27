@@ -66,3 +66,5 @@ Annotated PDF: A PDF with the original pages and annotated bounding boxes around
 Step 1: Initialize the OCR Readers
 
 The script initializes EasyOCR readers for Arabic and English text.
+                         arabic_reader = easyocr.Reader(['ar'], gpu=True)
+                         english_reader = easyocr.Reader(['en'], gpu=True)
