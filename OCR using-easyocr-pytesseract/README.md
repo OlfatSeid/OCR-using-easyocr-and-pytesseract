@@ -61,3 +61,8 @@ Annotated PDF: A PDF with the original pages and annotated bounding boxes around
 
 - Outputs extracted text from all pages into a text file.
 ----------------------------------------------------------------
+## Usage
+
+Step 1: Initialize the OCR Readers
+
+The script initializes EasyOCR readers for Arabic and English text.
