@@ -47,10 +47,10 @@ The notebook initializes EasyOCR readers for Arabic and English text.
 Call the ocr_pdf_to``_individual_json function for each PDF file.
 
 Example for English PDF:
-
+```python
                            english_pdf_path = '/path/to/english.pdf'
                            ocr_pdf_to_individual_json(english_pdf_path, language='en', output_dir="output_pdf_english", save_pdf=True)
-                           
+```                        
 Example for Arabic PDF: 
 
                            arabic_pdf_path = '/path/to/arabic.pdf'
