@@ -39,7 +39,7 @@ You can install the required libraries using pip:
 1: **Initialize the OCR Readers** 
 
 The notebook initializes EasyOCR readers for Arabic and English text.
-```pthon
+```python
                             arabic_reader = easyocr.Reader(['ar'], gpu=True)
                             english_reader = easyocr.Reader(['en'], gpu=True)
 ```
@@ -53,9 +53,10 @@ Example for English PDF:
                            ocr_pdf_to_individual_json(english_pdf_path, language='en', output_dir="output_pdf_english", save_pdf=True)
 ```                        
 Example for Arabic PDF: 
-
+```python
                            arabic_pdf_path = '/path/to/arabic.pdf'
                            ocr_pdf_to_individual_json(arabic_pdf_path, language='ar', output_dir="output_pdf_arabic", save_pdf=True)
+```
 ## Notes
 
 - Ensure GPU support for faster OCR processing, especially for large PDFs.
