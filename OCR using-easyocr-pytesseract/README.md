@@ -2,7 +2,7 @@
 
 This repository contains Python notebooks that perform Optical Character Recognition (OCR) on PDF documents. The notebooks extract text along with confidence scores, annotate the detected text in the images, and save the results in various formats. There are two versions available: one using EasyOCR and another using PyTesseract.
 
-### Features
+## Features
 
 1. ### Multi-Language OCR
 
